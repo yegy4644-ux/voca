@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="theme-color" content="#16a34a">
+<title>초록이 보카</title>
+<style>
+  :root{
+    --green:#16a34a; --green-d:#15803d; --bg:#0f172a; --card:#1e293b;
+    --card2:#334155; --text:#e2e8f0; --muted:#94a3b8; --ok:#22c55e; --no:#ef4444;
+    --accent:#38bdf8;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+  html,body{margin:0;height:100%;overflow-x:hidden}
+  .example,.mn,.qword{overflow-wrap:break-word;word-break:break-word}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans KR",sans-serif;
+    background:var(--bg); color:var(--text); display:flex; flex-direction:column;
+    min-height:100vh; -webkit-font-smoothing:antialiased;
+  }
+  header{
+    background:var(--green); padding:12px 16px; display:flex; align-items:center;
+    justify-content:space-between; box-shadow:0 2px 10px rgba(0,0,0,.3); position:sticky; top:0; z-index:10;
+  }
+  header h1{font-size:18px; margin:0; font-weight:800; letter-spacing:-.5px}
+  header .stat{font-size:12px; opacity:.9}
+  main{flex:1; padding:16px; max-width:720px; width:100%; margin:0 auto}
+  .hidden{display:none!important}
+  button{font-family:inherit; cursor:pointer; border:none; border-radius:14px; font-weight:700}
+  .grid{display:grid; gap:12px}
+
+  /* home */
+  .progress-bar{height:10px;background:var(--card2);border-radius:99px;overflow:hidden;margin:10px 0 4px}
+  .progress-bar > div{height:100%;background:var(--green);transition:width .4s}
+  .modes{grid-template-columns:1fr 1fr; margin-top:18px}
+  .mode-btn{
+    background:var(--card); color:var(--text); padding:20px 14px; text-align:left;
+    border:1px solid var(--card2); min-height:104px; display:flex; flex-direction:column; justify-content:space-between;
+    transition:transform .1s, border-color .2s;
+  }
+  .mode-btn:active{transform:scale(.97)}
+  .mode-btn .ico{font-size:26px}
+  .mode-btn .t{font-size:16px;font-weight:800;margin-top:8px}
+  .mode-btn .d{font-size:12px;color:var(--muted);margin-top:2px;font-weight:500}
+  .mode-btn .badge{font-size:12px;color:var(--accent);font-weight:800}
+
+  .panel{background:var(--card);border:1px solid var(--card2);border-radius:16px;padding:16px;margin-top:14px}
+  .panel h3{margin:0 0 10px;font-size:14px;color:var(--muted);font-weight:700}
+  .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  label.lab{font-size:13px;color:var(--muted)}
+  select,input[type=number]{
+    background:var(--card2);color:var(--text);border:none;border-radius:10px;padding:8px 10px;font-size:14px;font-family:inherit
+  }
+  .ghost{background:var(--card2);color:var(--text);padding:10px 14px;font-size:13px}
+  .small{font-size:12px;color:var(--muted)}
+
+  /* study card */
+  .card-wrap{display:flex;flex-direction:column;min-height:calc(100vh - 130px)}
+  .timer{height:8px;background:var(--card2);border-radius:99px;overflow:hidden;margin-bottom:18px}
+  .timer > div{height:100%;background:var(--accent);width:100%}
+  .timer.warn > div{background:#f59e0b}
+  .timer.danger > div{background:var(--no)}
+  .qcard{
+    flex:1;background:var(--card);border:1px solid var(--card2);border-radius:20px;padding:24px 18px;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:8px;cursor:pointer
+  }
+  .qword{font-size:40px;font-weight:900;letter-spacing:-1px;word-break:break-word}
+  .qcat{font-size:12px;color:var(--muted);background:var(--card2);padding:3px 10px;border-radius:99px}
+  .qhint{color:var(--muted);font-size:13px;margin-top:10px}
+  .reveal{width:100%;margin-top:14px;text-align:left;animation:fade .25s}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1}}
+  .meaning{font-size:24px;font-weight:800;text-align:center;margin:4px 0 14px}
+  .pron{color:var(--muted);font-size:15px;margin-top:2px}
+  .stars{color:#fbbf24;font-size:13px;letter-spacing:2px}
+  .sense{border-left:3px solid var(--card2);padding:2px 0 2px 12px;margin:10px 0}
+  .sense .pos{display:inline-block;background:var(--card2);color:var(--accent);font-size:12px;font-weight:700;padding:2px 8px;border-radius:6px;margin-right:6px}
+  .sense .mn{font-size:19px;font-weight:800;display:inline}
+  .example{background:var(--card2);border-radius:10px;padding:10px 12px;margin-top:8px;font-size:14px;line-height:1.5}
+  .example .en{color:var(--text)} .example .ko{color:var(--muted);margin-top:4px}
+  .example b{color:var(--accent);font-weight:800}
+  .deriv{font-size:12px;color:var(--muted);margin-top:8px}
+  .deriv span{background:var(--card2);padding:2px 8px;border-radius:6px;margin-right:5px}
+  .tipbtn{background:var(--card2);color:#fbbf24;font-size:13px;padding:8px 12px;border-radius:10px;margin-top:12px;width:100%;text-align:left}
+  .tipbox{background:#422006;border:1px solid #a16207;border-radius:10px;padding:11px;margin-top:6px;font-size:13.5px;line-height:1.55;white-space:pre-wrap}
+  .sec-title{font-size:12px;color:var(--muted);font-weight:700;margin:12px 0 6px;text-transform:uppercase;letter-spacing:.5px}
+  .syns{display:flex;flex-wrap:wrap;gap:7px}
+  .syn{background:var(--card2);padding:6px 11px;border-radius:99px;font-size:14px}
+  .mnemo{background:#422006;border:1px solid #a16207;border-radius:12px;padding:12px;font-size:15px;line-height:1.5;white-space:pre-wrap}
+  .mnemo.empty{background:var(--card2);border-style:dashed;border-color:var(--muted);color:var(--muted);font-size:13px}
+  textarea{
+    width:100%;background:var(--card2);color:var(--text);border:1px solid var(--card2);border-radius:12px;
+    padding:11px;font-size:15px;font-family:inherit;resize:vertical;min-height:72px;line-height:1.5
+  }
+  .grade{grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}
+  .gbtn{padding:18px;font-size:17px;color:#fff}
+  .gbtn.no{background:var(--no)} .gbtn.ok{background:var(--ok)}
+  .reveal-btn{width:100%;padding:16px;font-size:16px;background:var(--green);color:#fff;margin-top:14px}
+  .controls{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+  .controls .idx{font-size:13px;color:var(--muted)}
+  .controls .x{background:var(--card2);color:var(--text);width:36px;height:36px;border-radius:99px;font-size:16px;padding:0}
+
+  /* quiz options */
+  .opts{display:grid;gap:10px;margin-top:18px}
+  .opt{background:var(--card);border:1px solid var(--card2);color:var(--text);padding:16px;font-size:16px;text-align:left}
+  .opt.correct{background:var(--ok);color:#fff;border-color:var(--ok)}
+  .opt.wrong{background:var(--no);color:#fff;border-color:var(--no)}
+  .opt:disabled{opacity:1}
+
+  /* done screen */
+  .done{text-align:center;padding:40px 16px}
+  .done .big{font-size:54px}
+  .done h2{margin:10px 0 4px}
+  .toast{
+    position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--card2);
+    color:var(--text);padding:10px 18px;border-radius:99px;font-size:14px;box-shadow:0 4px 16px rgba(0,0,0,.4);z-index:50
+  }
+  .stat-grid{grid-template-columns:1fr 1fr 1fr;text-align:center}
+  .stat-grid .s{background:var(--card2);border-radius:12px;padding:12px 6px}
+  .stat-grid .n{font-size:22px;font-weight:900}
+  .stat-grid .l{font-size:11px;color:var(--muted)}
+  a.link{color:var(--accent);font-size:13px}
+  .fullbtn{width:100%;padding:16px;font-size:16px;background:var(--green);color:#fff;margin-top:8px}
+</style>
+</head>
+<body>
+<header>
+  <h1>🟢 초록이 보카</h1>
+  <div class="stat" id="hstat"></div>
+</header>
+<main>
+  <!-- HOME -->
+  <section id="home">
+    <div class="panel">
+      <h3>전체 진도</h3>
+      <div class="progress-bar"><div id="homeBar" style="width:0%"></div></div>
+      <div class="row" style="justify-content:space-between">
+        <span class="small" id="homeProg">0 / 0 외움</span>
+        <span class="small" id="homeDue">오늘 복습 0개</span>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3>학습 범위</h3>
+      <div class="row">
+        <label class="lab">DAY</label>
+        <select id="catSel"></select>
+        <label class="lab">단어 수</label>
+        <select id="countSel">
+          <option value="10">10</option>
+          <option value="20" selected>20</option>
+          <option value="30">30</option>
+          <option value="50">50</option>
+          <option value="9999">전체</option>
+        </select>
+      </div>
+      <div class="row" style="margin-top:10px">
+        <label class="lab">제한시간</label>
+        <select id="timeSel">
+          <option value="0">없음</option>
+          <option value="5">5초</option>
+          <option value="7" selected>7초</option>
+          <option value="10">10초</option>
+          <option value="15">15초</option>
+        </select>
+        <label class="lab"><input type="checkbox" id="newFirst" checked> 안 외운 것 우선</label>
+      </div>
+    </div>
+
+    <div class="grid modes">
+      <button class="mode-btn" data-mode="study">
+        <div class="ico">⏱️</div>
+        <div><div class="t">외우기</div><div class="d">제한시간 + 자가체크</div></div>
+      </button>
+      <button class="mode-btn" data-mode="review">
+        <div class="ico">🔁</div>
+        <div><div class="t">복습</div><div class="d badge" id="reviewBadge">오늘 0개</div></div>
+      </button>
+      <button class="mode-btn" data-mode="syn">
+        <div class="ico">🔗</div>
+        <div><div class="t">동의어</div><div class="d">동의어 떠올리기</div></div>
+      </button>
+      <button class="mode-btn" data-mode="quiz">
+        <div class="ico">✅</div>
+        <div><div class="t">퀴즈</div><div class="d">영↔한 4지선다</div></div>
+      </button>
+    </div>
+
+    <div class="panel">
+      <h3>백업 / 복원 (기기 간 이동)</h3>
+      <p class="small">진도와 경선식 연상법을 파일로 내보내고, 다른 기기에서 가져오세요.</p>
+      <div class="row">
+        <button class="ghost" id="exportBtn">📤 내보내기</button>
+        <button class="ghost" id="importBtn">📥 가져오기</button>
+        <button class="ghost" id="resetBtn">⚠️ 진도 초기화</button>
+      </div>
+      <input type="file" id="importFile" accept="application/json" class="hidden">
+    </div>
+    <p class="small" style="text-align:center;margin-top:18px"><span id="totalCount">0</span>단어 (DAY 1~7) · 진도는 이 브라우저에 저장됩니다</p>
+  </section>
+
+  <!-- STUDY / REVIEW / SYN -->
+  <section id="study" class="hidden">
+    <div class="controls">
+      <button class="x" id="quitStudy">✕</button>
+      <span class="idx" id="studyIdx"></span>
+      <span class="idx" id="studyTitle"></span>
+    </div>
+    <div class="card-wrap">
+      <div class="timer" id="timerBar"><div id="timerFill"></div></div>
+      <div class="qcard" id="qcard"></div>
+      <div id="afterArea"></div>
+    </div>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="quiz" class="hidden">
+    <div class="controls">
+      <button class="x" id="quitQuiz">✕</button>
+      <span class="idx" id="quizIdx"></span>
+      <span class="idx" id="quizScore"></span>
+    </div>
+    <div class="qcard" style="min-height:120px;cursor:default" id="quizQ"></div>
+    <div class="opts" id="quizOpts"></div>
+  </section>
+
+  <!-- DONE -->
+  <section id="done" class="hidden">
+    <div class="done">
+      <div class="big" id="doneEmoji">🎉</div>
+      <h2 id="doneTitle">완료!</h2>
+      <p class="small" id="doneSub"></p>
+      <div class="grid stat-grid" style="margin:20px 0">
+        <div class="s"><div class="n" id="dOk">0</div><div class="l">알았음</div></div>
+        <div class="s"><div class="n" id="dNo">0</div><div class="l">몰랐음</div></div>
+        <div class="s"><div class="n" id="dDue">0</div><div class="l">남은 복습</div></div>
+      </div>
+      <button class="fullbtn" id="againBtn">다시</button>
+      <button class="fullbtn ghost" id="homeBtn" style="background:var(--card2)">홈으로</button>
+    </div>
+  </section>
+</main>
+
+<script src="data/words.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
