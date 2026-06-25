@@ -33,6 +33,7 @@ function wMeaning(w){ return w.senses.map(s=>s.meaning).join(" / "); }
 function wSyns(w){ const all=[]; w.senses.forEach(s=>s.synonyms.forEach(x=>{ if(!all.includes(x)) all.push(x); })); return all; }
 function isKey(w,x){ return w.keys && w.keys.includes(norm(x)); }
 function synChip(w,x){ return `<span class="syn${isKey(w,x)?' key':''}">${esc(x)}</span>`; }
+function pickSyn(o){ const s=wSyns(o); return s.length? s[Math.floor(Math.random()*s.length)] : null; }
 function boldWord(sentence, word){
   // bold the headword (and simple inflections) in example
   const base = word.split(" ")[0].replace(/[^a-zA-Z]/g,"");
@@ -198,26 +199,50 @@ let Q=null;
 function startQuiz(){
   const list=buildSession("study");
   if(list.length<4){ toast("퀴즈는 최소 4단어 필요"); return; }
-  Q={list,i:0,score:0}; show("quiz"); renderQuiz();
+  Q={list,i:0,score:0,type:($("#quizType")?$("#quizType").value:"syn")}; show("quiz"); renderQuiz();
 }
 function renderQuiz(){
-  const w=Q.list[Q.i]; const e2k=Math.random()<0.5;
+  const w=Q.list[Q.i];
   $("#quizIdx").textContent=`${Q.i+1} / ${Q.list.length}`;
   $("#quizScore").textContent=`${Q.score}점`;
-  const others=shuffle(WORDS.filter(x=>x.id!==w.id)).slice(0,3);
-  const opts=shuffle([w,...others]);
-  $("#quizQ").innerHTML = e2k
-    ? `<div class="qcat">뜻 고르기</div><div class="qword" style="font-size:32px">${esc(w.word)}</div>`
-    : `<div class="qcat">단어 고르기</div><div class="meaning" style="margin:6px 0;font-size:20px">${esc(wMeaning(w))}</div>`;
+  let mode=Q.type==="mix" ? (Math.random()<0.5?"syn":"mean") : Q.type;
+  if(mode==="syn" && wSyns(w).length===0) mode="mean";   // fallback
   const box=$("#quizOpts"); box.innerHTML="";
-  opts.forEach(o=>{
-    const b=document.createElement("button"); b.className="opt";
-    b.textContent = e2k ? wMeaning(o) : o.word;
+  let answerText, options;
+
+  if(mode==="syn"){
+    const keyList=wSyns(w).filter(x=>isKey(w,x));
+    answerText=(keyList.length?keyList:wSyns(w))[0];
+    const used=new Set(wSyns(w).map(norm));   // exclude this word's own synonyms from distractors
+    const ds=[];
+    for(const o of shuffle(WORDS)){
+      if(ds.length>=3) break;
+      if(o.id===w.id) continue;
+      const s=pickSyn(o);
+      if(s && !used.has(norm(s))){ ds.push(s); used.add(norm(s)); }
+    }
+    options=shuffle([answerText,...ds]);
+    $("#quizQ").innerHTML=`<div class="qcat">동의어 고르기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div><div class="pron" style="margin-top:6px">${esc(wMeaning(w))}</div>`;
+  } else {
+    answerText=wMeaning(w);
+    const used=new Set([norm(answerText)]); const ds=[];
+    for(const o of shuffle(WORDS)){
+      if(ds.length>=3) break;
+      if(o.id===w.id) continue;
+      const m=wMeaning(o);
+      if(!used.has(norm(m))){ ds.push(m); used.add(norm(m)); }
+    }
+    options=shuffle([answerText,...ds]);
+    $("#quizQ").innerHTML=`<div class="qcat">우리말 뜻 맞추기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div>`;
+  }
+
+  options.forEach(opt=>{
+    const b=document.createElement("button"); b.className="opt"; b.textContent=opt;
     b.onclick=()=>{
-      const right=o.id===w.id;
+      const right = opt===answerText;
       [...box.children].forEach(c=>c.disabled=true);
       b.classList.add(right?"correct":"wrong");
-      if(!right){ const ans=e2k?wMeaning(w):w.word; [...box.children].forEach(c=>{ if(c.textContent===ans) c.classList.add("correct"); }); }
+      if(!right){ [...box.children].forEach(c=>{ if(c.textContent===answerText) c.classList.add("correct"); }); }
       grade(w.id,right); if(right)Q.score++;
       setTimeout(()=>{ Q.i++; if(Q.i>=Q.list.length) finishQuiz(); else renderQuiz(); }, right?500:1100);
     };
