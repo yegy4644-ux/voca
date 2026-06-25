@@ -28,8 +28,11 @@ function grade(id, correct){
 
 /* ---- word helpers (new schema with senses) ---- */
 const DAYS = [...new Set(WORDS.map(w=>w.day))].sort((a,b)=>a-b);
+const norm = s => (s+"").toLowerCase().replace(/\s+/g," ").trim();
 function wMeaning(w){ return w.senses.map(s=>s.meaning).join(" / "); }
 function wSyns(w){ const all=[]; w.senses.forEach(s=>s.synonyms.forEach(x=>{ if(!all.includes(x)) all.push(x); })); return all; }
+function isKey(w,x){ return w.keys && w.keys.includes(norm(x)); }
+function synChip(w,x){ return `<span class="syn${isKey(w,x)?' key':''}">${esc(x)}</span>`; }
 function boldWord(sentence, word){
   // bold the headword (and simple inflections) in example
   const base = word.split(" ")[0].replace(/[^a-zA-Z]/g,"");
@@ -103,7 +106,7 @@ function renderCard(){
     qcard.innerHTML = `
       <div class="qcat">DAY ${w.day} · 동의어로 단어 맞히기</div>
       <div class="syns" style="justify-content:center;margin-top:14px">
-        ${wSyns(w).slice(0,8).map(s=>`<span class="syn">${esc(s)}</span>`).join("")||'<span class="small">동의어 없음</span>'}
+        ${wSyns(w).slice(0,8).map(s=>synChip(w,s)).join("")||'<span class="small">동의어 없음</span>'}
       </div>
       <div class="qhint">탭하면 정답 공개</div>`;
   } else {
@@ -139,16 +142,20 @@ function reveal(){
   const senses = w.senses.map(s=>`
     <div class="sense">
       <div><span class="pos">${esc(s.pos)}</span><span class="mn">${esc(s.meaning)}</span></div>
-      <div class="syns" style="margin-top:7px">${s.synonyms.map(x=>`<span class="syn">${esc(x)}</span>`).join("")}</div>
+      <div class="syns" style="margin-top:7px">${s.synonyms.map(x=>synChip(w,x)).join("")}</div>
       ${s.example?`<div class="example"><div class="en">${boldWord(s.example,w.word)}</div><div class="ko">${esc(s.example_ko||"")}</div></div>`:""}
     </div>`).join("");
 
+  const legend = `<div class="legend"><b>파란 칩</b> = 핵심(시험 출제) 동의어</div>`;
+  const nuance = w.nuance?`<div class="sec-title" style="margin-top:14px">어감 / 뉘앙스</div><div class="nuance">${esc(w.nuance)}</div>`:"";
   const deriv = (w.derivatives&&w.derivatives.length)?`<div class="deriv">파생어 ${w.derivatives.map(d=>`<span>${esc(d)}</span>`).join("")}</div>`:"";
   const tip = w.exam_tip?`<button class="tipbtn" id="tipBtn">💡 최신출제포인트 보기</button><div class="tipbox hidden" id="tipBox">${esc(w.exam_tip)}</div>`:"";
 
   $("#afterArea").innerHTML = `
     <div class="reveal">
       ${senses}
+      ${legend}
+      ${nuance}
       ${deriv}
       ${tip}
       <div class="sec-title" style="margin-top:14px">경선식 연상법 ✏️</div>
