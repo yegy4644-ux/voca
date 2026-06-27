@@ -67,7 +67,24 @@ function renderHome(){
 /* ---- session ---- */
 function pool(){
   const day = $("#catSel").value;
-  return WORDS.filter(w=> day==="__all" || w.day===parseInt(day,10));
+  let arr = WORDS.filter(w=> day==="__all" || w.day===parseInt(day,10));
+  if($("#ksOnly") && $("#ksOnly").checked) arr = arr.filter(w=>w.ks_has);
+  return arr;
+}
+function ksHtml(w){
+  if(!w.ks_has) return "";
+  let html = `<div class="sec-title" style="margin-top:14px">📖 경선식 (안 외워질 때 펴보기)</div><div class="ks">`;
+  if(w.ks_head && w.ks_head.length){
+    html += `<div class="ks-head">표제어 ${esc(w.word)} · ${w.ks_head.map(p=>"p."+p).join(", ")}</div>`;
+  }
+  let ss = (w.ks_syn||[]).slice().sort((a,b)=>(b.k?1:0)-(a.k?1:0));
+  if(ss.length){
+    const shown = ss.slice(0,5).map(s=>`<span class="${s.k?'kk':''}">${esc(s.t)} ${s.p.map(p=>"p."+p).join("/")}</span>`).join(" · ");
+    const more = ss.length>5 ? ` <span class="small">외 ${ss.length-5}개</span>` : "";
+    html += `<div class="ks-syn">동의어 · ${shown}${more}</div>`;
+  }
+  html += `</div>`;
+  return html;
 }
 function shuffle(a){ a=a.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
 function buildSession(mode){
@@ -157,6 +174,7 @@ function reveal(){
       ${senses}
       ${legend}
       ${nuance}
+      ${ksHtml(w)}
       ${deriv}
       ${tip}
       <div class="sec-title" style="margin-top:14px">경선식 연상법 ✏️</div>
