@@ -34,6 +34,28 @@ function wSyns(w){ const all=[]; w.senses.forEach(s=>s.synonyms.forEach(x=>{ if(
 function isKey(w,x){ return w.keys && w.keys.includes(norm(x)); }
 function synChip(w,x){ return `<span class="syn${isKey(w,x)?' key':''}">${esc(x)}</span>`; }
 function pickSyn(o){ const s=wSyns(o); return s.length? s[Math.floor(Math.random()*s.length)] : null; }
+
+/* ---- 발음 (Web Speech API) ---- */
+let VOICES=[];
+function loadVoices(){ try{ VOICES=window.speechSynthesis.getVoices()||[]; }catch{} }
+if("speechSynthesis" in window){ loadVoices(); window.speechSynthesis.onvoiceschanged=loadVoices; }
+function speak(text){
+  if(!("speechSynthesis" in window)){ toast("이 브라우저는 발음을 지원하지 않아요"); return; }
+  try{
+    window.speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(text);
+    u.lang="en-US"; u.rate=0.92;
+    const v=VOICES.find(v=>/en[-_]US/i.test(v.lang)) || VOICES.find(v=>/^en/i.test(v.lang));
+    if(v) u.voice=v;
+    window.speechSynthesis.speak(u);
+  }catch(e){}
+}
+function mountSpk(word, auto){
+  const b=document.getElementById("spkBtn");
+  if(b) b.onclick=(e)=>{ e.stopPropagation(); speak(word); };
+  if(auto && $("#autoSpeak") && $("#autoSpeak").checked) setTimeout(()=>speak(word), 250);
+}
+const SPKBTN = `<button class="spk" id="spkBtn" title="발음 듣기">🔊</button>`;
 function boldWord(sentence, word){
   // bold the headword (and simple inflections) in example
   const base = word.split(" ")[0].replace(/[^a-zA-Z]/g,"");
@@ -132,7 +154,9 @@ function renderCard(){
       <div class="qcat">DAY ${w.day} <span class="stars">${stars}</span></div>
       <div class="qword">${esc(w.word)}</div>
       ${w.pron?`<div class="pron">[${esc(w.pron)}]</div>`:""}
+      ${SPKBTN}
       <div class="qhint">탭하면 뜻 공개</div>`;
+    mountSpk(w.word, true);
   }
   const limit = parseInt($("#timeSel").value,10);
   const bar = $("#timerBar"), fill = $("#timerFill");
@@ -155,7 +179,9 @@ function reveal(){
   $("#qcard").innerHTML = `
     <div class="qcat">DAY ${w.day} <span class="stars">${stars}</span></div>
     <div class="qword">${esc(w.word)}</div>
-    ${w.pron?`<div class="pron">[${esc(w.pron)}]</div>`:""}`;
+    ${w.pron?`<div class="pron">[${esc(w.pron)}]</div>`:""}
+    ${SPKBTN}`;
+  mountSpk(w.word, S.mode==="syn");
 
   const senses = w.senses.map(s=>`
     <div class="sense">
@@ -177,7 +203,7 @@ function reveal(){
       ${ksHtml(w)}
       ${deriv}
       ${tip}
-      <div class="sec-title" style="margin-top:14px">경선식 연상법 ✏️</div>
+      <div class="sec-title" style="margin-top:14px">📝 내 메모</div>
       <div id="mnemoView"></div>
       <div class="grid grade">
         <button class="gbtn no" id="bNo">✕ 몰랐음</button>
@@ -194,18 +220,18 @@ function renderMnemo(w){
   const box=$("#mnemoView"); const m=mnemo[w.id]||"";
   box.innerHTML = m
     ? `<div class="mnemo" id="mClick">${esc(m)}</div>`
-    : `<div class="mnemo empty" id="mClick">+ 경선식 연상법 추가 (사진 보고 입력)</div>`;
+    : `<div class="mnemo empty" id="mClick">+ 메모 추가 (탭해서 입력 — 나만의 암기 포인트)</div>`;
   $("#mClick").onclick=()=>editMnemo(w);
 }
 function editMnemo(w){
   $("#mnemoView").innerHTML = `
-    <textarea id="mEdit" placeholder="경선식 연상법 입력...">${esc(mnemo[w.id]||"")}</textarea>
+    <textarea id="mEdit" placeholder="메모 입력... (예: 헷갈리는 점, 나만의 암기법)">${esc(mnemo[w.id]||"")}</textarea>
     <div class="row" style="margin-top:8px">
       <button class="ghost" id="mSave" style="background:var(--green);color:#fff">저장</button>
       <button class="ghost" id="mCancel">취소</button>
     </div>`;
   const ta=$("#mEdit"); ta.focus();
-  $("#mSave").onclick=()=>{ const v=ta.value.trim(); if(v) mnemo[w.id]=v; else delete mnemo[w.id]; save(LS_MNEMO,mnemo); renderMnemo(w); toast("연상법 저장됨"); };
+  $("#mSave").onclick=()=>{ const v=ta.value.trim(); if(v) mnemo[w.id]=v; else delete mnemo[w.id]; save(LS_MNEMO,mnemo); renderMnemo(w); toast("메모 저장됨"); };
   $("#mCancel").onclick=()=>renderMnemo(w);
 }
 
@@ -240,7 +266,7 @@ function renderQuiz(){
       if(s && !used.has(norm(s))){ ds.push(s); used.add(norm(s)); }
     }
     options=shuffle([answerText,...ds]);
-    $("#quizQ").innerHTML=`<div class="qcat">동의어 고르기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div><div class="pron" style="margin-top:6px">${esc(wMeaning(w))}</div>`;
+    $("#quizQ").innerHTML=`<div class="qcat">동의어 고르기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div><div class="pron" style="margin-top:6px">${esc(wMeaning(w))}</div>${SPKBTN}`;
   } else {
     answerText=wMeaning(w);
     const used=new Set([norm(answerText)]); const ds=[];
@@ -251,8 +277,9 @@ function renderQuiz(){
       if(!used.has(norm(m))){ ds.push(m); used.add(norm(m)); }
     }
     options=shuffle([answerText,...ds]);
-    $("#quizQ").innerHTML=`<div class="qcat">우리말 뜻 맞추기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div>`;
+    $("#quizQ").innerHTML=`<div class="qcat">우리말 뜻 맞추기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div>${SPKBTN}`;
   }
+  mountSpk(w.word, true);
 
   options.forEach(opt=>{
     const b=document.createElement("button"); b.className="opt"; b.textContent=opt;
@@ -317,7 +344,7 @@ $("#importFile").onchange=(e)=>{
   r.readAsText(f); e.target.value="";
 };
 $("#resetBtn").onclick=()=>{
-  if(confirm("진도(외운 단어/복습 일정)를 모두 초기화할까요?\n경선식 연상법은 유지됩니다.")){
+  if(confirm("진도(외운 단어/복습 일정)를 모두 초기화할까요?\n내 메모는 유지됩니다.")){
     prog={}; save(LS_PROG,prog); renderHome(); toast("초기화 완료");
   }
 };
