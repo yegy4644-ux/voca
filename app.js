@@ -203,7 +203,7 @@ function reveal(){
 
   const senses = w.senses.map(s=>`
     <div class="sense">
-      <div><span class="pos">${esc(s.pos)}</span><span class="mn">${esc(s.meaning)}</span></div>
+      <div>${s.pos?`<span class="pos">${esc(s.pos)}</span>`:""}<span class="mn">${esc(s.meaning)}</span></div>
       <div class="syns" style="margin-top:7px">${s.synonyms.map(x=>synChip(w,x)).join("")}</div>
       ${s.example?`<div class="example"><div class="en">${boldWord(s.example,w.word)}</div><div class="ko">${esc(s.example_ko||"")}</div></div>`:""}
     </div>`).join("");
