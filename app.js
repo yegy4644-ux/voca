@@ -83,7 +83,7 @@ function boldWord(sentence, word){
 
 /* ---- elements ---- */
 const $ = s => document.querySelector(s);
-const sections = ["home","study","quiz","done"];
+const sections = ["home","study","quiz","sheet","done"];
 function show(sec){ sections.forEach(s=>$("#"+s).classList.toggle("hidden", s!==sec)); window.scrollTo(0,0); }
 function toast(msg){ const t=document.createElement("div"); t.className="toast"; t.textContent=msg; document.body.appendChild(t); setTimeout(()=>t.remove(),1600); }
 function esc(s){ return (s+"").replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
@@ -259,9 +259,87 @@ function next(){ S.i++; if(S.i>=S.list.length){ finish(); return; } renderCard()
 /* ================= QUIZ ================= */
 let Q=null;
 function startQuiz(){
+  if($("#sheetMode") && $("#sheetMode").checked){ startSheet(); return; }
   const list=buildSession("study");
   if(list.length<4){ toast("퀴즈는 최소 4단어 필요"); return; }
   Q={list,i:0,score:0,type:($("#quizType")?$("#quizType").value:"syn")}; show("quiz"); renderQuiz();
+}
+
+/* ===== 한 문제 생성 (시험지/단문제 공용) ===== */
+function makeQ(w, baseMode){
+  let mode = baseMode==="mix" ? (Math.random()<0.5?"syn":"mean") : baseMode;
+  if(mode==="syn" && wSyns(w).length===0) mode="mean";
+  let answer, options, sub="";
+  if(mode==="syn"){
+    const keyList=wSyns(w).filter(x=>isKey(w,x));
+    answer=(keyList.length?keyList:wSyns(w))[0];
+    const used=new Set(wSyns(w).map(norm)); const ds=[];
+    for(const o of shuffle(WORDS)){ if(ds.length>=3)break; if(o.id===w.id)continue; const s=pickSyn(o); if(s&&!used.has(norm(s))){ds.push(s);used.add(norm(s));} }
+    options=shuffle([answer,...ds]); sub=wMeaning(w);
+  } else {
+    answer=wMeaning(w);
+    const used=new Set([norm(answer)]); const ds=[];
+    for(const o of shuffle(WORDS)){ if(ds.length>=3)break; if(o.id===w.id)continue; const m=wMeaning(o); if(!used.has(norm(m))){ds.push(m);used.add(norm(m));} }
+    options=shuffle([answer,...ds]);
+  }
+  return {w, mode, answer, options, sub};
+}
+
+/* ===== 시험지 모드 ===== */
+let SH=null;
+const CIRC="ⓐⓑⓒⓓ";
+function startSheet(){
+  const list=buildSession("study");
+  if(list.length<4){ toast("시험지는 최소 4단어 필요"); return; }
+  const type=$("#quizType")?$("#quizType").value:"syn";
+  SH={ qs:list.map(w=>makeQ(w,type)), graded:false };
+  $("#sheetInfo").textContent = type==="mean" ? "단어의 우리말 뜻을 고르세요" : "왼쪽 단어의 동의어를 고르세요";
+  renderSheet(); show("sheet");
+}
+function renderSheet(){
+  const body=$("#sheetBody");
+  body.innerHTML = SH.qs.map((q,qi)=>`
+    <div class="sq" id="sq${qi}">
+      <div class="sqw">${qi+1}. ${esc(q.w.word)} <button class="spk mini" data-w="${esc(q.w.word)}">🔊</button></div>
+      ${q.sub?`<div class="sqsub">${esc(q.sub)}</div>`:""}
+      <div class="sqopts">
+        ${q.options.map((o,oi)=>`<button class="sopt" data-q="${qi}" data-correct="${o===q.answer?1:0}">${CIRC[oi]||"·"} ${esc(o)}</button>`).join("")}
+      </div>
+    </div>`).join("") + `<button class="fullbtn" id="gradeBtn">채점하기</button>`;
+
+  body.querySelectorAll(".sopt").forEach(b=>{
+    b.onclick=()=>{
+      if(SH.graded) return;
+      const qi=b.dataset.q;
+      body.querySelectorAll(`.sopt[data-q="${qi}"]`).forEach(x=>x.classList.remove("sel"));
+      b.classList.add("sel");
+    };
+  });
+  body.querySelectorAll(".spk.mini").forEach(b=>{ b.onclick=(e)=>{ e.stopPropagation(); speak(b.dataset.w); }; });
+  $("#gradeBtn").onclick=gradeSheet;
+}
+function gradeSheet(){
+  if(SH.graded) return; SH.graded=true;
+  let score=0;
+  SH.qs.forEach((q,qi)=>{
+    const wrap=document.getElementById("sq"+qi);
+    const sel=wrap.querySelector(".sopt.sel");
+    const correctBtn=wrap.querySelector('.sopt[data-correct="1"]');
+    if(correctBtn) correctBtn.classList.add("correct");
+    let right=false;
+    if(sel){ if(sel===correctBtn) right=true; else sel.classList.add("wrong"); }
+    if(right) score++;
+    grade(q.w.id, right);
+    wrap.querySelectorAll(".sopt").forEach(b=>b.disabled=true);
+  });
+  const gb=$("#gradeBtn");
+  gb.outerHTML = `<div class="sheet-score">${score} / ${SH.qs.length} 정답</div>
+    <button class="fullbtn" id="sheetAgain">다시 풀기</button>
+    <button class="fullbtn" id="sheetHome" style="background:var(--card2)">홈으로</button>`;
+  $("#sheetAgain").onclick=startSheet;
+  $("#sheetHome").onclick=()=>{ show("home"); renderHome(); };
+  renderHome();
+  window.scrollTo(0,0);
 }
 function renderQuiz(){
   const w=Q.list[Q.i];
@@ -340,6 +418,7 @@ document.querySelectorAll(".mode-btn").forEach(b=>{
 $("#qcard").addEventListener("click", ()=>{ if(S && !S.revealed) reveal(); });
 $("#quitStudy").onclick=()=>{ clearTimer(); show("home"); renderHome(); };
 $("#quitQuiz").onclick=()=>{ show("home"); renderHome(); };
+$("#quitSheet").onclick=()=>{ show("home"); renderHome(); };
 $("#homeBtn").onclick=()=>{ show("home"); renderHome(); };
 
 /* ---- backup / restore ---- */
