@@ -68,6 +68,9 @@
   .qword{font-size:40px;font-weight:900;letter-spacing:-1px;word-break:break-word}
   .spk{background:var(--card2);color:var(--accent);width:46px;height:46px;border-radius:99px;font-size:22px;margin-top:12px;line-height:1}
   .spk:active{transform:scale(.9)}
+  .cpy{background:var(--card2);color:var(--muted);width:46px;height:46px;border-radius:99px;font-size:18px;margin-top:12px;margin-left:8px;line-height:1}
+  .cpy:active{transform:scale(.9)}
+  .cpy.mini{width:30px;height:30px;font-size:13px;margin-top:0;margin-left:0}
   .qcat{font-size:12px;color:var(--muted);background:var(--card2);padding:3px 10px;border-radius:99px}
   .qhint{color:var(--muted);font-size:13px;margin-top:10px}
   .reveal{width:100%;margin-top:14px;text-align:left;animation:fade .25s}
@@ -356,14 +359,34 @@ const autoOn = ()=> !$("#autoSpeak") || $("#autoSpeak").checked;
 function mountSpk(word, auto){
   const b=document.getElementById("spkBtn");
   if(b) b.onclick=(e)=>{ e.stopPropagation(); speak(word); };
+  wireCopy(word);
   if(auto && autoOn()) setTimeout(()=>speak(word), 250);
 }
 function mountSpkMany(list, auto){
   const b=document.getElementById("spkBtn");
   if(b) b.onclick=(e)=>{ e.stopPropagation(); speakMany(list); };
+  wireCopy(list[0]);
   if(auto && autoOn()) setTimeout(()=>speakMany(list), 200);
 }
 const SPKBTN = `<button class="spk" id="spkBtn" title="발음 듣기">🔊</button>`;
+
+/* ---- 복사 ---- */
+function fallbackCopy(text,done){
+  try{ const ta=document.createElement("textarea"); ta.value=text; ta.style.position="fixed"; ta.style.opacity="0";
+    document.body.appendChild(ta); ta.focus(); ta.select(); document.execCommand("copy"); ta.remove(); done&&done(); }
+  catch(e){ toast("복사 실패"); }
+}
+function copy(text){
+  const done=()=>toast("복사됨: "+text);
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text,done));
+  } else fallbackCopy(text,done);
+}
+function wireCopy(word){ const cb=document.getElementById("copyBtn"); if(cb) cb.onclick=(e)=>{ e.stopPropagation(); copy(word); }; }
+const COPYBTN = `<button class="cpy" id="copyBtn" title="단어 복사">📋</button>`;
+
+/* ---- 메모 굵게 (**텍스트** -> 볼드) ---- */
+function mdBold(s){ return esc(s).replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>"); }
 function boldWord(sentence, word){
   // bold the headword (and simple inflections) in example
   const base = word.split(" ")[0].replace(/[^a-zA-Z]/g,"");
@@ -462,7 +485,7 @@ function renderCard(){
       <div class="qcat">DAY ${w.day} <span class="stars">${stars}</span></div>
       <div class="qword">${esc(w.word)}</div>
       ${w.pron?`<div class="pron">[${esc(w.pron)}]</div>`:""}
-      ${SPKBTN}
+      <div>${SPKBTN}${COPYBTN}</div>
       <div class="qhint">탭하면 뜻 공개</div>`;
     mountSpk(w.word, true);
   }
@@ -488,7 +511,7 @@ function reveal(){
     <div class="qcat">DAY ${w.day} <span class="stars">${stars}</span></div>
     <div class="qword">${esc(w.word)}</div>
     ${w.pron?`<div class="pron">[${esc(w.pron)}]</div>`:""}
-    ${SPKBTN}`;
+    <div>${SPKBTN}${COPYBTN}</div>`;
   // 공개되면 표제어 + 동의어들을 순서대로 자동 발음
   mountSpkMany([w.word].concat(wSyns(w).slice(0,8)), true);
 
@@ -528,13 +551,13 @@ function reveal(){
 function renderMnemo(w){
   const box=$("#mnemoView"); const m=mnemo[w.id]||"";
   box.innerHTML = m
-    ? `<div class="mnemo" id="mClick">${esc(m)}</div>`
-    : `<div class="mnemo empty" id="mClick">+ 메모 추가 (탭해서 입력 — 나만의 암기 포인트)</div>`;
+    ? `<div class="mnemo" id="mClick">${mdBold(m)}</div>`
+    : `<div class="mnemo empty" id="mClick">+ 메모 추가 (탭해서 입력 — **별표**로 굵게)</div>`;
   $("#mClick").onclick=()=>editMnemo(w);
 }
 function editMnemo(w){
   $("#mnemoView").innerHTML = `
-    <textarea id="mEdit" placeholder="메모 입력... (예: 헷갈리는 점, 나만의 암기법)">${esc(mnemo[w.id]||"")}</textarea>
+    <textarea id="mEdit" placeholder="메모 입력... (별표로 감싸면 **굵게**)">${esc(mnemo[w.id]||"")}</textarea>
     <div class="row" style="margin-top:8px">
       <button class="ghost" id="mSave" style="background:var(--green);color:#fff">저장</button>
       <button class="ghost" id="mCancel">취소</button>
@@ -591,7 +614,7 @@ function renderSheet(){
   const body=$("#sheetBody");
   body.innerHTML = SH.qs.map((q,qi)=>`
     <div class="sq" id="sq${qi}">
-      <div class="sqw">${qi+1}. ${esc(q.w.word)} <button class="spk mini" data-w="${esc(q.w.word)}">🔊</button></div>
+      <div class="sqw">${qi+1}. ${esc(q.w.word)} <button class="spk mini" data-w="${esc(q.w.word)}">🔊</button><button class="cpy mini" data-w="${esc(q.w.word)}">📋</button></div>
       ${q.sub?`<div class="sqsub">${esc(q.sub)}</div>`:""}
       <div class="sqopts">
         ${q.options.map((o,oi)=>`<button class="sopt" data-q="${qi}" data-correct="${o===q.answer?1:0}">${CIRC[oi]||"·"} ${esc(o)}</button>`).join("")}
@@ -607,6 +630,7 @@ function renderSheet(){
     };
   });
   body.querySelectorAll(".spk.mini").forEach(b=>{ b.onclick=(e)=>{ e.stopPropagation(); speak(b.dataset.w); }; });
+  body.querySelectorAll(".cpy.mini").forEach(b=>{ b.onclick=(e)=>{ e.stopPropagation(); copy(b.dataset.w); }; });
   $("#gradeBtn").onclick=gradeSheet;
 }
 function gradeSheet(){
@@ -653,7 +677,7 @@ function renderQuiz(){
       if(s && !used.has(norm(s))){ ds.push(s); used.add(norm(s)); }
     }
     options=shuffle([answerText,...ds]);
-    $("#quizQ").innerHTML=`<div class="qcat">동의어 고르기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div><div class="pron" style="margin-top:6px">${esc(wMeaning(w))}</div>${SPKBTN}`;
+    $("#quizQ").innerHTML=`<div class="qcat">동의어 고르기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div><div class="pron" style="margin-top:6px">${esc(wMeaning(w))}</div><div>${SPKBTN}${COPYBTN}</div>`;
   } else {
     answerText=wMeaning(w);
     const used=new Set([norm(answerText)]); const ds=[];
@@ -664,7 +688,7 @@ function renderQuiz(){
       if(!used.has(norm(m))){ ds.push(m); used.add(norm(m)); }
     }
     options=shuffle([answerText,...ds]);
-    $("#quizQ").innerHTML=`<div class="qcat">우리말 뜻 맞추기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div>${SPKBTN}`;
+    $("#quizQ").innerHTML=`<div class="qcat">우리말 뜻 맞추기</div><div class="qword" style="font-size:30px">${esc(w.word)}</div><div>${SPKBTN}${COPYBTN}</div>`;
   }
   mountSpk(w.word, true);
 
