@@ -229,6 +229,7 @@ function reveal(){
     </div>`).join("");
 
   const legend = `<div class="legend"><b>파란 칩</b> = 핵심(시험 출제) 동의어</div>`;
+  const etym = w.etym?`<div class="sec-title" style="margin-top:14px">🧩 어원 / 구조</div><div class="etym">${mdBold(w.etym)}</div>`:"";
   const nuance = w.nuance?`<div class="sec-title" style="margin-top:14px">어감 / 뉘앙스</div><div class="nuance">${esc(w.nuance)}</div>`:"";
   const deriv = (w.derivatives&&w.derivatives.length)?`<div class="deriv">파생어 ${w.derivatives.map(d=>`<span>${esc(d)}</span>`).join("")}</div>`:"";
   const tip = w.exam_tip?`<button class="tipbtn" id="tipBtn">💡 최신출제포인트 보기</button><div class="tipbox hidden" id="tipBox">${esc(w.exam_tip)}</div>`:"";
@@ -237,6 +238,7 @@ function reveal(){
     <div class="reveal">
       ${senses}
       ${legend}
+      ${etym}
       ${nuance}
       ${ksHtml(w)}
       ${deriv}

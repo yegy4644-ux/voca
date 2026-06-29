@@ -44,7 +44,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ex-(밖으로) + ploit(접다/펼치다, plicare) → 펼쳐서 끝까지 활용하다 → (부당하게) 이용하다"
  },
  {
   "day": 1,
@@ -136,7 +137,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "account(ac-(~에) + count(세다, computare)) → 낱낱이 세어 설명하다; account for = ~에 대해 셈을 대다 → (이유를) 설명하다/차지하다"
  },
  {
   "day": 1,
@@ -175,7 +177,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "part(부분) + -icular(작은) → 작은 부분 하나하나의 → 특정한"
  },
  {
   "day": 1,
@@ -262,7 +265,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pro-(앞으로) + min(돌출하다, minere) + -ent(~한) → 앞으로 튀어나온 → 눈에 띄는/중요한"
  },
  {
   "day": 1,
@@ -310,7 +314,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시) + plen(가득 채우다, plenus 가득한) + -ish(동사화) → 다시 가득 채우다 → 보충하다"
  },
  {
   "day": 1,
@@ -357,7 +362,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "indi-(안에, indu) + gen(태어나다, genus) + -ous(~한) → 그 안에서 태어난 → 토착의"
  },
  {
   "day": 1,
@@ -417,7 +423,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pin(핀) + point(점) → 핀 끝의 한 점 → (위치를) 정확히 찾아내다"
  },
  {
   "day": 1,
@@ -459,7 +466,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "an-(~로, ad) + nihil(無, nihil 아무것도 아님) + -ate(동사화) → 아무것도 아닌 것으로 만들다 → 전멸시키다"
  },
  {
   "day": 1,
@@ -493,7 +501,8 @@
    567
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(완전히) + vers(돌다, vertere) + -ely(부사화) → 완전히 돌려서 보면 → 반대로"
  },
  {
   "day": 1,
@@ -528,7 +537,8 @@
    472
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안으로) + vestig(자취/흔적, vestigium) + -ate(동사화) → 흔적을 따라 안으로 들어가다 → 조사하다"
  },
  {
   "day": 1,
@@ -573,7 +583,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "as-(~에게, ad) + sure(확실한, securus 안전한) → ~에게 확실하게 해주다 → 확신시키다/보장하다"
  },
  {
   "day": 1,
@@ -616,7 +627,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(강조, in) + tire(만지다, tangere → integer 손대지 않은) → 손대지 않아 온전한 → 전체의"
  },
  {
   "day": 1,
@@ -674,7 +686,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "com-(함께) + pens(달다/무게재다, pendere) + -ate(동사화) → 함께 저울에 달아 맞추다; for = ~을 위해 → 보상하다/상쇄하다"
  },
  {
   "day": 1,
@@ -716,7 +729,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "post-(요구하다, postulare) → 당연한 것으로 요구하다 → (자명하게) 가정하다/주장하다"
  },
  {
   "day": 1,
@@ -775,7 +789,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "magn(큰, magnus) + -ify(만들다, facere) → 크게 만들다 → 확대하다"
  },
  {
   "day": 1,
@@ -827,7 +842,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "af-(~에, ad) + ford(앞으로 나아가다/제공하다, forth) → 내어줄 여유가 되다 → 주다/제공하다"
  },
  {
   "day": 1,
@@ -867,7 +883,8 @@
    243
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(완전히) + clus(닫다, claudere) + -ive(~한) → 완전히 닫아 매듭짓는 → 결정적인/확실한"
  },
  {
   "day": 1,
@@ -898,7 +915,8 @@
   "nuance": "세련되지 못하고 단순·소박하다는 뜻으로, 맥락에 따라 미숙함을 지적하는 약간 부정적 어감을 띨 수 있는 형용사.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "un-(부정) + sophist(궤변/꾸밈, sophos 지혜) + -icated(~된) → 꾸밈이 없는 → 단순한/복잡하지 않은"
  },
  {
   "day": 1,
@@ -952,7 +970,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "just(올바른, justus) + -ify(만들다) + -ed(~된) → 올바르게 된 → 정당한"
  },
  {
   "day": 1,
@@ -1007,7 +1026,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(완전히) + liber(저울질하다, librare 저울) + -ate(~한) → 마음속으로 저울질한 → 의도적인/신중한"
  },
  {
   "day": 1,
@@ -1052,7 +1072,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(아래로) + pend(매달리다, pendere) → ~ 아래에 매달리다; on = ~에 → ~에 의존하다"
  },
  {
   "day": 1,
@@ -1113,7 +1134,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sub-(아래에서) + stant(서다, stare 실체) + -iate(동사화) → 실체로 받쳐 세우다 → 입증하다"
  },
  {
   "day": 1,
@@ -1146,7 +1168,8 @@
   "nuance": "하나씩 잇따라 연이어 일어남을 나타내는 중립적 부사로, 순서·연속성을 강조하는 다소 격식 있는 표현.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "suc-(아래로/뒤따라, sub) + cess(가다, cedere) + -ively(부사) → 뒤따라 이어 가며 → 잇따라서"
  },
  {
   "day": 1,
@@ -1193,7 +1216,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "per-(완전히/관통) + vas(가다, vadere) + -ive(~한) → 구석구석 뚫고 퍼지는 → 만연하는"
  },
  {
   "day": 1,
@@ -1234,7 +1258,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "stren(격렬한, strenuus) + -uous(~한) → 힘이 넘쳐 격렬한 → 격렬한/힘든"
  },
  {
   "day": 1,
@@ -1264,7 +1289,8 @@
   "nuance": "매끄럽고 윤기 나며 세련된 느낌을 주는 긍정적 어감의 형용사로, 표면·디자인의 미려함을 묘사할 때 쓰임.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "기본 어휘 — 통째로 암기 (sleek: '미끄럽게(slick) 윤이 나는' 느낌으로 기억)"
  },
  {
   "day": 1,
@@ -1295,7 +1321,8 @@
   "nuance": "신·권위·규칙을 불러내거나 기원·적용한다는 격식 있는 동사로, 종교적·법률적 맥락에서 엄숙한 어감으로 쓰임.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "in-(~에게, 향하여) + voke(부르다, vocare 목소리 vox) → ~에게 소리쳐 부르다 → 빌다/기원하다"
  },
  {
   "day": 1,
@@ -1343,7 +1370,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "im-(안으로, in) + press(누르다, premere) + -ive(~한) → 마음 안에 눌러 새기는 → 인상적인"
  },
  {
   "day": 1,
@@ -1381,7 +1409,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(함께) + junct(잇다, jungere 멍에) + -ion(명사화) → 함께 이어 묶음 → 결합"
  },
  {
   "day": 1,
@@ -1415,7 +1444,8 @@
   "nuance": "강한 놀라움을 강조하는 부사로, 예상을 뛰어넘는 정도를 과장스럽게 부각할 때 쓰이며 긍정·부정 양쪽 모두 가능하다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "a-(~로, ad) + stound(천둥치다, tonare 천둥) + -ingly(부사) → 천둥 맞은 듯하게 → 몹시 놀랍게도"
  },
  {
   "day": 1,
@@ -1464,7 +1494,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "after(뒤에) + math(베기/수확, mowan 풀베기) → 첫 수확 뒤에 다시 자란 풀 → 여파/결과"
  },
  {
   "day": 1,
@@ -1497,7 +1528,8 @@
   "nuance": "긍정적이고 다소 격식 있는 부사로, 지체 없이 신속하게 처리하는 효율성을 강조할 때 비즈니스·공식 문맥에서 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "prompt(준비된/즉각의, pro-(앞으로)+ emere(취하다)) + -ly(부사) → 바로 꺼내 쓰듯 → 신속하게/즉시"
  },
  {
   "day": 1,
@@ -1536,7 +1568,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sub-(아래로) + due(이끌다, ducere) → 아래로 끌어내려 굴복시키다 → 정복하다"
  },
  {
   "day": 1,
@@ -1573,7 +1606,8 @@
   "nuance": "격식 있고 문어적인 단어로, 오래된 문헌·작품·종 등이 사라지지 않고 현재까지 남아 있음을 강조할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "ex-(밖으로) + (s)tant(서다, stare) → 밖에 (아직) 서 있는 → 현존하는"
  },
  {
   "day": 1,
@@ -1614,7 +1648,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sed(앉다, sedere) + -entary(~하는) → 줄곧 앉아 있는 → 주로 앉아 있는/정착성의"
  },
  {
   "day": 1,
@@ -1664,7 +1699,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "e-(밖으로, ex) + limin(문지방, limen) + -ate(동사화) → 문지방 밖으로 내보내다 → 없애다/제거하다"
  },
  {
   "day": 1,
@@ -1703,7 +1739,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "per-(완전히) + fect(만들다, facere) → 완전히 다 만들다 → 완벽하게 하다/개선하다"
  },
  {
   "day": 1,
@@ -1744,7 +1781,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "genu(태어난/혈통, genus) + -ine(~의 성질) → 본래 혈통 그대로의 → 진짜의"
  },
  {
   "day": 1,
@@ -1804,7 +1842,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "domin(주인/지배하다, dominus) + -ant(~한) → 주인 노릇 하는 → 우세한/주요한"
  },
  {
   "day": 1,
@@ -1844,7 +1883,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "un-(부정) + rival(경쟁자, rivalis 같은 강물 쓰는 자) + -ed(~된) → 경쟁자가 없는 → 비할 데 없는"
  },
  {
   "day": 1,
@@ -1887,7 +1927,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "para-(반대로/벗어나) + dox(의견/생각, doxa) → 통념을 벗어난 말 → 모순된 말"
  },
  {
   "day": 1,
@@ -1938,7 +1979,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "neg-(아니다, not) + lect(고르다/모으다, legere) → 골라 챙기지 않다 → 무시하다/하지 않다"
  },
  {
   "day": 1,
@@ -1978,7 +2020,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시) + call(부르다) → 다시 불러내다 → 상기하다/생각해내다"
  },
  {
   "day": 1,
@@ -2021,7 +2064,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "a-(~로, ad) + scend(오르다, scandere) → 위로 오르다 → 올라가다"
  },
  {
   "day": 1,
@@ -2078,7 +2122,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sol(전체의/단단한, solidus) + -id(~한) → 속까지 꽉 찬 → 확고한/견고한"
  },
  {
   "day": 1,
@@ -2117,7 +2162,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(함께/완전히) + tour(돌다, tornare 선반으로 돌려깎다) → 빙 둘러 그린 선 → 윤곽/외형"
  },
  {
   "day": 1,
@@ -2159,7 +2205,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안에) + habit(살다/지니다, habitare) → 안에 들어가 살다 → 거주하다"
  },
  {
   "day": 1,
@@ -2200,7 +2247,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ir-(부정, in) + re-(뒤로) + voc(부르다, vocare) + -ably(부사) → 도로 불러올 수 없게 → 돌이킬 수 없게"
  },
  {
   "day": 1,
@@ -2237,7 +2285,8 @@
    231
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "super-(위에) + fic(만들다/면, facies 얼굴/표면) + -ially(부사) → 겉면 위에만 → 표면적으로"
  },
  {
   "day": 1,
@@ -2270,7 +2319,8 @@
   "nuance": "부정적 어감의 단어로, 정상적으로 자라지 못해 성장이 저해되거나 위축된 상태를 가리킬 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "stunt(성장을 막다, '무디게 하다' 어원) + -ed(~된) → 성장이 막힌 → 발달이 저해된"
  },
  {
   "day": 1,
@@ -2307,7 +2357,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "malle(망치, malleus) + -able(~할 수 있는) → 망치로 두들길 수 있는 → 두들겨 펼 수 있는"
  },
  {
   "day": 1,
@@ -2365,7 +2416,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (mean: '의미하다'와 '평균(중간)' 두 뜻을 같은 철자로 함께 외우기)"
  },
  {
   "day": 1,
@@ -2400,7 +2452,8 @@
    243
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ex-(밖으로) + clud(닫다, claudere) → 닫아서 밖에 두다 → 배제하다/차단하다"
  },
  {
   "day": 1,
@@ -2433,7 +2486,8 @@
    63
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "mat(무르익은, maturus) + -ure(~한 상태) → 무르익은 상태가 되다 → 성숙해지다"
  },
  {
   "day": 1,
@@ -2463,7 +2517,8 @@
   "nuance": "중립적 단어로, 건물을 떠받치는 기둥을 가리키며 비유적으로 핵심 지지대를 뜻할 때도 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "기본 어휘 — 통째로 암기 (pillar: 라틴 pila(기둥)에서 온 말, '필러=기둥' 음으로 기억)"
  },
  {
   "day": 1,
@@ -2513,7 +2568,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(안으로, in) + croach(갈고리로 걸다, croc 갈고리) + -ment(명사화) → 갈고리로 남의 것을 끌어 들임 → 잠식/침입"
  },
  {
   "day": 1,
@@ -2544,7 +2600,8 @@
   "nuance": "일상 회화체의 표현으로, 어떤 결과가 당연하여 놀랄 일이 아니라는 납득의 어감을 가볍게 전할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "no(없다) + wonder(놀라움) → 놀랄 것이 없다 → 놀랄 일이 아닌(당연하다)"
  },
  {
   "day": 2,
@@ -2585,7 +2642,8 @@
    140
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "virtu(덕·힘, 라틴 virtus) + -al(~의) + -ly(부사) → 본질적인 힘으로는 → 사실상, 거의"
  },
  {
   "day": 2,
@@ -2630,7 +2688,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "un-(부정) + pre-(미리) + ced(가다, 라틴 cedere) + -ent(형용사) → 미리 앞서 간 적이 없는 → 전례 없는"
  },
  {
   "day": 2,
@@ -2660,7 +2719,8 @@
   "nuance": "중립적인 표현으로, 점차 익숙해지는 과정을 다소 격식 있게 묘사할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "grow(되다) + accustomed(custom=관습, 라틴 consuetudo) + to → 관습이 몸에 배게 되다 → ~에 익숙해지다"
  },
  {
   "day": 2,
@@ -2717,7 +2777,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안으로) + tric(얽힘·올가미, 라틴 tricae) → 안으로 얽어 끌어들이다 → 흥미를 끌다, 음모"
  },
  {
   "day": 2,
@@ -2764,7 +2825,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "im-(부정) + plaus(박수치다, 라틴 plaudere) + -ible(~할 수 있는) → 박수받을(인정받을) 수 없는 → 믿기 어려운"
  },
  {
   "day": 2,
@@ -2836,7 +2898,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(아래로) + clin(기울다, 라틴 clinare) → 아래로 기울다 → 쇠퇴하다, 거절하다"
  },
  {
   "day": 2,
@@ -2882,7 +2945,8 @@
    256
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(함께) + tempor(시간, 라틴 tempus) + -ary(~의) → 같은 시간을 함께 사는 → 동시대의, 현대의"
  },
  {
   "day": 2,
@@ -2942,7 +3006,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "al-(ad-, ~에게) + loc(장소·자리, 라틴 locus) + -ate(동사) → ~에게 자리를 정해주다 → 할당하다, 배정하다"
  },
  {
   "day": 2,
@@ -2992,7 +3057,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "drastic(드라스티코스, 그리스 drastikos=강하게 작용하는) + -ally(부사) → 강하게 작용하여 → 극심하게"
  },
  {
   "day": 2,
@@ -3023,7 +3089,8 @@
   "nuance": "중립적인 학술 격식체로, 서로 다른 요소가 섞인 이질적 구성을 객관적으로 묘사할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "hetero-(다른, 그리스) + gen(종류·태생, 그리스 genos) + -ous(~한) → 종류가 다른 것들로 된 → 잡다한, 혼성의"
  },
  {
   "day": 2,
@@ -3082,7 +3149,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(강조) + spic(보다, 라틴 specere) + -uous(~한) → 눈에 확 들어오는 → 뚜렷한, 눈에 띄는"
  },
  {
   "day": 2,
@@ -3134,7 +3202,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pro-(앞으로·많이) + lif(낳다, 라틴 proles=자손) + -ic(~한) → 자손을 많이 낳는 → 다산의, 풍부한"
  },
  {
   "day": 2,
@@ -3179,7 +3248,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "fluctu(물결치다, 라틴 fluctus=파도) + -ation(명사) → 파도처럼 출렁임 → 변동"
  },
  {
   "day": 2,
@@ -3246,7 +3316,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(만들다) + cour(마음·용기, 라틴 cor=심장) + -age → 마음(용기)을 불어넣다 → 격려하다, 촉진하다"
  },
  {
   "day": 2,
@@ -3283,7 +3354,8 @@
    520
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ab-(떨어져) + rupt(깨지다, 라틴 rumpere) → 뚝 끊겨 떨어진 → 갑작스러운"
  },
  {
   "day": 2,
@@ -3342,7 +3414,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "e-(밖으로) + valu(가치, 라틴 valere=가치있다) + -ate(동사) → 가치를 밖으로 매겨내다 → 평가하다"
  },
  {
   "day": 2,
@@ -3384,7 +3457,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "com-(함께) + prehend(붙잡다, 라틴 prehendere) + -ive(~한) → 다 함께 붙잡아 아우르는 → 종합적인"
  },
  {
   "day": 2,
@@ -3423,7 +3497,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(안에) + grave(파다·새기다, 게르만 grafan) → 안에 파서 새기다 → 새기다"
  },
  {
   "day": 2,
@@ -3470,7 +3545,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (slight=가늘고 미미한, '슬쩍'과 연결해 기억)"
  },
  {
   "day": 2,
@@ -3514,7 +3590,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "mono-(하나, 그리스) + ton(소리·음조, 그리스 tonos) + -ous(~한) → 하나의 음만 계속되는 → 단조로운"
  },
  {
   "day": 2,
@@ -3566,7 +3643,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시·강조) + gard(지켜보다, 게르만 wardon=지키다) → 주의 깊게 바라보다 → 간주하다, 여기다"
  },
  {
   "day": 2,
@@ -3596,7 +3674,8 @@
   "nuance": "부정적 어감으로, 무언가에 과도하게 집착하는 비정상적 몰두를 나타낼 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "ob-(향하여) + sess(앉다, 라틴 sedere) + -ion(명사) + with → 마음에 들러붙어 앉음 → ~에 대한 집착"
  },
  {
   "day": 2,
@@ -3627,7 +3706,8 @@
    343
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "optim(최선의, 라틴 optimus) + -ize(만들다) → 최선의 상태로 만들다 → 최적화하다, 최대로 활용하다"
  },
  {
   "day": 2,
@@ -3681,7 +3761,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sup-(sub-, 아래로) + plant(심다·발바닥, 라틴 plantare) → 발로 밀어내고 그 자리에 심다 → 대체하다"
  },
  {
   "day": 2,
@@ -3727,7 +3808,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "coloss(거상, 그리스 kolossos=거대한 상) + -al(~의) → 거대한 조각상 같은 → 거대한, 엄청난"
  },
  {
   "day": 2,
@@ -3777,7 +3859,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "dif-(dis-, 사방으로) + fus(붓다, 라틴 fundere) → 사방으로 부어 흘리다 → 퍼뜨리다"
  },
  {
   "day": 2,
@@ -3814,7 +3897,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "mechan(기계·장치, 그리스 mēchanē) + -ics(학문·구조) → 기계가 작동하는 원리 → 방법, 역학"
  },
  {
   "day": 2,
@@ -3846,7 +3930,8 @@
   "nuance": "부정적 어감으로, 무언가에 쉽게 영향받거나 취약함을 나타낼 때 쓰이는 격식 있는 표현이다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "sus-(sub-, 아래서) + cept(받다·잡다, 라틴 capere) + -ible(~하기 쉬운) + to → 쉽게 받아들이는 → ~에 걸리기 쉬운"
  },
  {
   "day": 2,
@@ -3885,7 +3970,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "e-(밖으로) + man(흐르다, 라틴 manare) + -ate(동사) → 안에서 밖으로 흘러나오다 → (향기·빛이) 나다"
  },
  {
   "day": 2,
@@ -3918,7 +4004,8 @@
   "nuance": "중립적. 사회적 관습·전통에 따라 일반적으로 행해진다는 어감으로, 다소 격식 있는 서술에 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "con-(함께) + ven(오다, 라틴 venire) + -tion(명사) + -al + -ly → 사람들이 함께 모여 정한 대로 → 관례적으로"
  },
  {
   "day": 2,
@@ -3961,7 +4048,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ex-(밖으로) + pand(펼치다, 라틴 pandere) + -ive(~한) → 밖으로 활짝 펼쳐진 → 넓은, 광대한"
  },
  {
   "day": 2,
@@ -3995,7 +4083,8 @@
   "nuance": "중립적. 규칙 없이 띄엄띄엄 산발적으로 일어나는 빈도를 나타내며, 다소 격식 있는 문어체에 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "sporad(흩어진, 그리스 sporas=뿌려진 씨) + -ic + -ally → 씨앗 흩뿌리듯 띄엄띄엄 → 이따금씩"
  },
  {
   "day": 2,
@@ -4026,7 +4115,8 @@
    199
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "com-(함께) + par(짝·동등, 라틴 par) + -ative(~하는) → 함께 짝지어 견주는 → 비교의, 상대적인"
  },
  {
   "day": 2,
@@ -4072,7 +4162,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "stamp(발로 밟다, 게르만계) + out(완전히 없애) → 발로 밟아 꺼버리다 → 근절하다"
  },
  {
   "day": 2,
@@ -4106,7 +4197,8 @@
    578
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "stagn(고인 물, 라틴 stagnum=웅덩이) + -ation(명사) → 물이 고여 흐르지 않음 → 침체"
  },
  {
   "day": 2,
@@ -4154,7 +4246,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안에) + nat(태어나다, 라틴 nasci) + -e → 태어날 때부터 안에 있는 → 선천적인"
  },
  {
   "day": 2,
@@ -4206,7 +4299,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ob-(완전히) + sol(익숙해지다, 라틴 solere) + -ete → 더 이상 쓰이지 않게 된 → 쓸모없어진"
  },
  {
   "day": 2,
@@ -4261,7 +4355,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "spec(보다·종류, 라틴 specere) + -ify(만들다) → 콕 집어 보이게 하다 → 명시하다"
  },
  {
   "day": 2,
@@ -4338,7 +4433,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(in-, 안에서) + dur(단단한·지속, 라틴 durus=단단한) + -e → 단단하게 버텨내다 → 견디다"
  },
  {
   "day": 2,
@@ -4371,7 +4467,8 @@
   "nuance": "중립적. 머릿속으로 상상하거나 생각해 볼 수 있는 모든 가능성을 가리키는 다소 격식 있는 표현이다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "con-(완전히) + ceiv(잡다·받다, 라틴 capere) + -able(~할 수 있는) → 머릿속에 잡아낼 수 있는 → 생각할 수 있는"
  },
  {
   "day": 2,
@@ -4414,7 +4511,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "suf-(sub-, 아래에서 받쳐) + fic(만들다·하다, 라틴 facere) + -ent + -ly → 받쳐줄 만큼 만들어져 → 충분히"
  },
  {
   "day": 2,
@@ -4473,7 +4571,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(만들다·붙이다) + tail(자르다·한정, 프랑스 tailler) → 묶어서 따라붙게 하다 → 필연적으로 수반하다"
  },
  {
   "day": 2,
@@ -4516,7 +4615,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(아래로·완전히) + pict(그리다, 라틴 pingere=칠하다) → 그려서 나타내다 → 묘사하다"
  },
  {
   "day": 2,
@@ -4563,7 +4663,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "integr(온전한, 라틴 integer=손대지 않은) + -ation(명사) → 부분들을 합쳐 온전하게 함 → 통합"
  },
  {
   "day": 2,
@@ -4604,7 +4705,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "stock(쌓아둔 것, 게르만계) + pile(더미, 라틴 pila=기둥) → 쌓아 올린 더미 → 비축하다"
  },
  {
   "day": 2,
@@ -4653,7 +4755,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "capt(잡다, 라틴 capere) + -ure(명사·동사) → 손에 꽉 잡다 → 붙잡다, 포착하다"
  },
  {
   "day": 2,
@@ -4701,7 +4804,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "land(땅, 게르만계) + -scape(모습·형태, =shape) → 땅이 보이는 모습 → 풍경"
  },
  {
   "day": 2,
@@ -4732,7 +4836,8 @@
   "nuance": "대체로 긍정적. 정교하고 공들여 자세하게 설명·제작한다는 어감을 담은 단어다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "e-(밖으로) + labor(노동·공들임, 라틴 labor) + -ate + -ly → 공을 들여 다듬어 → 정교하게"
  },
  {
   "day": 2,
@@ -4774,7 +4879,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "auto-(스스로, 그리스) + nom(법·다스림, 그리스 nomos) + -ous(~한) → 스스로 다스리는 → 자율적인"
  },
  {
   "day": 2,
@@ -4831,7 +4937,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (boom=쾅! 하는 의성어 → 갑자기 크게 터져 번창하다)"
  },
  {
   "day": 2,
@@ -4864,7 +4971,8 @@
    232
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "supreme(최고의, 라틴 supremus=가장 높은) + -acy(상태·지위) → 가장 높은 자리 → 우위, 패권"
  },
  {
   "day": 2,
@@ -4918,7 +5026,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "rav(낚아채다·약탈, 라틴 rapere=빼앗다) + -age(행위) → 휩쓸어 빼앗다 → 파괴하다, 유린하다"
  },
  {
   "day": 2,
@@ -4961,7 +5070,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "auth(원조·근원, 라틴 auctor=창시자) + -ority(상태) → 근원으로서 인정받는 힘 → 권위, 권위자"
  },
  {
   "day": 2,
@@ -5000,7 +5110,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (plug=마개·플러그, 구멍에 꽂아 메우다)"
  },
  {
   "day": 2,
@@ -5041,7 +5152,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "dis-(떨어져·어긋남) + crep(삐걱대다·바스락, 라틴 crepare) + -ancy(상태) → 서로 삐걱대어 어긋남 → 불일치"
  },
  {
   "day": 2,
@@ -5087,7 +5199,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "e-(밖으로) + luc(빛, 라틴 lux/lucere=빛나다) + -ate(동사) → 빛을 비춰 환히 드러내다 → 명료하게 설명하다"
  },
  {
   "day": 3,
@@ -5131,7 +5244,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "simul-(같이, 동시에) + -aneous(~한, 형용사) → 동시에 일어나는 → 동시의"
  },
  {
   "day": 3,
@@ -5194,7 +5308,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (라틴어 vastus '텅 빈, 광대한'에서 유래, waste와 같은 뿌리)"
  },
  {
   "day": 3,
@@ -5227,7 +5342,8 @@
    289
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(뒤로) + luct(몸부림치다, 씨름하다) + -ant(~하는) → 뒤로 버둥거리는 → 마음이 내키지 않는 → 꺼리는"
  },
  {
   "day": 3,
@@ -5258,7 +5374,8 @@
   "nuance": "확실한 증거 없이 추측에 근거한 견해를 뜻하는 다소 격식 있고 학술적인 단어로, 입증되지 않은 가설이라는 어감이 강하다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "con-(함께) + ject(던지다) + -ure(명사) → 생각들을 함께 던져 봄 → 추측"
  },
  {
   "day": 3,
@@ -5323,7 +5440,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "em-(en-, 안으로) + bed(잠자리, 바닥) → 바닥 안으로 넣다 → 박아 넣다"
  },
  {
   "day": 3,
@@ -5372,7 +5490,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (vote(투표)와 같은 라틴어 vovere '맹세하다'에서 유래 → 신에게 한 약속)"
  },
  {
   "day": 3,
@@ -5421,7 +5540,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "counter-(반대로, 맞서) → 맞서다 → 반박하다"
  },
  {
   "day": 3,
@@ -5497,7 +5617,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ap-(ad-, ~로) + par(나타나다, appear) + -ent(~한) → 눈앞에 나타난 → 분명한; 겉으로 보이는 → 외관상의"
  },
  {
   "day": 3,
@@ -5529,7 +5650,8 @@
   "nuance": "폭탄으로 맹렬히 퍼붓듯 공격함을 뜻하며, 물리적 포격뿐 아니라 질문·정보를 쉴 새 없이 쏟아붓는 상황에도 비유적으로 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "bombard(돌·포탄을 쏘는 큰 대포) ← bomb(폭탄) + -ard(명사) → 대포로 퍼붓다 → 폭격하다, 공격하다"
  },
  {
   "day": 3,
@@ -5590,7 +5712,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(뒤로, 반대로) + veal(vel, 베일·덮개) → 덮개를 벗기다 → 드러내다, 밝히다"
  },
  {
   "day": 3,
@@ -5633,7 +5756,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (고대 프랑스어 estourdi '난폭한·억센'에서 유래 → '튼튼한')"
  },
  {
   "day": 3,
@@ -5662,7 +5786,8 @@
   "nuance": "오랜 관습이나 전통에 따라 으레 그래왔음을 나타내며, 과거부터 이어진 일반적 관행을 서술할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "tra-(trans-, 가로질러 건너) + dit(주다, 전하다) + -ion(명사) + -al(~한) + -ly(부사) → 대대로 전해 내려오는 식으로 → 관습적으로"
  },
  {
   "day": 3,
@@ -5700,7 +5825,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "cor-(com-, 함께) + respond(re-(다시) + spond(약속·답하다)) + -ing-ly(부사) → 서로 맞춰 답하듯이 → 그에 상응하여"
  },
  {
   "day": 3,
@@ -5777,7 +5903,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (방아쇠 trigger → 방아쇠를 당기듯 '일으키다')"
  },
  {
   "day": 3,
@@ -5832,7 +5959,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "vig(vivere, 살다·생기) + -or(명사) + -ous(~한) → 생기가 넘치는 → 활기찬, 강건한; 강력한"
  },
  {
   "day": 3,
@@ -5878,7 +6006,8 @@
    382
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "spont(sponte, 제 뜻으로·자유의지로) + -aneous(~한) → 제 뜻에서 나오는 → 자발적인; 저절로 일어나는"
  },
  {
   "day": 3,
@@ -5917,7 +6046,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "mini(minium, 붉은 안료로 그린 작은 채색화) + -ature(명사) → 작은 그림 → 소형의"
  },
  {
   "day": 3,
@@ -5950,7 +6080,8 @@
    487
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "com-(함께) + miss(mittere, 보내다) + -ion(명사) → 일을 맡겨 내보냄 → (일을) 의뢰하다"
  },
  {
   "day": 3,
@@ -6018,7 +6149,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(강조) + mark(표시하다) + -able(~할 만한) → 표시해 둘 만한 → 주목할 만한, 놀라운"
  },
  {
   "day": 3,
@@ -6064,7 +6196,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ef-(ex-, 밖으로) + fort(force, 힘) → 힘을 밖으로 쏟음 → 노력"
  },
  {
   "day": 3,
@@ -6120,7 +6253,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "manifest(mani(손) + fest(잡다·치다) → 손으로 잡을 만큼 뚜렷한) + -ation(명사) → 뚜렷이 드러남 → 징후"
  },
  {
   "day": 3,
@@ -6168,7 +6302,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "prior(라틴어 '앞선·먼저의', pro-(앞) 계열) → 앞선 → 이전의"
  },
  {
   "day": 3,
@@ -6201,7 +6336,8 @@
   "nuance": "해결책이나 방법을 이리저리 더듬어 찾아 헤맴을 뜻하는 구어적 표현으로, 막막한 상황에서 다급히 모색하는 어감을 지닌다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "cast(던지다) + about(여기저기) → 그물·시선을 여기저기 던지다 → 찾아다니다"
  },
  {
   "day": 3,
@@ -6279,7 +6415,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "rig(rigere, 뻣뻣하다·굳다) + -or(명사) + -ous(~한) → 뻣뻣하게 빈틈없는 → 엄격한; (기후가) 혹독한"
  },
  {
   "day": 3,
@@ -6326,7 +6463,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "com-(강조) + puls(pellere, 밀다·몰다) + -ory(~하는) → 억지로 밀어붙이는 → 의무적인, 강제적인"
  },
  {
   "day": 3,
@@ -6374,7 +6512,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sub-(아래, 보조) + sid(sedere, 앉다) + -iary(~한) → 아래에 딸려 앉아 돕는 → 부수적인"
  },
  {
   "day": 3,
@@ -6417,7 +6556,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "stat(stare, 서다) + -us(명사) → 서 있는 위치 → 지위, 위신"
  },
  {
   "day": 3,
@@ -6474,7 +6614,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "em-(en-, ~하게 하다) + phas(phainein, 보이게 하다) + -ize(동사) → 도드라지게 보이게 하다 → 강조하다"
  },
  {
   "day": 3,
@@ -6515,7 +6656,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "large(큰) + -ly(부사) → 큰 부분으로 → 대부분"
  },
  {
   "day": 3,
@@ -6560,7 +6702,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ex-(밖으로) + peri(시도하다·겪다) + -ment(명사) + -al(~한) → 시험 삼아 해 보는 → 시험적인"
  },
  {
   "day": 3,
@@ -6593,7 +6736,8 @@
    318
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (고대 영어 dreahnian '말리다·물을 빼다' → drain)"
  },
  {
   "day": 3,
@@ -6641,7 +6785,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(아래로, 완전히) + note(nota, 표시·기호) → 표시로 가리키다 → 나타내다, 표시하다"
  },
  {
   "day": 3,
@@ -6671,7 +6816,8 @@
   "nuance": "단순한 거절을 넘어 어떤 주장·관계·방식을 단호하고 공식적으로 부인·거부한다는 강한 어감을 지닌 격식체 표현이다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "re-(뒤로) + pudi(pudere, 부끄러워하다·발로 차다) + -ate(동사) → 밀쳐 내치다 → 거부하다"
  },
  {
   "day": 3,
@@ -6710,7 +6856,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "contra-(반대로) + dict(말하다) + -ory(~하는) → 반대로 말하는 → 모순되는"
  },
  {
   "day": 3,
@@ -6759,7 +6906,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "propag(propago, 꺾꽂이용 가지·번식) + -ate(동사) → 가지를 뻗어 퍼뜨리다 → 번식하다, 증식시키다"
  },
  {
   "day": 3,
@@ -6807,7 +6955,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(~하게 하다) + sure(secure, 안전한·확실한) → 확실하게 하다 → 보장하다"
  },
  {
   "day": 3,
@@ -6863,7 +7012,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (구멍 뜻 pore와 '응시하다' 뜻 pore는 별개의 단어, 둘 다 통째로 암기)"
  },
  {
   "day": 3,
@@ -6899,7 +7049,8 @@
    291
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "alter(다른·둘 중 다른 하나) + -ate(동사) → 다른 것으로 번갈다 → 번갈아 일어나다"
  },
  {
   "day": 3,
@@ -6929,7 +7080,8 @@
   "nuance": "엄청난 피해와 충격을 안기는 '파괴적인'이라는 뜻으로, 전쟁·재해·패배 등 극심한 손실 상황을 강조할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "de-(완전히) + vast(텅 비게 하다, 라틴어 vastare) + -ate(동사) + -ing(~한) → 완전히 폐허로 만드는 → 파괴적인"
  },
  {
   "day": 3,
@@ -6960,7 +7112,8 @@
   "nuance": "사람들과 자연스럽게 어울리며 교류한다는 뜻으로, 모임·사교 자리에서 격의 없이 섞이는 상황에 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "mingle(mengen, 섞다 → 섞이다) + with(~와) → ~와 섞이다 → ~와 어울리다"
  },
  {
   "day": 3,
@@ -7007,7 +7160,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(완전히) + tinu(tenere, 붙잡다·잇다) + -ed(~한) → 끊지 않고 계속 이은 → 계속적인"
  },
  {
   "day": 3,
@@ -7046,7 +7200,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "at-(ad-, ~를 향해) + tempt(temptare, 만지다·시험하다) → ~를 향해 해 보다 → 시도하다"
  },
  {
   "day": 3,
@@ -7084,7 +7239,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "subter-(아래로 몰래) + fuge(fugere, 달아나다) → 슬쩍 빠져나가려는 꾀 → 속임수"
  },
  {
   "day": 3,
@@ -7125,7 +7281,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(완전히) + vert(vertere, 돌리다·바꾸다) → 완전히 돌려놓다 → 바꾸다"
  },
  {
   "day": 3,
@@ -7161,7 +7318,8 @@
    27
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(서로) + tent(tendere, 뻗다·당기다) + -ion(명사) → 서로 팽팽히 당김 → 논쟁"
  },
  {
   "day": 3,
@@ -7194,7 +7352,8 @@
    124
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "migr(migrare, 옮겨 가다) + -ate(동사) → 자리를 옮기다 → 이주하다"
  },
  {
   "day": 3,
@@ -7238,7 +7397,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "suc-(sub-, 아래·바로 뒤) + cess(cedere, 가다) + -ion(명사) → 잇따라 뒤이어 감 → 연속"
  },
  {
   "day": 3,
@@ -7279,7 +7439,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "tent(tendere, 뻗다·더듬어 시도하다 → tentative 잠정적인) + -ive + -ness(명사) → 확신 없이 더듬는 상태 → 망설임"
  },
  {
   "day": 3,
@@ -7320,7 +7481,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "frag(frangere, 부수다 → fragment 조각) + -ary(~로 된) → 조각조각으로 된 → 단편적인"
  },
  {
   "day": 3,
@@ -7367,7 +7529,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "legend(legere, 읽다 → 읽혀 전해지는 이야기) + -ary(~한) → 전설로 읽히는 → 전설적인, 유명한"
  },
  {
   "day": 3,
@@ -7407,7 +7570,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "set(놓다·두다) + back(뒤로) → 일이 뒤로 물러 놓임 → 차질, 패배"
  },
  {
   "day": 3,
@@ -7436,7 +7600,8 @@
   "nuance": "이미 작동하는 것을 더 낫게 '미세하게 조정하다'라는 뜻으로, 프로그램·성능 등을 세밀히 다듬는 맥락에 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "fine(미세한·정밀한) + tune(음을 맞추다) → 음을 세밀하게 맞추다 → 미세하게 조정하다"
  },
  {
   "day": 3,
@@ -7484,7 +7649,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(안에) + thus(theos, 신) + -i + -astic(~한) → 신이 들린 듯한 → 열광적인"
  },
  {
   "day": 3,
@@ -7525,7 +7691,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (고대 노르드어 lauss '풀린·헐거운'에서 유래 → loose)"
  },
  {
   "day": 3,
@@ -7558,7 +7725,8 @@
    162
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "por-(pro-, 앞으로) + trait(trahere, 끌다·그리다) → 앞으로 끌어내어 그린 모습 → 초상화"
  },
  {
   "day": 3,
@@ -7591,7 +7759,8 @@
   "nuance": "특정 분야에서 쓰이는 '전문 용어'를 뜻하며, 일반인에게 어려운 학술적·기술적 어휘 체계를 가리킬 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "termin(terminus, 경계·끝 → term 용어) + -ology(logos, 학문·말 → ~에 관한 말 체계) → 한 분야의 용어 체계 → 전문 용어"
  },
  {
   "day": 4,
@@ -7644,7 +7813,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "read(읽다, 본래 '조언하다/준비되다') + -ily(부사) → 준비되어 → 쉽게/선뜻"
  },
  {
   "day": 4,
@@ -7706,7 +7876,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ad-(~쪽으로) + voc(부르다) + -ate(동사화) → ~을 위해 목소리를 내다 → 옹호하다/옹호자"
  },
  {
   "day": 4,
@@ -7746,7 +7917,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "utter(완전한, '바깥의'에서) + -ly(부사) → 끝까지 → 완전히/철저히"
  },
  {
   "day": 4,
@@ -7781,7 +7953,8 @@
   "nuance": "무언가가 풍부하게 넘쳐난다는 긍정적 어감의 다소 문어적인 동사다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "ab-(~로부터/넘쳐) + ound(물결치다, und=wave) → 물결처럼 넘쳐나다 → 풍부하다"
  },
  {
   "day": 4,
@@ -7822,7 +7995,8 @@
    437
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "formid(공포, formido=두려움) + -able(~할 만한) → 두려워할 만한 → 가공할/만만찮은"
  },
  {
   "day": 4,
@@ -7885,7 +8059,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "e(x)-(밖으로) + norm(표준/규범) + -ous(형용사) → 표준을 벗어난 → 엄청난/거대한"
  },
  {
   "day": 4,
@@ -7931,7 +8106,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "dis-(반대/해체) + band(무리/묶음) → 무리를 풀다 → 해산하다"
  },
  {
   "day": 4,
@@ -7963,7 +8139,8 @@
   "nuance": "법률·언론에서 자주 쓰이며, 아직 입증되지 않은 추정일 뿐이라는 유보적·중립적 뉘앙스가 있다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "al-(=ad-, ~에) + leg(법/주장하다, lex=law) + -ed → 법정에서 주장된 → (증거 없이) 주장된"
  },
  {
   "day": 4,
@@ -8020,7 +8197,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시/강조) + nown(이름, nomen=name) + -ed → 거듭 이름이 불리는 → 유명한/저명한"
  },
  {
   "day": 4,
@@ -8061,7 +8239,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "vers(돌다, vertere=turn) + -atile(~하기 쉬운) → 이리저리 잘 돌아가는 → 다재다능한/다용도의"
  },
  {
   "day": 4,
@@ -8101,7 +8280,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pro-(앞으로) + hibit(잡다/쥐다, habere=hold) + -ive(형용사) → 앞을 막아 잡는 → 금지하는/엄두 못 낼 (가격의)"
  },
  {
   "day": 4,
@@ -8141,7 +8321,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "opt(선택하다, optare=choose) + -ion(명사) → 선택하는 것 → 선택권/옵션"
  },
  {
   "day": 4,
@@ -8194,7 +8375,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안에) + her(달라붙다, haerere=stick) + -ent(형용사) → 안에 달라붙어 있는 → 내재된/고유한"
  },
  {
   "day": 4,
@@ -8225,7 +8407,8 @@
   "nuance": "공정하고 정당하다는 긍정적·도덕적 뉘앙스를 지닌 다소 격식 있는 부사다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "just(올바른, jus=law) + -ly(부사) → 올바르게 → 정당하게/마땅히"
  },
  {
   "day": 4,
@@ -8267,7 +8450,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pro-(앞으로) + voc(부르다, vocare=call) + -e → 앞으로 불러내다 → 유발하다/도발하다"
  },
  {
   "day": 4,
@@ -8298,7 +8482,8 @@
   "nuance": "물 등이 스며들지 못한다는 중립적·다소 전문적(과학·기술) 어휘다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "im-(부정) + per-(통과하여) + me(가다, meare=pass) + -able(~할 수 있는) → 통과할 수 없는 → 스며들지 않는/방수의"
  },
  {
   "day": 4,
@@ -8347,7 +8532,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "moment(순간/계기, movere=move) + -ous(형용사) → 큰 움직임을 가진 → 중대한"
  },
  {
   "day": 4,
@@ -8400,7 +8586,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "fore-(미리/앞서) + stall(자리/마구간 → 가로막다) → 미리 자리를 막다 → 미연에 방지하다/선수치다"
  },
  {
   "day": 4,
@@ -8451,7 +8638,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "there(거기/그것) + fore(앞서/때문에) → 그것 때문에 → 그러므로 (기본 어휘 — 통째로 암기)"
  },
  {
   "day": 4,
@@ -8498,7 +8686,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "per-(완전히/끝까지) + suade(권하다, suadere=advise) → 끝까지 권하다 → 설득하다"
  },
  {
   "day": 4,
@@ -8531,7 +8720,8 @@
    607
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "proxim(가장 가까운, prope=near의 최상급) + -ity(명사) → 가까움 → 근접/가까움"
  },
  {
   "day": 4,
@@ -8561,7 +8751,8 @@
   "nuance": "믿고 의지할 수 있다는 긍정적 어감으로, 사람의 신뢰성을 칭찬할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "de-(아래로/완전히) + pend(매달리다, pendere=hang) + -able(~할 수 있는) → 기대어 매달릴 수 있는 → 믿을 만한"
  },
  {
   "day": 4,
@@ -8604,7 +8795,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(=in, 뒤따라) + su(따르다, sequi=follow) + -ing → 뒤따라오는 → 잇따른/그 후의"
  },
  {
   "day": 4,
@@ -8646,7 +8838,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ad-(~에) + preci(가치/값, pretium=price) + -ably(부사) → 값을 매길 만큼 → 눈에 띄게/상당히"
  },
  {
   "day": 4,
@@ -8707,7 +8900,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ob-(~에 대해) + lig(묶다, ligare=bind) + -ate(동사화) → ~에 매어두다 → 의무를 지우다"
  },
  {
   "day": 4,
@@ -8771,7 +8965,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "whole(전체) + sale(판매) → 통째로 파는 → 도매의/대규모의"
  },
  {
   "day": 4,
@@ -8824,7 +9019,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "dwell(거주하다, 본래 '머뭇거리다/지체하다') + -er(사람) → 머무는 사람 → 거주자"
  },
  {
   "day": 4,
@@ -8863,7 +9059,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "tac(침묵하다, tacere=be silent) + -it(형용사) → 말없는 → 암묵적인"
  },
  {
   "day": 4,
@@ -8912,7 +9109,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(완전히/다시) + solve(풀다, solvere=loosen) → 완전히 풀다 → 해결하다/결심하다"
  },
  {
   "day": 4,
@@ -8959,7 +9157,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "merit(공로/가치, merere=earn=받을 만하다) → 받을 자격이 있는 것 → 장점/공로"
  },
  {
   "day": 4,
@@ -9003,7 +9202,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "not(알다, notus=known, noscere=know) + -ion(명사) → 알게 된 것 → 개념/관념"
  },
  {
   "day": 4,
@@ -9046,7 +9246,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "syn-(함께) + thes(놓다, tithenai=place) + -ize(동사화) → 함께 놓아 합치다 → 종합하다/합성하다"
  },
  {
   "day": 4,
@@ -9092,7 +9293,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "spectr(보이는 모습/유령, spectare=look) + -um → 보이는 범위 → 스펙트럼/범위"
  },
  {
   "day": 4,
@@ -9122,7 +9324,8 @@
   "nuance": "끊임없이 이어지는 액체·정보 등의 흐름을 뜻하며, 중립적이고 시각적인 어감을 준다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "기본 어휘 — 통째로 암기 (고대영어 stream=흐르는 물 → 시내/흐름)"
  },
  {
   "day": 4,
@@ -9195,7 +9398,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "rupt(깨다/터지다, rumpere=break) + -ure(명사) → 터짐 → 파열/파열되다"
  },
  {
   "day": 4,
@@ -9241,7 +9445,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pre-(미리) + sup-(=sub, 아래에) + pos(놓다, ponere=place) + -e → 미리 밑에 깔아두다 → 전제하다/가정하다"
  },
  {
   "day": 4,
@@ -9280,7 +9485,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "well(잘) + to(~로) + do(하다/지내다) → 잘 지내는 → 부유한 (구: 형편이 well한 상태)"
  },
  {
   "day": 4,
@@ -9324,7 +9530,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ap-(=ad, ~로) + peal(=pel, 몰다/때리다, pellere=drive) → ~에게 몰아붙여 호소하다 → 호소하다/매력/항소"
  },
  {
   "day": 4,
@@ -9367,7 +9574,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ac-(=ad, ~에) + cur(돌보다/주의, cura=care) + -ate(형용사) → 주의를 기울인 → 정확하게"
  },
  {
   "day": 4,
@@ -9405,7 +9613,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "fastidi(혐오/까다로움, fastidium=loathing) + -ous(형용사) → 쉽게 거슬려 하는 → 까다로운/세심한"
  },
  {
   "day": 4,
@@ -9437,7 +9646,8 @@
   "nuance": "규모나 양이 줄어드는 수축·감소를 뜻하며, 경제 등 격식 있는 분석적 맥락에서 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "con-(함께/완전히) + tract(끌다, trahere=draw) + -ion(명사) → 함께 끌어당김 → 수축/축약"
  },
  {
   "day": 4,
@@ -9482,7 +9692,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "stimul(찌르는 막대, stimulus=goad) → 콕 찌르는 것 → 자극(제)"
  },
  {
   "day": 4,
@@ -9530,7 +9741,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (고대 프랑스어 trac=발자취 → 길/자취/추적하다)"
  },
  {
   "day": 4,
@@ -9562,7 +9774,8 @@
    50
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (게르만어 tam=길들여진 → 길들이다)"
  },
  {
   "day": 4,
@@ -9595,7 +9808,8 @@
    205
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안에/위에) + stall(자리/마구간 → 자리에 앉히다) → 자리에 앉혀 놓다 → 설치하다"
  },
  {
   "day": 4,
@@ -9625,7 +9839,8 @@
   "nuance": "시간 순으로 사건을 기록한 연대기를 뜻하며, 문어적이고 격식 있는 역사적 어감을 가진다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "chron(시간, chronos=time) + -icle(작은 것/기록) → 시간순 기록 → 연대기/기록하다"
  },
  {
   "day": 4,
@@ -9660,7 +9875,8 @@
    118
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "nov(새로운, novus=new) + -el → 새로운 것 → 참신한/소설"
  },
  {
   "day": 4,
@@ -9707,7 +9923,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "insul(섬, insula=island) → 섬처럼 떨어진 → 고립된/외딴"
  },
  {
   "day": 4,
@@ -9746,7 +9963,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ex-(밖으로) + pos(놓다, ponere=place) + -ed → 밖에 놓인 → 노출된"
  },
  {
   "day": 4,
@@ -9777,7 +9995,8 @@
   "nuance": "여러 요소가 서로 뒤섞여 어우러진 상태를 뜻하며, 다소 문어적인 어감이다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "inter-(서로/사이에) + mingle(섞다, ge-mengan=mix) + -ed → 서로 뒤섞인 → 뒤섞인"
  },
  {
   "day": 4,
@@ -9807,7 +10026,8 @@
   "nuance": "즙이 많아 촉촉한 상태를 뜻하며, 음식이 먹음직스럽다는 긍정적이고 감각적인 어감을 준다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "succ(=suc, 즙/수액, sucus=juice) + -ulent(가득한) → 즙이 가득한 → 즙이 많은"
  },
  {
   "day": 4,
@@ -9839,7 +10059,8 @@
   "nuance": "구성 요소가 모두 같은 동질적인 상태를 뜻하며, 격식 있고 학술적인 어감을 띤다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "homo-(같은) + gen(종류/태생, genos=kind) + -ous(형용사) → 같은 종류인 → 동질의/균질의"
  },
  {
   "day": 4,
@@ -9881,7 +10102,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "era(라틴 aera=숫자 세는 기점) → 헤아림의 출발점 → 시대 (기본 어휘에 가까움 — 통째로 암기)"
  },
  {
   "day": 4,
@@ -9923,7 +10145,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (고대영어 threat=압박/위협 → 위협)"
  },
  {
   "day": 4,
@@ -9963,7 +10186,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (게르만어 ful=썩은/더러운 → 더러운/반칙)"
  },
  {
   "day": 4,
@@ -10002,7 +10226,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "prey(라틴 praeda=전리품/먹잇감) → 잡아채는 것 → 먹이/잡아먹다"
  },
  {
   "day": 4,
@@ -10031,7 +10256,8 @@
   "nuance": "완전하지는 않지만 거의 그 상태에 이르렀음을 뜻하는 구어적이고 중립적인 어감의 부사다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "practic(행하는, prattein=do/act) + -al(형용사) + -ly(부사) → 실제 행함에 있어 → 실질적으로/거의"
  },
  {
   "day": 5,
@@ -10073,7 +10299,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "com-(함께/강조) + pel(밀다) + -ing(~하는) → 강하게 밀어붙이는 → 설득력 있는"
  },
  {
   "day": 5,
@@ -10112,7 +10339,8 @@
    107
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ultim(맨 끝의) + -ate(~한) + -ly(부사) → 맨 끝에 가서 → 마침내, 결국"
  },
  {
   "day": 5,
@@ -10174,7 +10402,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (bulk = 부피·덩어리)"
  },
  {
   "day": 5,
@@ -10205,7 +10434,8 @@
   "nuance": "두 대상이 서로 어긋나 양립할 수 없음을 뜻하며, 사람 관계뿐 아니라 의견·시스템·기기 호환성까지 폭넓게 쓰는 격식 있는 표현이다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "in-(부정) + com-(함께) + pat(느끼다/견디다) + -ible(~할 수 있는) → 함께 견딜 수 없는 → 양립할 수 없는"
  },
  {
   "day": 5,
@@ -10259,7 +10489,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sub-(아래) + stant(서다) + -ial(~의) + -ly(부사) → 아래에 단단히 서 있는 → 실질적으로 → 상당히"
  },
  {
   "day": 5,
@@ -10310,7 +10541,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (seek = 찾다)"
  },
  {
   "day": 5,
@@ -10340,7 +10572,8 @@
   "nuance": "미리 예상하거나 대비하지 못한 일을 가리키는 격식 있는 표현으로, 비용·결과 등 부정적 상황에 주로 쓴다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "un-(부정) + anti-(미리) + cip(잡다) + -ate(동사) + -ed(~된) → 미리 잡지 못한 → 예상하지 못한"
  },
  {
   "day": 5,
@@ -10389,7 +10622,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "merg(잠기다/담그다) + -e → 하나로 잠겨 섞이다 → 합치다, 융합하다"
  },
  {
   "day": 5,
@@ -10448,7 +10682,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(안으로) + counter(맞은편) → 맞은편에서 마주 들어오다 → 마주치다"
  },
  {
   "day": 5,
@@ -10491,7 +10726,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(뒤에) + sid(앉다) + -ue → 뒤에 남아 앉아 있는 것 → 잔여물"
  },
  {
   "day": 5,
@@ -10522,7 +10758,8 @@
   "nuance": "어떤 일을 둘러싼 형편이나 상황을 가리키는 중립적 표현으로, 흔히 복수형으로 통제 불가능한 여건을 말할 때 쓴다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "circum-(둘레) + st(서다) + -ance(명사) → 주위를 둘러싸고 서 있는 것 → 상황"
  },
  {
   "day": 5,
@@ -10580,7 +10817,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "as-(강조) + ton(천둥/벼락) + -ish(동사) + -ing(~하는) → 벼락 맞은 듯하게 하는 → 놀라운"
  },
  {
   "day": 5,
@@ -10613,7 +10851,8 @@
   "nuance": "규칙·불규칙하게 끊겼다 이어지며 간헐적으로 일어남을 뜻하는 격식 있는 부사로, 현상·증상의 발생 빈도를 묘사할 때 쓴다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "inter-(사이) + mit(보내다) + -ent(~하는) + -ly(부사) → 사이사이 보내며 끊겼다 이어지는 → 간헐적으로"
  },
  {
   "day": 5,
@@ -10655,7 +10894,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ap-(~에) + plic(접다/붙이다) + -ation(명사) → ~에 갖다 붙임 → 응용, 이용"
  },
  {
   "day": 5,
@@ -10706,7 +10946,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pre-(앞) + domin(지배하다) + -ant(~하는) → 앞에서 지배하는 → 주된, 주요한"
  },
  {
   "day": 5,
@@ -10741,7 +10982,8 @@
    126
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(뒤로/멀리) + mot(움직이다) + -e → 멀리 움직여 떨어진 → 멀리 떨어진"
  },
  {
   "day": 5,
@@ -10789,7 +11031,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(부정) + ordin(질서/순서) + -ate(~한) → 질서를 벗어난 → 과도한"
  },
  {
   "day": 5,
@@ -10840,7 +11083,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (launch = 창을 던지다 → 발사·시작)"
  },
  {
   "day": 5,
@@ -10881,7 +11125,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (trend = 돌다·향하다 → 추세)"
  },
  {
   "day": 5,
@@ -10914,7 +11159,8 @@
   "nuance": "추상적 가치나 특성을 구체적으로 완벽히 구현한 전형을 가리키는 격식 있는 표현으로, 흔히 'the embodiment of'로 칭송하듯 쓴다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "em-(안으로) + body(몸) + -ment(명사) → 몸 안에 담아낸 것 → 구체화된 것, 전형"
  },
  {
   "day": 5,
@@ -10978,7 +11224,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "colon(식민지/거주지) + -ize(~화하다) → 거주지를 만들다 → (동·식물이) 서식하다"
  },
  {
   "day": 5,
@@ -11017,7 +11264,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "af-(~에) + fect(만들다/하다) → ~에 작용을 가하다 → 영향을 미치다"
  },
  {
   "day": 5,
@@ -11059,7 +11307,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "spec(보다) + -ul + -ation(명사) → 마음속으로 들여다봄 → 추측"
  },
  {
   "day": 5,
@@ -11100,7 +11349,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "com-(함께) + pound/pon(놓다) → 여럿을 함께 쌓아 놓다 → (정도를) 더하다, 악화시키다"
  },
  {
   "day": 5,
@@ -11135,7 +11385,8 @@
    51
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "fascin(홀리다/마법을 걸다) + -ate(동사) + -ing(~하는) → 마법을 거는 듯한 → 매혹적인"
  },
  {
   "day": 5,
@@ -11175,7 +11426,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(함께) + stella(별) + -ation(명사) → 별들이 함께 모인 것(별자리) → 모임, 무리"
  },
  {
   "day": 5,
@@ -11213,7 +11465,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "un-(부정) + con-(함께) + solid(단단한) + -ate(동사) + -ed(~된) → 함께 단단히 굳지 않은 → 굳지 않은"
  },
  {
   "day": 5,
@@ -11275,7 +11528,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "out-(밖으로) + stand(서다) + -ing(~하는) → 밖으로 두드러지게 서 있는 → 뛰어난"
  },
  {
   "day": 5,
@@ -11323,7 +11577,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "out-(밖으로) + come(오다) → 밖으로 나온 것 → 결과"
  },
  {
   "day": 5,
@@ -11354,7 +11609,8 @@
   "nuance": "공식적이거나 정보를 담은 문서·기록을 뜻하는 중립적·격식 있는 단어로, 명사 외에 '문서로 입증하다'라는 동사로도 자주 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "doc(가르치다/알리다) + -ument(명사) → 알려주는 것 → 문서, 기록"
  },
  {
   "day": 5,
@@ -11394,7 +11650,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "intrins(내부의/본래의) + -ic(~의) + -ally(부사) → 안에서부터 본래 그러한 → 본질적으로"
  },
  {
   "day": 5,
@@ -11435,7 +11692,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "dis-(따로/반대) + put(생각하다/셈하다) + -ation + -ous(~한) → 서로 따로 따지길 좋아하는 → 논쟁을 좋아하는"
  },
  {
   "day": 5,
@@ -11487,7 +11745,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "di-(따로) + vers(돌다/향하다) + -e → 제각각 다른 쪽으로 향한 → 다양한, 다른"
  },
  {
   "day": 5,
@@ -11526,7 +11785,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (eerie = 고대 영어 '겁먹은' → 기묘한)"
  },
  {
   "day": 5,
@@ -11556,7 +11816,8 @@
   "nuance": "근거나 연결이 빈약하고 설득력이 약해 쉽게 무너질 듯하다는 부정적 뉘앙스의 격식어로, 주장·정당성을 평가할 때 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "tenu(가는/얇은) + -ous(~한) → 가늘고 얇은 → 빈약한"
  },
  {
   "day": 5,
@@ -11600,7 +11861,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "e-(밖으로) + radic(뿌리) + -ate(동사) → 뿌리째 밖으로 뽑다 → 근절하다"
  },
  {
   "day": 5,
@@ -11631,7 +11893,8 @@
   "nuance": "주로 부정적인 일(병·실수 등)에 걸리거나 빠지기 쉬운 경향을 나타내는 표현으로, 좋지 않은 결과에 취약하다는 뉘앙스다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "prone(~로 기울어진) + to(~쪽으로) → ~쪽으로 기울어 있는 → ~하기 쉬운"
  },
  {
   "day": 5,
@@ -11678,7 +11941,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (lodge = 오두막 → 머물다·박히다)"
  },
  {
   "day": 5,
@@ -11709,7 +11973,8 @@
   "nuance": "처음에는 더디다가 점점 탄력을 받아 가속도가 붙는다는 비유적 표현으로, 사업·운동 등이 본격 성장하는 상황에 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "gather(모으다) + momentum(mov '움직이다' → 운동량) → 움직임을 모으다 → 탄력이 붙다"
  },
  {
   "day": 5,
@@ -11742,7 +12007,8 @@
    427
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "vi(생명/살다) + -able(~할 수 있는) → 살아갈 수 있는 → 생존 가능한"
  },
  {
   "day": 5,
@@ -11800,7 +12066,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "im-(안/위에) + ped(발) + -i + -ment(명사) → 발에 걸리는 것 → 장애물"
  },
  {
   "day": 5,
@@ -11850,7 +12117,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ar(마르다) + -id(~한 상태의) → 바싹 마른 → 메마른"
  },
  {
   "day": 5,
@@ -11891,7 +12159,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "cred(믿다) + -ible(~할 수 있는) → 믿을 수 있는 → 믿을 수 있는"
  },
  {
   "day": 5,
@@ -11948,7 +12217,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "vac(비다) + -ate(동사) → 비게 만들다 → 떠나다, 비우다"
  },
  {
   "day": 5,
@@ -11986,7 +12256,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (cushion = 방석 → 충격 완화)"
  },
  {
   "day": 5,
@@ -12050,7 +12321,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pecul(개인 재산) + -iar(~의) → 자기만의 것인 → 특유의, 독특한"
  },
  {
   "day": 5,
@@ -12080,7 +12352,8 @@
   "nuance": "어떤 결과의 원인을 특정 요인 탓으로 돌린다는 격식어로, 통계·인과 분석 등 학술적 문맥에서 자주 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "at-(~에) + tribut(나누어 주다/돌리다) + -able(~할 수 있는) + to → ~에 돌릴 수 있는 → ~에 기인하는"
  },
  {
   "day": 5,
@@ -12134,7 +12407,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(만들다) + act(행하다/법령) → 법령으로 만들다 → (법률을) 제정하다"
  },
  {
   "day": 5,
@@ -12163,7 +12437,8 @@
   "nuance": "여러 층으로 겹겹이 이루어진 상태를 뜻하는 단어로, 지질·사회 계층 등 학술적 분류 맥락에서 주로 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "strat(층/깔다) + -i + -fy(만들다) + -ed(~된) → 층층이 쌓인 → 층으로 이루어진"
  },
  {
   "day": 5,
@@ -12194,7 +12469,8 @@
   "nuance": "'~에 관하여'라는 뜻으로 화제를 한정해 제시하는 격식 있는 표현으로, 문어체나 공식 문서에서 자주 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "with(~을 가지고) + regard(re- '다시' + gard '지켜보다' → 바라봄) + to → ~을 향해 바라보며 → ~에 관하여"
  },
  {
   "day": 5,
@@ -12238,7 +12514,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "turb(휘젓다/혼란) + -ul + -ent(~한) → 마구 휘저어진 → 격동하는"
  },
  {
   "day": 5,
@@ -12279,7 +12556,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ap-(~에) + prais/preci(값/가치) + -al(명사) → ~에 가치를 매김 → 평가"
  },
  {
   "day": 5,
@@ -12322,7 +12600,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "err(헤매다/벗어나다) + -one + -ous(~한) → 길을 벗어난 → 잘못된"
  },
  {
   "day": 5,
@@ -12365,7 +12644,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pro-(앞/찬성) + pon(놓다) + -ent(~하는 사람) → 앞에 내세우는 사람 → 지지자"
  },
  {
   "day": 5,
@@ -12421,7 +12701,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ab-(~에서 떨어져) + solut(풀다/놓다) + -e → 매인 것에서 완전히 풀려난 → 절대적인, 완전한"
  },
  {
   "day": 5,
@@ -12454,7 +12735,8 @@
    97
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "grat(기쁨/감사) + -i + -fy(만들다) → 기쁘게 만들다 → 만족시키다"
  },
  {
   "day": 6,
@@ -12500,7 +12782,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "dis-(분리, 흩어짐) + spers(흩뿌리다, spargere) → 여기저기 흩뿌리다 → 흩어지게 하다, 퍼뜨리다"
  },
  {
   "day": 6,
@@ -12535,7 +12818,8 @@
    547
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ad-(~쪽으로) + jac(놓다, 눕다, jacere) + -ent(~한) → 옆에 놓여 있는 → 인접한"
  },
  {
   "day": 6,
@@ -12598,7 +12882,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sequ(따르다, sequi) + -ence(명사) → 뒤따라 이어짐 → 연속"
  },
  {
   "day": 6,
@@ -12644,7 +12929,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(아래로, 떼어내다) + tect(덮다, tegere) → 덮인 것을 벗겨내다 → 발견하다, 인지하다"
  },
  {
   "day": 6,
@@ -12683,7 +12969,8 @@
    186
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "flex(구부리다, flectere) + -ible(~할 수 있는) → 구부릴 수 있는 → 유연한, 적응성 있는"
  },
  {
   "day": 6,
@@ -12741,7 +13028,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sur-(위로, 넘어) + pass(지나가다) → 넘어서 지나가다 → 능가하다"
  },
  {
   "day": 6,
@@ -12784,7 +13072,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(부정) + vari(변하다, variare) + -able(~할 수 있는) → 변할 수 없는 → 변함없는"
  },
  {
   "day": 6,
@@ -12835,7 +13124,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "drama(극, 행동, 그리스어 dran=행하다) + -tic(~의) → 극과 같은 → 극적인, 인상적인"
  },
  {
   "day": 6,
@@ -12887,7 +13177,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "mast(주인, magister) + -er → 주인이 되다 → 완전히 익혀 다스리다 → 습득하다"
  },
  {
   "day": 6,
@@ -12935,7 +13226,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "as-(ad-, ~쪽으로) + simil(같은, similis) + -ate(동사) → 자기와 같게 만들다 → (지식을) 흡수하다, 이해하다"
  },
  {
   "day": 6,
@@ -12992,7 +13284,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "over-(위로 넘쳐) + whelm(뒤덮다) + -ing(~하는) → 위에서 완전히 뒤덮는 → 압도적인"
  },
  {
   "day": 6,
@@ -13057,7 +13350,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "cur(돌보다, 마음을 쓰다, cura) + -ious(~한) → 자꾸 마음이 가는 → 호기심이 강한"
  },
  {
   "day": 6,
@@ -13089,7 +13383,8 @@
   "nuance": "전체를 바꾸기보다 부분적으로 손보거나 수정하는 비교적 작은 변화를 가리키는 명사로, 옷 수선이나 세부 조정 같은 맥락에 자연스럽게 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "alter(다른, 바꾸다) + -ation(명사) → 다르게 바뀜 → 변화, 수정"
  },
  {
   "day": 6,
@@ -13155,7 +13450,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(함께) + sequ(따르다, sequi) + -ence(명사) → 어떤 일에 뒤따라오는 것 → 결과"
  },
  {
   "day": 6,
@@ -13212,7 +13508,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(아래로, 떼어) + ceive(잡다, capere) → 슬쩍 빼내 잡다 → 속이다"
  },
  {
   "day": 6,
@@ -13283,7 +13580,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ampl(넓은, amplus) + -e → 넓은 → 넓은, 광대한"
  },
  {
   "day": 6,
@@ -13316,7 +13614,8 @@
    482
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시, 뒤로) + sil(뛰다, salire) + -ient(~한) → 다시 튀어 오르는 → 금방 회복하는"
  },
  {
   "day": 6,
@@ -13349,7 +13648,8 @@
    28
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(분리, 떼어냄) + tach(붙이다, 말뚝, attach의 어근) → 붙은 것을 떼어내다 → 분리하다"
  },
  {
   "day": 6,
@@ -13383,7 +13683,8 @@
    159
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ac-(ad-, ~에) + count(세다, computare) → 하나하나 세어 설명하다 → (사건에 대한) 기술, 보고"
  },
  {
   "day": 6,
@@ -13430,7 +13731,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "equi-(같은, aequus) + libr(저울, libra) + -ium(명사) → 저울 양쪽이 같음 → 균형"
  },
  {
   "day": 6,
@@ -13487,7 +13789,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sur-(위에) + mise(놓다, mittere=보내다) → 사실 위에 (생각을) 얹어 놓다 → 추측하다"
  },
  {
   "day": 6,
@@ -13527,7 +13830,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "un-(부정) + suit(맞다, 어울리다) + -able(~할 수 있는) → 어울릴 수 없는 → 적합하지 않은"
  },
  {
   "day": 6,
@@ -13558,7 +13862,8 @@
   "nuance": "틀에 얽매이지 않는 상상력과 독창성을 칭찬하는 긍정적 어감이다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "imagin(상상하다, imago=상) + -ative(~하는 성질의) → 상상을 잘 하는 → 창의적인"
  },
  {
   "day": 6,
@@ -13596,7 +13901,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "im-(in-, 위로) + pos(놓다, ponere) + -ing(~하는) → 위에 우뚝 놓인 → 인상적인, 위풍당당한"
  },
  {
   "day": 6,
@@ -13639,7 +13945,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "vit(생명, vita) + -ality(명사) → 생명이 넘치는 상태 → 활력"
  },
  {
   "day": 6,
@@ -13694,7 +14001,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "veh(나르다, vehere) + -icle(작은 도구) → 무언가를 실어 나르는 것 → 수단, 매체"
  },
  {
   "day": 6,
@@ -13733,7 +14041,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "hither(여기까지) + to(~로) → 여기까지 (이르러) → 지금까지   (기본 어휘 조합)"
  },
  {
   "day": 6,
@@ -13781,7 +14090,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "plague(타격, 재앙, 라틴어 plaga=타격) → 재앙처럼 거듭 때리다 → 괴롭히다"
  },
  {
   "day": 6,
@@ -13813,7 +14123,8 @@
    307
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "domain ← domin(주인, dominus) → 주인이 지배하는 곳 → 영역"
  },
  {
   "day": 6,
@@ -13861,7 +14172,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(부정) + dif-(dis-, 떨어져) + fer(나르다, ferre) + -ent(~한) → 차이를 두지 않는 → 무관심한"
  },
  {
   "day": 6,
@@ -13916,7 +14228,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "champion ← camp(들판, 전쟁터, campus) → 전쟁터에서 싸우는 투사 → (대신 싸워) 옹호하다"
  },
  {
   "day": 6,
@@ -13956,7 +14269,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "de-(아래로) + terior(더 나쁜, 라틴어) + -ate(동사) → 점점 더 나빠지다 → 악화되다"
  },
  {
   "day": 6,
@@ -13997,7 +14311,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "as-(ad-, ~에게) + sault(뛰어들다, salire=뛰다) → 덤벼들다 → 폭행하다, 공격하다"
  },
  {
   "day": 6,
@@ -14040,7 +14355,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ap-(ad-, ~에) + propri(자기 것의, proprius) + -ate(~한) → 그 상황에 딱 맞는 → 적절한"
  },
  {
   "day": 6,
@@ -14080,7 +14396,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "adept ← ad-(~에) + ept(잡다, apisci=얻다) → 완전히 손에 넣은 → 능숙한"
  },
  {
   "day": 6,
@@ -14111,7 +14428,8 @@
   "nuance": "앞선 진술을 강조·확인하는 다소 격식 있는 부사로, '정말로/실제로'의 강조 어감을 준다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "in-(강조) + deed(행위, do의 명사) → 행위로 보아도 정말 → 사실은, 정말로"
  },
  {
   "day": 6,
@@ -14161,7 +14479,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pur-(pro-, 앞으로) + suit(따르다, sequi) → 앞서 가는 것을 계속 좇음 → 추구, (즐겨 좇는) 취미"
  },
  {
   "day": 6,
@@ -14225,7 +14544,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안으로) + cite(움직이게 하다, citare=불러일으키다) → 안에서 들쑤셔 움직이게 하다 → 자극하다"
  },
  {
   "day": 6,
@@ -14278,7 +14598,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "guarantee ← warrant(보증, 게르만어 어원, war-=조심하다) → 책임지고 지켜주다 → 보장하다"
  },
  {
   "day": 6,
@@ -14313,7 +14634,8 @@
    56
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pro-(앞으로) + sper(희망, spes) + -ity(명사) → 바라는 대로 잘 풀림 → 번영"
  },
  {
   "day": 6,
@@ -14367,7 +14689,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "prim(첫째의, primus) + -ar(~의) + -ily(부사) → 첫째로 → 주로"
  },
  {
   "day": 6,
@@ -14415,7 +14738,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "e-(ex-, 밖으로) + rupt(터지다, rumpere) → 밖으로 터져 나오다 → 폭발하다"
  },
  {
   "day": 6,
@@ -14466,7 +14790,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "trace ← tract(끌다, trahere) → 끌고 지나간 자국 → 자취, 흔적"
  },
  {
   "day": 6,
@@ -14499,7 +14824,8 @@
    507
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "prestig(눈속임, 마술, praestigium) + -ous(~한) → 사람을 사로잡는 → 명성이 있는"
  },
  {
   "day": 6,
@@ -14545,7 +14871,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (shape=모양 → 모양을 잡아 '형성하다')"
  },
  {
   "day": 6,
@@ -14593,7 +14920,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "in-(안으로, ~에게) + flict(치다, fligere) → ~에게 타격을 가하다 → (고통을) 주다, 가하다"
  },
  {
   "day": 6,
@@ -14641,7 +14969,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "port(부분, pars/portio) + -ion(명사) → 나누어진 한 몫 → 부분"
  },
  {
   "day": 6,
@@ -14672,7 +15001,8 @@
    380
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "co-(함께) + incid(위에 떨어지다, in+cadere=떨어지다) + -ence(명사) → 동시에 같은 데 떨어짐 → 우연의 일치"
  },
  {
   "day": 6,
@@ -14715,7 +15045,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pro-(앞으로) + pel(밀다, pellere) → 앞으로 밀어내다 → 몰아대다, 추진하다"
  },
  {
   "day": 6,
@@ -14755,7 +15086,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "thorough(철저한, through=통과하여) + -ly(부사) → 처음부터 끝까지 통과하여 → 철저히, 완전히"
  },
  {
   "day": 6,
@@ -14802,7 +15134,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(강조) + templ(신전, 관찰 구역, templum) + -ate(동사) → 신전에서 하늘을 응시하듯 살피다 → 곰곰이 생각하다"
  },
  {
   "day": 6,
@@ -14840,7 +15173,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "un-(부정) + eth(관습, 윤리, 그리스어 ethos) + -ical(~의) → 윤리에 맞지 않는 → 비윤리적인"
  },
  {
   "day": 6,
@@ -14886,7 +15220,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시) + plic(접다, plicare) + -ate(동사) → 똑같이 다시 접어내다 → 모사하다, 복제하다"
  },
  {
   "day": 6,
@@ -14920,7 +15255,8 @@
    71
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "haste(서두름, 게르만어) + -y(~한) → 서두르는 → 황급한, 서두르는"
  },
  {
   "day": 6,
@@ -14969,7 +15305,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시) + present(앞에 내보이다, prae+esse) + -ative(~하는) → 대신해서 다시 내보이는 → 나타내는, 전형적인"
  },
  {
   "day": 6,
@@ -15017,7 +15354,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "range ← rang(줄, 열, 게르만어 hring=원/고리) → 한 줄로 늘어선 폭 → 범위"
  },
  {
   "day": 7,
@@ -15080,7 +15418,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(함께/강조) + sider(별 sidus → 살피다) + -able(~할 만한) → 충분히 살펴볼 만한 → 상당한"
  },
  {
   "day": 7,
@@ -15123,7 +15462,8 @@
    61
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "domin(주인 dominus) + -ate(동사화) → 주인 노릇 하다 → 지배하다"
  },
  {
   "day": 7,
@@ -15169,7 +15509,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "rat(계산하다 reri) + -io(명사화) → 계산된 관계 → 비율"
  },
  {
   "day": 7,
@@ -15228,7 +15569,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "du(둘) + plic(접다 plicare) + -ate(동사화) → 둘로 접다 → 똑같이 복제하다"
  },
  {
   "day": 7,
@@ -15283,7 +15625,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "bare(벌거벗은/겨우 있는) + -ly(부사화) → 겨우 ~한 정도로 → 거의 ~않게"
  },
  {
   "day": 7,
@@ -15336,7 +15679,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (게르만계 strew, 손으로 흩뿌리는 동작 연상)"
  },
  {
   "day": 7,
@@ -15367,7 +15711,8 @@
   "nuance": "법적·정당하게 합법적으로 이루어진다는 격식 있는 어감으로, '합리적인'이라는 뜻으로도 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "leg(법 lex) + -timate(자격을 갖춘) + -ly(부사화) → 법에 맞게 → 합법적으로, 정당하게"
  },
  {
   "day": 7,
@@ -15406,7 +15751,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(안에 넣다) + capsul(작은 상자 capsula) + -ate(동사화) → 작은 캡슐 안에 넣다 → 요약하다"
  },
  {
   "day": 7,
@@ -15446,7 +15792,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시/대하여) + lat(나르다 ferre의 과거형 latus) + -ive(성질) + -ly(부사화) → 서로 견주어 → 비교적으로"
  },
  {
   "day": 7,
@@ -15498,7 +15845,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (아랍어 az-zahr '주사위'에서 유래, 주사위 도박의 위험 연상)"
  },
  {
   "day": 7,
@@ -15553,7 +15901,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "par(통하여 per) + a- + mount(산/오르다 mons) → 산꼭대기 위에 → 무엇보다 위에 있는 → 최고로 중요한"
  },
  {
   "day": 7,
@@ -15592,7 +15941,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "un-(부정) + wield(다루다) + -y(형용사화) → 다룰 수 없는 → (크기·무게 때문에) 다루기 힘든"
  },
  {
   "day": 7,
@@ -15631,7 +15981,8 @@
    413
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sub-(아래/뒤) + sequ(따르다 sequi) + -ent(형용사화) → 뒤따라오는 → 그 다음의"
  },
  {
   "day": 7,
@@ -15683,7 +16034,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "strike(치다) + -ing(형용사화) → 눈을 탁 치는 → 현저한, 눈에 띄는"
  },
  {
   "day": 7,
@@ -15713,7 +16065,8 @@
   "nuance": "보통보다 오래 길게 늘어나 지속된다는 어감으로, 기간이 평소보다 연장되었음을 나타낸다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "ex-(밖으로) + tend(뻗다 tendere) + -ed(과거분사) → 밖으로 길게 뻗은 → 장기간에 걸친"
  },
  {
   "day": 7,
@@ -15753,7 +16106,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ep(h)-(위에 epi) + (h)emer(하루 hemera) + -al(형용사화) → 하루 동안만 가는 → 단명하는, 덧없는"
  },
  {
   "day": 7,
@@ -15831,7 +16185,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "rig(뻣뻣한 rigere) + -id(형용사화) → 뻣뻣하게 굳은 → 엄격한"
  },
  {
   "day": 7,
@@ -15880,7 +16235,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "chief(머리 caput) → 우두머리 → 주요한"
  },
  {
   "day": 7,
@@ -15912,7 +16268,8 @@
   "nuance": "사태나 증상이 얼마나 심각하고 가혹한지 그 정도를 객관적으로 나타내는 다소 격식적인 명사다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "sever(엄한 severus) + -ity(명사화) → 엄함의 정도 → 심함"
  },
  {
   "day": 7,
@@ -15942,7 +16299,8 @@
   "nuance": "어떤 집단이나 시대의 전형적 특징을 잘 대표함을 나타내는 표현으로, 가치판단 없이 중립적으로 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "typ(형/본보기 typos) + -ical(형용사화) + of → ~의 전형인 → ~을 대표하는"
  },
  {
   "day": 7,
@@ -15983,7 +16341,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "en-(~하게 만들다) + able(할 수 있는) → 할 수 있게 만들다 → 가능하게 하다"
  },
  {
   "day": 7,
@@ -16015,7 +16374,8 @@
    478
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "em-(안에 en) + pir(시도/경험 peira) + -ical(형용사화) → 경험·시도에 의한 → 실험상의"
  },
  {
   "day": 7,
@@ -16061,7 +16421,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "contro-(반대로 contra) + vers(돌다 vertere) + -y(명사화) → 서로 반대로 돌아서서 → 논쟁"
  },
  {
   "day": 7,
@@ -16106,7 +16467,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ac-(~로 ad) + com-(완전히) + pl(채우다 plere) + -ish(동사화) → 완전히 채우다 → 성취하다"
  },
  {
   "day": 7,
@@ -16148,7 +16510,8 @@
   "nuance": "이미 정해져 변하지 않는 '고정된' 상태를 뜻하거나, 무언가를 특정 위치에 두는 일상적 동사로 두루 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "기본 어휘 — 통째로 암기 (게르만계, 무언가를 '놓아 고정하다'에서 '고정된' 의미)"
  },
  {
   "day": 7,
@@ -16179,7 +16542,8 @@
    395
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (뒤처져 느릿느릿 따라오는 모습 연상 → 지연)"
  },
  {
   "day": 7,
@@ -16220,7 +16584,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "ex-(밖으로) + ud(e)(땀 sudare) → 밖으로 땀처럼 스며 나오다 → (액체·냄새 등을) 발산하다"
  },
  {
   "day": 7,
@@ -16260,7 +16625,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "inter-(서로 사이에) + play(작용/놀이) → 서로 맞물려 작용함 → 상호 작용"
  },
  {
   "day": 7,
@@ -16293,7 +16659,8 @@
    523
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pre-(앞에) + ced(가다 cedere) → 앞서 가다 → ~에 앞서다"
  },
  {
   "day": 7,
@@ -16324,7 +16691,8 @@
   "nuance": "의도적으로 조작·변경한다는 뜻으로, 흔히 부정한 목적을 암시하는 부정적 어감을 띤다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "manip(손 manus) + ul + -ation(명사화) → 손으로 다룸 → 조작"
  },
  {
   "day": 7,
@@ -16357,7 +16725,8 @@
   "nuance": "물기나 비가 거의 없는 메마른 상태를 뜻하는 일상적인 형용사다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "기본 어휘 — 통째로 암기 (게르만계 dry, 수분이 없는 상태)"
  },
  {
   "day": 7,
@@ -16396,7 +16765,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "as-(~로 ad) + sist(서다 sistere) + with → 곁에 서서 함께 → ~을 돕다"
  },
  {
   "day": 7,
@@ -16444,7 +16814,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "acu(t)(날카로운 acus 바늘) + -e → 바늘처럼 날카로운 → 극심한"
  },
  {
   "day": 7,
@@ -16486,7 +16857,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "art(이음/마디 artus) + -icle(작은 것) → 작게 나뉜 마디 → 개별 물품"
  },
  {
   "day": 7,
@@ -16528,7 +16900,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "scrut(샅샅이 뒤지다 scrutari, 넝마 scruta) + -iny(명사화) → 쓰레기까지 뒤져 살핌 → 정밀 검사"
  },
  {
   "day": 7,
@@ -16566,7 +16939,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(되돌려) + com-(함께) + pens(달다/지불하다 pensare) → 되돌려 달아 갚다 → 보상"
  },
  {
   "day": 7,
@@ -16650,7 +17024,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(다시/되돌려) + flect(구부리다 flectere) → 빛을 되구부려 보내다 → 그대로 비추다 → 나타내다"
  },
  {
   "day": 7,
@@ -16688,7 +17063,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "im-(부정) + mea(s)(재다 metiri) + -ur + -able + -ly → 잴 수 없을 만큼 → 대단히"
  },
  {
   "day": 7,
@@ -16719,7 +17095,8 @@
   "nuance": "어떤 분야의 가장 기초적인 기본 원리를 가리키는 다소 격식적인 명사다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "rud(거친/날것 rudis) + -iment(s)(명사화) → 아직 다듬어지지 않은 것 → 기초, 기본"
  },
  {
   "day": 7,
@@ -16750,7 +17127,8 @@
    349
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "mort(죽음 mors) + -al(형용사) + -ity(명사화) → 죽을 수밖에 없음 → 사망(률)"
  },
  {
   "day": 7,
@@ -16790,7 +17168,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "awk(거꾸로/잘못된 고대 노르드어 afugr) + -ward(쪽으로) → 잘못된 방향으로 → 서투른"
  },
  {
   "day": 7,
@@ -16882,7 +17261,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "con-(함께/강조) + strain(조이다 stringere) → 단단히 조여 묶다 → 강요하다"
  },
  {
   "day": 7,
@@ -16923,7 +17303,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (어원 불명, '뒤죽박죽 휘저음'으로 소란·동요 연상)"
  },
  {
   "day": 7,
@@ -16994,7 +17375,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "propr(자기 자신의 proprius) + -ty(명사화) → 자기에게 고유한 것 → 특성, 재산"
  },
  {
   "day": 7,
@@ -17027,7 +17409,8 @@
    601
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (라틴 focus '화로'에서, 불에 땔감을 대다 → 연료 공급/자극)"
  },
  {
   "day": 7,
@@ -17068,7 +17451,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "majest(위엄/큼 maiestas, magnus 큰) + -ic(형용사화) → 큼·위엄을 지닌 → 위엄 있는, 웅대한"
  },
  {
   "day": 7,
@@ -17118,7 +17502,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "pre-(앞에) + e(밖으로 ex) + min(돌출하다 minere) + -ent → 남보다 앞으로 우뚝 솟은 → 뛰어난"
  },
  {
   "day": 7,
@@ -17168,7 +17553,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "crud(날것/피 cruor) + -e → 가공 안 된 날것 → 가공하지 않은"
  },
  {
   "day": 7,
@@ -17236,7 +17622,8 @@
     "k": false
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "vari(다양한/변하는 varius) + -ety(명사화) → 여러 가지로 변함 → 다양성"
  },
  {
   "day": 7,
@@ -17269,7 +17656,8 @@
   "nuance": "예외는 있을 수 있으나 일반적·전형적으로 그러하다는 점을 나타내는 부사로, 객관적 설명문에서 흔히 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "typ(형/본보기 typos) + -ical + -ly(부사화) → 전형적으로 → 보통"
  },
  {
   "day": 7,
@@ -17300,7 +17688,8 @@
   "nuance": "이미 있는 것에 보태어 보완하는 '추가의'라는 뜻으로, 부수입·보충 자료처럼 다소 격식 있는 맥락에서 쓰인다.",
   "ks_head": [],
   "ks_syn": [],
-  "ks_has": false
+  "ks_has": false,
+  "etym": "sup-(아래에서 sub) + ple(채우다 plere) + -ment + -ary → 아래에서 더 채워 주는 → 추가의"
  },
  {
   "day": 7,
@@ -17340,7 +17729,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "re-(뒤로) + duce(이끌다 ducere) → 뒤로/아래로 끌어내리다 → 감소시키다"
  },
  {
   "day": 7,
@@ -17389,7 +17779,8 @@
     "k": true
    }
   ],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "sub-(아래에) + ject(던지다 iacere) → 아래에 던져 놓인 → (실험에) 놓인 자 → 피실험자"
  },
  {
   "day": 7,
@@ -17423,7 +17814,8 @@
    135
   ],
   "ks_syn": [],
-  "ks_has": true
+  "ks_has": true,
+  "etym": "기본 어휘 — 통째로 암기 (게르만계, flee/fly와 동족 — 날듯이 도망치다)"
  },
  {
   "day": 8,
@@ -17464,7 +17856,8 @@
    }
   ],
   "ks_has": true,
-  "id": 392
+  "id": 392,
+  "etym": "pro-(앞으로) + lifer(자손을 낳다, proles) + -ate(동사화) → 앞으로 자손을 퍼뜨리다 → 증식하다"
  },
  {
   "day": 8,
@@ -17520,7 +17913,8 @@
    }
   ],
   "ks_has": true,
-  "id": 393
+  "id": 393,
+  "etym": "as-(=ad-, ~에게) + sess(앉다, sedere) → 옆에 앉아(판사 보조로) 정하다 → 평가하다"
  },
  {
   "day": 8,
@@ -17577,7 +17971,8 @@
    }
   ],
   "ks_has": true,
-  "id": 394
+  "id": 394,
+  "etym": "기본 어휘 — 통째로 암기 (원래 박차(말 옆구리를 찌르는 도구) → 자극하다)"
  },
  {
   "day": 8,
@@ -17618,7 +18013,8 @@
    }
   ],
   "ks_has": true,
-  "id": 395
+  "id": 395,
+  "etym": "ex-(밖으로) + tract(끌다, trahere) → 밖으로 끌어내다 → 뽑아내다"
  },
  {
   "day": 8,
@@ -17647,7 +18043,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 396
+  "id": 396,
+  "etym": "course(달리다·흐름, currere=달리다) + through(통과하여) → ~을 통과해 흐르다 → 속을 흐르다"
  },
  {
   "day": 8,
@@ -17676,7 +18073,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 397
+  "id": 397,
+  "etym": "en-(~안에 들어가게) + joy(기쁨, gaudere=기뻐하다) → 기쁨 속으로 → 즐기다"
  },
  {
   "day": 8,
@@ -17722,7 +18120,8 @@
    }
   ],
   "ks_has": true,
-  "id": 398
+  "id": 398,
+  "etym": "materi(물질, materia) + -al(형용사) + -ize(~로 만들다) → 물질로 나타나게 하다 → 나타나다"
  },
  {
   "day": 8,
@@ -17762,7 +18161,8 @@
    }
   ],
   "ks_has": true,
-  "id": 399
+  "id": 399,
+  "etym": "regul(규칙, regula=자) + -ate(동사화) → 규칙에 맞추다 → 조절하다"
  },
  {
   "day": 8,
@@ -17810,7 +18210,8 @@
    }
   ],
   "ks_has": true,
-  "id": 400
+  "id": 400,
+  "etym": "기본 어휘 — 통째로 암기 (고대영어 dēman, '판단하다')"
  },
  {
   "day": 8,
@@ -17843,7 +18244,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 401
+  "id": 401,
+  "etym": "sus-(=sub-, 아래에) + pend(매달다, pendere) → 아래로 매달다 → 매달다·중지하다"
  },
  {
   "day": 8,
@@ -17892,7 +18294,8 @@
    }
   ],
   "ks_has": true,
-  "id": 402
+  "id": 402,
+  "etym": "pre-(미리) + vent(오다, venire) → 미리 와서 가로막다 → 막다, 방해하다"
  },
  {
   "day": 8,
@@ -17938,7 +18341,8 @@
    }
   ],
   "ks_has": true,
-  "id": 403
+  "id": 403,
+  "etym": "orn(꾸미다, ornare) + -ment(명사) → 꾸미는 것 → 장식(하다)"
  },
  {
   "day": 8,
@@ -17978,7 +18382,8 @@
    }
   ],
   "ks_has": true,
-  "id": 404
+  "id": 404,
+  "etym": "de-(아래로·완전히) + mol(쌓다·짓다, moliri) + -ish(동사화) → 지은 것을 무너뜨리다 → 파괴하다"
  },
  {
   "day": 8,
@@ -18020,7 +18425,8 @@
    }
   ],
   "ks_has": true,
-  "id": 405
+  "id": 405,
+  "etym": "re-(다시) + form(형태, forma) → 다시 형태를 만들다 → 개혁하다, 개선하다"
  },
  {
   "day": 8,
@@ -18094,7 +18500,8 @@
    }
   ],
   "ks_has": true,
-  "id": 406
+  "id": 406,
+  "etym": "기본 어휘 — 통째로 암기 (그리스어 ēchō, 소리의 여신 → 메아리)"
  },
  {
   "day": 8,
@@ -18142,7 +18549,8 @@
    }
   ],
   "ks_has": true,
-  "id": 407
+  "id": 407,
+  "etym": "기본 어휘 — 통째로 암기 (톱니바퀴(gear)를 맞물리다 → 맞게 조정하다)"
  },
  {
   "day": 8,
@@ -18175,7 +18583,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 408
+  "id": 408,
+  "etym": "ab-(~로부터) + sorb(빨아들이다, sorbere) → 빨아들이다 → 흡수하다"
  },
  {
   "day": 8,
@@ -18216,7 +18625,8 @@
    }
   ],
   "ks_has": true,
-  "id": 409
+  "id": 409,
+  "etym": "as-(=ad-, ~로) + sembl(함께, simul) + -e → 함께 ~로 모으다 → 모으다, 조립하다"
  },
  {
   "day": 8,
@@ -18264,7 +18674,8 @@
    }
   ],
   "ks_has": true,
-  "id": 410
+  "id": 410,
+  "etym": "liber(자유로운, liber) + -ate(동사화) → 자유롭게 하다 → 해방하다"
  },
  {
   "day": 8,
@@ -18312,7 +18723,8 @@
    }
   ],
   "ks_has": true,
-  "id": 411
+  "id": 411,
+  "etym": "criter(판단하다, krinein=가르다·판단하다) + -ion(명사) → 판단의 근거 → 기준"
  },
  {
   "day": 8,
@@ -18360,7 +18772,8 @@
    }
   ],
   "ks_has": true,
-  "id": 412
+  "id": 412,
+  "etym": "기본 어휘 — 통째로 암기 (라틴 periculum '위험'에서; '실험(experiment)'과 어원 친척)"
  },
  {
   "day": 8,
@@ -18401,7 +18814,8 @@
    }
   ],
   "ks_has": true,
-  "id": 413
+  "id": 413,
+  "etym": "feat(행함, facere=하다·만들다) → 해낸 일 → 위업 (fact·feature와 어원 친척)"
  },
  {
   "day": 8,
@@ -18464,7 +18878,8 @@
    }
   ],
   "ks_has": true,
-  "id": 414
+  "id": 414,
+  "etym": "fric(문지르다, fricare) + -tion(명사) → 문지름 → 마찰, 불화"
  },
  {
   "day": 8,
@@ -18513,7 +18928,8 @@
    }
   ],
   "ks_has": true,
-  "id": 415
+  "id": 415,
+  "etym": "de-(아래로) + mise(보내다, mittere) → 아래로(권리·생명을) 내려보냄 → 종말, 몰락"
  },
  {
   "day": 8,
@@ -18553,7 +18969,8 @@
    }
   ],
   "ks_has": true,
-  "id": 416
+  "id": 416,
+  "etym": "con-(완전히) + sum(취하다, sumere) + -ption(명사) → 완전히 다 써버림 → 소비, 소모"
  },
  {
   "day": 8,
@@ -18591,7 +19008,8 @@
    }
   ],
   "ks_has": true,
-  "id": 417
+  "id": 417,
+  "etym": "de-(완전히) + termin(경계·끝, terminus) + -ant(~하는 것) → 끝을 정하는 것 → 결정 요인"
  },
  {
   "day": 8,
@@ -18639,7 +19057,8 @@
    }
   ],
   "ks_has": true,
-  "id": 418
+  "id": 418,
+  "etym": "re-(맞서) + sist(서다, sistere) + -ance(명사) → 맞서 버팀 → 저항, 반대"
  },
  {
   "day": 8,
@@ -18672,7 +19091,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 419
+  "id": 419,
+  "etym": "in-(안으로) + flat(불다, flare) + -ion(명사) → 안으로 바람을 불어넣어 부풀림 → 팽창"
  },
  {
   "day": 8,
@@ -18718,7 +19138,8 @@
    }
   ],
   "ks_has": true,
-  "id": 420
+  "id": 420,
+  "etym": "ec-(밖에서) + lect(고르다, legere) + -ic(형용사) → 여기저기서 골라 모은 → 다방면의, 폭넓은"
  },
  {
   "day": 8,
@@ -18782,7 +19203,8 @@
    }
   ],
   "ks_has": true,
-  "id": 421
+  "id": 421,
+  "etym": "cruc(십자가·갈림길, crux) + -ial(형용사) → 어느 길로 갈지 갈리는 → 결정적인, 중대한"
  },
  {
   "day": 8,
@@ -18831,7 +19253,8 @@
    }
   ],
   "ks_has": true,
-  "id": 422
+  "id": 422,
+  "etym": "in-(안에) + tric(얽힘, tricae=성가신 일) + -ate(형용사) → 안이 얽혀 있는 → 복잡한"
  },
  {
   "day": 8,
@@ -18885,7 +19308,8 @@
    }
   ],
   "ks_has": true,
-  "id": 423
+  "id": 423,
+  "etym": "palat(궁전, palatium) + -ial(형용사) → 궁전 같은 → 웅장한, 대궐 같은"
  },
  {
   "day": 8,
@@ -18926,7 +19350,8 @@
    }
   ],
   "ks_has": true,
-  "id": 424
+  "id": 424,
+  "etym": "pot(힘이 있는, potere=할 수 있다) + -ent(형용사) → 힘 있는 → 강력한"
  },
  {
   "day": 8,
@@ -18965,7 +19390,8 @@
    }
   ],
   "ks_has": true,
-  "id": 425
+  "id": 425,
+  "etym": "ardu(가파른, arduus) + -ous(형용사) → 가파른 산을 오르는 듯한 → 힘든"
  },
  {
   "day": 8,
@@ -19006,7 +19432,8 @@
    }
   ],
   "ks_has": true,
-  "id": 426
+  "id": 426,
+  "etym": "auth(스스로, autos=자기 자신) + -entic(형용사) → 스스로(원작자가) 만든 → 진짜의"
  },
  {
   "day": 8,
@@ -19038,7 +19465,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 427
+  "id": 427,
+  "etym": "red-(다시, =re-) + und(물결치다, unda=파도) + -ant(형용사) → 넘치도록 물결치는 → 불필요한, 장황한"
  },
  {
   "day": 8,
@@ -19092,7 +19520,8 @@
    }
   ],
   "ks_has": true,
-  "id": 428
+  "id": 428,
+  "etym": "pro-(앞으로) + fus(쏟다, fundere) + -e → 앞으로 흘러넘치게 쏟은 → 풍부한"
  },
  {
   "day": 8,
@@ -19131,7 +19560,8 @@
    }
   ],
   "ks_has": true,
-  "id": 429
+  "id": 429,
+  "etym": "vor(먹다, vorare) + -acious(~을 잘하는) → 잘 먹어치우는 → 만족할 줄 모르는, 탐욕적인"
  },
  {
   "day": 8,
@@ -19179,7 +19609,8 @@
    }
   ],
   "ks_has": true,
-  "id": 430
+  "id": 430,
+  "etym": "extrem(가장 바깥, extremus=extra의 최상급) + -e → 맨 끝의 → 극심한, 지나친"
  },
  {
   "day": 8,
@@ -19227,7 +19658,8 @@
    }
   ],
   "ks_has": true,
-  "id": 431
+  "id": 431,
+  "etym": "rout(길, ruptus=길을 뚫다) + -ine(명사·형용사) → 늘 다니는 길 → 틀에 박힌, 평범한"
  },
  {
   "day": 8,
@@ -19266,7 +19698,8 @@
    }
   ],
   "ks_has": true,
-  "id": 432
+  "id": 432,
+  "etym": "ac-(=ad-, ~로) + cess(가다, cedere) + -ible(~할 수 있는) → ~로 갈 수 있는 → 접근할 수 있는"
  },
  {
   "day": 8,
@@ -19304,7 +19737,8 @@
    }
   ],
   "ks_has": true,
-  "id": 433
+  "id": 433,
+  "etym": "con-(함께) + stitu(세우다, statuere) + -ent(~하는 것) → 함께 세워 이루는 → 구성 요소의"
  },
  {
   "day": 8,
@@ -19337,7 +19771,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 434
+  "id": 434,
+  "etym": "in-(부정) + sol(익숙하다, solere) + -ent(형용사) → 도리에 익숙하지 않은 → 무례한"
  },
  {
   "day": 8,
@@ -19375,7 +19810,8 @@
    }
   ],
   "ks_has": true,
-  "id": 435
+  "id": 435,
+  "etym": "기본 어휘 — 통째로 암기 ('shed(헛간)'에서 나온 듯한 허접한 물건 → 질이 떨어지는)"
  },
  {
   "day": 8,
@@ -19430,7 +19866,8 @@
    }
   ],
   "ks_has": true,
-  "id": 436
+  "id": 436,
+  "etym": "rat(헤아리다·셈, ratio=이성) + -ional(형용사) → 이성으로 따지는 → 합리적인"
  },
  {
   "day": 8,
@@ -19462,7 +19899,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 437
+  "id": 437,
+  "etym": "ex-(밖으로) + (s)tinct(끄다·찌르다, stinguere) → 불을 완전히 꺼버린 → 멸종된"
  },
  {
   "day": 8,
@@ -19491,7 +19929,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 438
+  "id": 438,
+  "etym": "over-(지나치게) + estimat(평가하다, aestimare) + -ed(과거분사) → 지나치게 평가된 → 과대평가된"
  },
  {
   "day": 8,
@@ -19537,7 +19976,8 @@
    }
   ],
   "ks_has": true,
-  "id": 439
+  "id": 439,
+  "etym": "ard(타다, ardere=불타다) + -ent(형용사) → 불타는 듯한 → 열렬한"
  },
  {
   "day": 8,
@@ -19569,7 +20009,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 440
+  "id": 440,
+  "etym": "further(더, far의 비교급) + more(더) → 더 나아가 더 → 게다가"
  },
  {
   "day": 8,
@@ -19602,7 +20043,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 441
+  "id": 441,
+  "etym": "in-(부정) + ad-(~로) + vert(돌리다, vertere) + -ent(형용사) + -ly(부사) → 마음을 돌려 주의하지 않고 → 무심코"
  },
  {
   "day": 8,
@@ -19634,7 +20076,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 442
+  "id": 442,
+  "etym": "frank(솔직한, 프랑크족 Frank가 자유민이라 솔직함) + -ly(부사) → 솔직하게 → 솔직히"
  },
  {
   "day": 8,
@@ -19683,7 +20126,8 @@
    }
   ],
   "ks_has": true,
-  "id": 443
+  "id": 443,
+  "etym": "im-(=in-, 부정) + mens(재다, metiri=측정하다) + -e + -ly(부사) → 잴 수 없을 만큼 → 굉장히"
  },
  {
   "day": 8,
@@ -19713,7 +20157,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 444
+  "id": 444,
+  "etym": "as well(똑같이 잘) + as(~만큼) → ~만큼 똑같이 → ~뿐만 아니라 (well=좋게/마찬가지로)"
  },
  {
   "day": 8,
@@ -19752,7 +20197,8 @@
    }
   ],
   "ks_has": true,
-  "id": 445
+  "id": 445,
+  "etym": "to be(~인 것) + sure(확실한, securus=걱정 없는) → 확실하게 말하자면 → 틀림없이"
  },
  {
   "day": 8,
@@ -19790,7 +20236,8 @@
    }
   ],
   "ks_has": true,
-  "id": 446
+  "id": 446,
+  "etym": "broad(넓은, 기본 게르만어 어휘) + -ly(부사) → 넓게 보아 → 대체로"
  },
  {
   "day": 8,
@@ -19822,7 +20269,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 447
+  "id": 447,
+  "etym": "where(어디·그곳) + by(~에 의해) → 그것에 의하여 → 그것에 의하여 ~하는"
  },
  {
   "day": 8,
@@ -19851,7 +20299,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 448
+  "id": 448,
+  "etym": "be(수동) + ac-(=ad-, ~로) + company(동료, com-함께+panis빵=빵을 나누는 사이) + -ed → 동료와 함께 가게 되다 → ~을 동반하다"
  },
  {
   "day": 8,
@@ -19876,7 +20325,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 449
+  "id": 449,
+  "etym": "in-(부정) + de-(완전히) + fin(끝·경계, finis) + -ite(형용사) → 끝이 정해지지 않은 + period(기간) → 무기한"
  },
  {
   "day": 9,
@@ -19918,7 +20368,8 @@
    }
   ],
   "ks_has": true,
-  "id": 450
+  "id": 450,
+  "etym": "in-(안으로) + it(가다, ire) + -iate(~하게 하다) → 안으로 들어가게 하다 → 시작하다·입문시키다"
  },
  {
   "day": 9,
@@ -19960,7 +20411,8 @@
    }
   ],
   "ks_has": true,
-  "id": 451
+  "id": 451,
+  "etym": "trem(떨다, tremble) + -end-(~할 만한) + -ous(형용사) → 떨릴 만한 → (떨릴 정도로) 엄청난"
  },
  {
   "day": 9,
@@ -20000,7 +20452,8 @@
    }
   ],
   "ks_has": true,
-  "id": 452
+  "id": 452,
+  "etym": "break(부수다) + through(꿰뚫어) → 뚫고 나가다 → 난관을 돌파한 큰 발전"
  },
  {
   "day": 9,
@@ -20041,7 +20494,8 @@
    }
   ],
   "ks_has": true,
-  "id": 453
+  "id": 453,
+  "etym": "cope(맞서다, 라틴 colpus '치다'에서) + with(~와 함께) → ~와 맞서 싸우다 → ~에 대처하다"
  },
  {
   "day": 9,
@@ -20080,7 +20534,8 @@
    }
   ],
   "ks_has": true,
-  "id": 454
+  "id": 454,
+  "etym": "in-(안으로) + duc(이끌다, ducere) + -ment(명사) → 안으로 이끄는 것 → 유인책"
  },
  {
   "day": 9,
@@ -20113,7 +20568,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 455
+  "id": 455,
+  "etym": "ir-(부정) + re-(뒤로) + vers(돌다, vertere) + -ible(~할 수 있는) → 뒤로 돌릴 수 없는 → 돌이킬 수 없는"
  },
  {
   "day": 9,
@@ -20179,7 +20635,8 @@
    }
   ],
   "ks_has": true,
-  "id": 456
+  "id": 456,
+  "etym": "com-(함께) + pris(잡다, prehendere) → 함께 잡다 → (여러 요소를) 포함하다"
  },
  {
   "day": 9,
@@ -20210,7 +20667,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 457
+  "id": 457,
+  "etym": "culmin(정상, culmen) + -ation(명사) → 정상에 이름 → 정점·절정"
  },
  {
   "day": 9,
@@ -20264,7 +20722,8 @@
    }
   ],
   "ks_has": true,
-  "id": 458
+  "id": 458,
+  "etym": "al-(~에게, ad-) + lege(주군, liege) + -ance(명사) → 주군에게 바치는 것 → 충성"
  },
  {
   "day": 9,
@@ -20312,7 +20771,8 @@
    }
   ],
   "ks_has": true,
-  "id": 459
+  "id": 459,
+  "etym": "not(표시하다·알다, notare) + -able(~할 만한) → 알아볼 만한 → 주목할 만한"
  },
  {
   "day": 9,
@@ -20343,7 +20803,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 460
+  "id": 460,
+  "etym": "idio-(자기 자신의·고유한) + syn-(함께) + cras(섞다, krasis) + -y(명사) → 고유하게 섞인 기질 → 특이성"
  },
  {
   "day": 9,
@@ -20384,7 +20845,8 @@
    }
   ],
   "ks_has": true,
-  "id": 461
+  "id": 461,
+  "etym": "min(작은, minuere '줄이다') + -ute → 작게 줄여진 → 미세한·아주 작은"
  },
  {
   "day": 9,
@@ -20433,7 +20895,8 @@
    }
   ],
   "ks_has": true,
-  "id": 462
+  "id": 462,
+  "etym": "mark(표시) + -ed(~된) + -ly(부사) → 표시가 날 만큼 → 현저하게"
  },
  {
   "day": 9,
@@ -20473,7 +20936,8 @@
    }
   ],
   "ks_has": true,
-  "id": 463
+  "id": 463,
+  "etym": "phen(나타나다, phainein) + -omenon(나타난 것) → 눈에 나타난 것 → 현상"
  },
  {
   "day": 9,
@@ -20519,7 +20983,8 @@
    }
   ],
   "ks_has": true,
-  "id": 464
+  "id": 464,
+  "etym": "dis-(사방으로) + semin(씨앗, semen) + -ate(~하다) → 씨앗을 사방에 뿌리다 → 퍼뜨리다"
  },
  {
   "day": 9,
@@ -20557,7 +21022,8 @@
    }
   ],
   "ks_has": true,
-  "id": 465
+  "id": 465,
+  "etym": "cur(달리다, currere) + -ent(형용사) → (지금) 흐르고 있는 → 현재의"
  },
  {
   "day": 9,
@@ -20599,7 +21065,8 @@
    }
   ],
   "ks_has": true,
-  "id": 466
+  "id": 466,
+  "etym": "de-(아래로) + trit(닳다·문지르다, terere) + -mental → 닳게 만드는 → 해로운"
  },
  {
   "day": 9,
@@ -20631,7 +21098,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 467
+  "id": 467,
+  "etym": "pre-(미리) + sum(취하다, sumere) → 미리 (사실로) 취하다 → 추정하다·가정하다"
  },
  {
   "day": 9,
@@ -20679,7 +21147,8 @@
    }
   ],
   "ks_has": true,
-  "id": 468
+  "id": 468,
+  "etym": "an-(없는) + arch(지배자·통치, archos) + -y(명사) → 통치자가 없음 → 무정부 상태·혼란"
  },
  {
   "day": 9,
@@ -20719,7 +21188,8 @@
    }
   ],
   "ks_has": true,
-  "id": 469
+  "id": 469,
+  "etym": "기본 어휘 — 통째로 암기 (뱀처럼 구불구불 나아가다)"
  },
  {
   "day": 9,
@@ -20751,7 +21221,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 470
+  "id": 470,
+  "etym": "sophist(궤변가·현자, sophos '지혜로운') + -icated(~되게 만든) → 세련되게 다듬어진 → 정교한·복잡한"
  },
  {
   "day": 9,
@@ -20807,7 +21278,8 @@
    }
   ],
   "ks_has": true,
-  "id": 471
+  "id": 471,
+  "etym": "de-(~로부터) + riv(강·물줄기, rivus) + -e → 물줄기를 ~로부터 끌어오다 → 끌어내다·유래하다"
  },
  {
   "day": 9,
@@ -20848,7 +21320,8 @@
    }
   ],
   "ks_has": true,
-  "id": 472
+  "id": 472,
+  "etym": "sol(혼자, solus) + -e → 혼자인 → 유일한"
  },
  {
   "day": 9,
@@ -20896,7 +21369,8 @@
    }
   ],
   "ks_has": true,
-  "id": 473
+  "id": 473,
+  "etym": "em-(~하게 만들다, in-) + bell(아름다운, bellus) + -ish(동사) → 아름답게 만들다 → 장식하다"
  },
  {
   "day": 9,
@@ -20942,7 +21416,8 @@
    }
   ],
   "ks_has": true,
-  "id": 474
+  "id": 474,
+  "etym": "ant-(반대, anti-) + agon(싸움·경기, agon) + -ize(~하다) → 맞서 싸우다 → 반감을 사다·대항하다"
  },
  {
   "day": 9,
@@ -20998,7 +21473,8 @@
    }
   ],
   "ks_has": true,
-  "id": 475
+  "id": 475,
+  "etym": "기본 어휘 — 통째로 암기 (고대영어 giernan '갈망하다')"
  },
  {
   "day": 9,
@@ -21037,7 +21513,8 @@
    }
   ],
   "ks_has": true,
-  "id": 476
+  "id": 476,
+  "etym": "per-(통과하여) + mit(보내다, mittere) → 통과해 지나가게 보내다 → 허락하다"
  },
  {
   "day": 9,
@@ -21077,7 +21554,8 @@
    }
   ],
   "ks_has": true,
-  "id": 477
+  "id": 477,
+  "etym": "scarce(드문, 라틴 excerpere '뽑아내다'→부족한) + -ity(명사) → 드문 상태 → 부족·결핍"
  },
  {
   "day": 9,
@@ -21110,7 +21588,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 478
+  "id": 478,
+  "etym": "re-(뒤로·반대로) + nounce(알리다·고하다, nuntiare) → (그만둔다고) 도로 선언하다 → 포기하다·버리다"
  },
  {
   "day": 9,
@@ -21157,7 +21636,8 @@
    }
   ],
   "ks_has": true,
-  "id": 479
+  "id": 479,
+  "etym": "keep(유지하다) + in check(체크 상태로) → 견제 상태로 붙잡아 두다 → 제어하다·억제하다"
  },
  {
   "day": 9,
@@ -21188,7 +21668,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 480
+  "id": 480,
+  "etym": "sub-(아래에서) + sist(서다, sistere) + -ence(명사) → 밑에서 버티고 서 있음 → 생존·생계"
  },
  {
   "day": 9,
@@ -21221,7 +21702,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 481
+  "id": 481,
+  "etym": "ann(해·년, annus) + -ual(형용사) + -ly(부사) → 해마다 → 매년"
  },
  {
   "day": 9,
@@ -21265,7 +21747,8 @@
    }
   ],
   "ks_has": true,
-  "id": 482
+  "id": 482,
+  "etym": "e-(밖으로, ex-) + merg(잠기다, mergere) + -e → 잠긴 데서 밖으로 나오다 → 나타나다"
  },
  {
   "day": 9,
@@ -21305,7 +21788,8 @@
    }
   ],
   "ks_has": true,
-  "id": 483
+  "id": 483,
+  "etym": "custom(관습, 라틴 consuetudo) + -ary(형용사) → 관습에 따른 → 습관적인·관례적인"
  },
  {
   "day": 9,
@@ -21335,7 +21819,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 484
+  "id": 484,
+  "etym": "wide(넓은) + -ly(부사) → 넓게 → 널리"
  },
  {
   "day": 9,
@@ -21383,7 +21868,8 @@
    }
   ],
   "ks_has": true,
-  "id": 485
+  "id": 485,
+  "etym": "as-(~에게, ad-) + sign(표시·기호, signare '표시하다') → ~에게 (몫을) 표시해 주다 → 할당하다·배정하다"
  },
  {
   "day": 9,
@@ -21444,7 +21930,8 @@
    }
   ],
   "ks_has": true,
-  "id": 486
+  "id": 486,
+  "etym": "equi-(같은, aequus) + voc(목소리·말, vox) + -al(형용사) → 두 가지로 똑같이 들리는 → 애매한·모호한"
  },
  {
   "day": 9,
@@ -21524,7 +22011,8 @@
    }
   ],
   "ks_has": true,
-  "id": 487
+  "id": 487,
+  "etym": "re-(뒤로) + lease(느슨하게 하다, laxare '풀다') → 도로 느슨하게 풀다 → 풀어주다·석방하다"
  },
  {
   "day": 9,
@@ -21570,7 +22058,8 @@
    }
   ],
   "ks_has": true,
-  "id": 488
+  "id": 488,
+  "etym": "essence(본질, esse '있다') + -ial(형용사) + -ly(부사) → 본질적으로 → 기본적으로·본질적으로"
  },
  {
   "day": 9,
@@ -21611,7 +22100,8 @@
    }
   ],
   "ks_has": true,
-  "id": 489
+  "id": 489,
+  "etym": "over(위에서) + see(보다) → 위에서 내려다보다 → 감독하다"
  },
  {
   "day": 9,
@@ -21651,7 +22141,8 @@
    }
   ],
   "ks_has": true,
-  "id": 490
+  "id": 490,
+  "etym": "rap(낚아채다, rapere) + -id(형용사) + -ly(부사) → 낚아챌 듯 빠르게 → 급속히·빨리"
  },
  {
   "day": 9,
@@ -21684,7 +22175,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 491
+  "id": 491,
+  "etym": "ac-(~에게, ad-) + knowledge(알다·인정) → ~을 알고 있다고 표하다 → 인정하다"
  },
  {
   "day": 9,
@@ -21724,7 +22216,8 @@
    }
   ],
   "ks_has": true,
-  "id": 492
+  "id": 492,
+  "etym": "기본 어휘 — 통째로 암기 (고대영어 ruh '거친')"
  },
  {
   "day": 9,
@@ -21788,7 +22281,8 @@
    }
   ],
   "ks_has": true,
-  "id": 493
+  "id": 493,
+  "etym": "pre-(미리) + clud(닫다, claudere) + -e → 미리 (문을) 닫아 버리다 → 막다·방해하다"
  },
  {
   "day": 9,
@@ -21821,7 +22315,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 494
+  "id": 494,
+  "etym": "port(나르다, portare) + -able(~할 수 있는) → 나를 수 있는 → 휴대용의"
  },
  {
   "day": 9,
@@ -21860,7 +22355,8 @@
    }
   ],
   "ks_has": true,
-  "id": 495
+  "id": 495,
+  "etym": "pre-(미리) + sum(취하다, sumere) + -able(~할 만한) → 미리 사실로 취할 만한 → 그럴듯한·있음직한"
  },
  {
   "day": 9,
@@ -21899,7 +22395,8 @@
    }
   ],
   "ks_has": true,
-  "id": 496
+  "id": 496,
+  "etym": "calcul(계산하다, calculus '조약돌') + -ated(~된) + -ly(부사) → 계산된 듯이 → 계획적으로·고의로"
  },
  {
   "day": 9,
@@ -21938,7 +22435,8 @@
    }
   ],
   "ks_has": true,
-  "id": 497
+  "id": 497,
+  "etym": "de-(벗어나) + via(길, via) + -tion(명사) → 길에서 벗어남 → 일탈·벗어남"
  },
  {
   "day": 9,
@@ -21976,7 +22474,8 @@
    }
   ],
   "ks_has": true,
-  "id": 498
+  "id": 498,
+  "etym": "hair(머리카락) + line(선) → 머리카락처럼 가는 선 → 아주 가느다란"
  },
  {
   "day": 9,
@@ -22048,7 +22547,8 @@
    }
   ],
   "ks_has": true,
-  "id": 499
+  "id": 499,
+  "etym": "form(형태, forma) + -ula(작은 것) + -ate(~하다) → 형태(틀)를 잡아 만들다 → 고안하다·발전시키다"
  },
  {
   "day": 9,
@@ -22090,7 +22590,8 @@
    }
   ],
   "ks_has": true,
-  "id": 500
+  "id": 500,
+  "etym": "기본 어휘 — 통째로 암기 (라틴 astus '교활함'에서 온 astute, '꾀가 밝은')"
  },
  {
   "day": 9,
@@ -22129,7 +22630,8 @@
    }
   ],
   "ks_has": true,
-  "id": 501
+  "id": 501,
+  "etym": "re-(다시) + ly(믿다·기대다, ligare '묶다') + -able(~할 수 있는) → 다시 의지할 수 있는 → 신뢰할 수 있는"
  },
  {
   "day": 9,
@@ -22159,7 +22661,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 502
+  "id": 502,
+  "etym": "take precedence: pre-(앞서) + ced(가다, cedere) → 앞서 감 → 우선권. over(~위에) → ~보다 우선하다"
  },
  {
   "day": 9,
@@ -22208,7 +22711,8 @@
    }
   ],
   "ks_has": true,
-  "id": 503
+  "id": 503,
+  "etym": "al-(~쪽으로, ad-) + lus(놀다·장난하다, ludere) + -ion(명사) → ~쪽으로 슬쩍 빗대어 말함 → 간접적 언급·암시"
  },
  {
   "day": 9,
@@ -22238,7 +22742,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 504
+  "id": 504,
+  "etym": "loco-(장소, locus) + mot(움직이다, movere) + -ion(명사) → 장소를 옮겨 움직임 → 이동·운동 능력"
  },
  {
   "day": 9,
@@ -22269,7 +22774,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 505
+  "id": 505,
+  "etym": "princip(으뜸·우두머리, princeps) + -al(형용사) + -ly(부사) → 으뜸으로 → 주로"
  },
  {
   "day": 9,
@@ -22316,7 +22822,8 @@
    }
   ],
   "ks_has": true,
-  "id": 506
+  "id": 506,
+  "etym": "re-(반대로) + bell(전쟁, bellum) + -ion(명사) → 맞서 전쟁을 일으킴 → 반란"
  },
  {
   "day": 9,
@@ -22347,7 +22854,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 507
+  "id": 507,
+  "etym": "re-(다시) + viv(살다, vivere) + -e → 다시 살아나게 하다 → 회복하다·소생하다"
  },
  {
   "day": 10,
@@ -22403,7 +22911,8 @@
    }
   ],
   "ks_has": true,
-  "id": 508
+  "id": 508,
+  "etym": "mod(척도, 방식) + -ify(~로 만들다) → 방식대로 만들다 → 수정하다"
  },
  {
   "day": 10,
@@ -22442,7 +22951,8 @@
    }
   ],
   "ks_has": true,
-  "id": 509
+  "id": 509,
+  "etym": "in-(안으로) + it(가다) + -ial(형용사) + -ly(부사) → 안으로 들어가는 → 처음으로 들어선 → 처음에"
  },
  {
   "day": 10,
@@ -22499,7 +23009,8 @@
    }
   ],
   "ks_has": true,
-  "id": 510
+  "id": 510,
+  "etym": "crit(판단하다, 가르다) + -ical(~의) → 판단을 가르는 → 갈림길의 → 매우 중요한"
  },
  {
   "day": 10,
@@ -22539,7 +23050,8 @@
    }
   ],
   "ks_has": true,
-  "id": 511
+  "id": 511,
+  "etym": "lumin(빛) + -ous(~이 가득한) → 빛이 가득한 → 빛나는"
  },
  {
   "day": 10,
@@ -22581,7 +23093,8 @@
    }
   ],
   "ks_has": true,
-  "id": 512
+  "id": 512,
+  "etym": "facil(쉬운) + -ate(~하게 하다) → 쉽게 만들다 → 용이하게 하다"
  },
  {
   "day": 10,
@@ -22612,7 +23125,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 513
+  "id": 513,
+  "etym": "re-(다시) + fine(곱게 하다, 정제하다) + -ment(명사) → 다시 곱게 다듬음 → 개선"
  },
  {
   "day": 10,
@@ -22695,7 +23209,8 @@
    }
   ],
   "ks_has": true,
-  "id": 514
+  "id": 514,
+  "etym": "at-(ad-, ~에게) + tribut(주다, 할당하다) + -e → ~에게 주어진 것 → 본래 지닌 것 → 속성, 특성"
  },
  {
   "day": 10,
@@ -22749,7 +23264,8 @@
    }
   ],
   "ks_has": true,
-  "id": 515
+  "id": 515,
+  "etym": "기본 어휘 — 통째로 암기 (의성어, 트림하듯 '벌컥' 내뿜다로 연상)"
  },
  {
   "day": 10,
@@ -22780,7 +23296,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 516
+  "id": 516,
+  "etym": "under-(아래로) + rate(평가하다) → 실제보다 낮게 평가하다 → 과소평가하다"
  },
  {
   "day": 10,
@@ -22829,7 +23346,8 @@
    }
   ],
   "ks_has": true,
-  "id": 517
+  "id": 517,
+  "etym": "im-(in-, 부정) + mens(측정하다) + -e → 측정할 수 없는 → 거대한, 막대한"
  },
  {
   "day": 10,
@@ -22872,7 +23390,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 518
+  "id": 518,
+  "etym": "vir(남자, 사나이) + -tue(명사) → 사나이다움 → 뛰어난 자질 → 미덕"
  },
  {
   "day": 10,
@@ -22902,7 +23421,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 519
+  "id": 519,
+  "etym": "bustle(부산하게 움직이다) + -ing(형용사) → 부산히 움직이는 → 북적거리는"
  },
  {
   "day": 10,
@@ -22961,7 +23481,8 @@
    }
   ],
   "ks_has": true,
-  "id": 520
+  "id": 520,
+  "etym": "di-(dis-, 분리) + stinct(찌르다, 구별하다) → 찔러서 구별된 → 별개의, 뚜렷이 다른"
  },
  {
   "day": 10,
@@ -23007,7 +23528,8 @@
    }
   ],
   "ks_has": true,
-  "id": 521
+  "id": 521,
+  "etym": "thrive(번성하다) + -ing(형용사) → 번성하고 있는 → 번창하는"
  },
  {
   "day": 10,
@@ -23056,7 +23578,8 @@
    }
   ],
   "ks_has": true,
-  "id": 522
+  "id": 522,
+  "etym": "ob-(앞에, 마주) + vi(via, 길) + -ous(~의) → 길 앞에 놓인 → 누구나 보는 → 명백한"
  },
  {
   "day": 10,
@@ -23102,7 +23625,8 @@
    }
   ],
   "ks_has": true,
-  "id": 523
+  "id": 523,
+  "etym": "ex-(밖으로) + cept(잡다) + -ion + -al(~의) → 밖으로 따로 집어낸 → 예외적인, 뛰어난"
  },
  {
   "day": 10,
@@ -23148,7 +23672,8 @@
    }
   ],
   "ks_has": true,
-  "id": 524
+  "id": 524,
+  "etym": "cumber(방해하다, 짐 지우다) + -some(~한 성질의) → 짐스러운 → 다루기 힘든, 성가신"
  },
  {
   "day": 10,
@@ -23178,7 +23703,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 525
+  "id": 525,
+  "etym": "기본 어휘 — 통째로 암기 (고대 노르드어 bón '부탁, 은혜'에서, '청한 것이 들어온 혜택'으로 연상)"
  },
  {
   "day": 10,
@@ -23219,7 +23745,8 @@
    }
   ],
   "ks_has": true,
-  "id": 526
+  "id": 526,
+  "etym": "opt(최선의) + -imum(최상급) → 가장 좋은 → 최적의"
  },
  {
   "day": 10,
@@ -23258,7 +23785,8 @@
    }
   ],
   "ks_has": true,
-  "id": 527
+  "id": 527,
+  "etym": "uni-(하나) + form(형태) + -ly(부사) → 하나의 형태로 → 고르게, 균일하게"
  },
  {
   "day": 10,
@@ -23290,7 +23818,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 528
+  "id": 528,
+  "etym": "un-(반대 동작) + leash(가죽끈으로 묶다) → 묶은 끈을 풀다 → 풀어 놓다, 해방하다"
  },
  {
   "day": 10,
@@ -23344,7 +23873,8 @@
    }
   ],
   "ks_has": true,
-  "id": 529
+  "id": 529,
+  "etym": "ac-(ad-, ~쪽으로) + quir(quaerere, 구하다, 찾다) + -e → ~을 향해 구하다 → 획득하다"
  },
  {
   "day": 10,
@@ -23390,7 +23920,8 @@
    }
   ],
   "ks_has": true,
-  "id": 530
+  "id": 530,
+  "etym": "그리스어 ainigma(수수께끼 같은 말)에서 — 통째로 암기 (aenigma → enigma)"
  },
  {
   "day": 10,
@@ -23440,7 +23971,8 @@
    }
   ],
   "ks_has": true,
-  "id": 531
+  "id": 531,
+  "etym": "stead(자리, 장소) + fast(단단히 고정된) → 자리에 단단히 박힌 → 확고한, 변함없는"
  },
  {
   "day": 10,
@@ -23486,7 +24018,8 @@
    }
   ],
   "ks_has": true,
-  "id": 532
+  "id": 532,
+  "etym": "라틴어 dignitas(품위, 가치)에서 dainty로 — 통째로 암기 ('품위 있는 → 우아한'으로 연상)"
  },
  {
   "day": 10,
@@ -23519,7 +24052,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 533
+  "id": 533,
+  "etym": "an-(부정) + homal(homos, 같은) + -y(명사) → 같지 않음 → 고르지 않음 → 변칙, 이례"
  },
  {
   "day": 10,
@@ -23566,7 +24100,8 @@
    }
   ],
   "ks_has": true,
-  "id": 534
+  "id": 534,
+  "etym": "splend(빛나다) + -id(~한) → 빛나는 → 훌륭한, 멋진"
  },
  {
   "day": 10,
@@ -23606,7 +24141,8 @@
    }
   ],
   "ks_has": true,
-  "id": 535
+  "id": 535,
+  "etym": "r(re-, 다시) + ap-(ad-, ~에게) + port(가져오다) → 서로에게 다시 가져다줌 → 마음을 주고받음 → 친밀한 관계"
  },
  {
   "day": 10,
@@ -23636,7 +24172,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 536
+  "id": 536,
+  "etym": "quest(quaerere, 구하다, 묻다) + -ion(명사) → 묻는 것 → (동사) 의문을 제기하다"
  },
  {
   "day": 10,
@@ -23685,7 +24222,8 @@
    }
   ],
   "ks_has": true,
-  "id": 537
+  "id": 537,
+  "etym": "기본 어휘 — 통째로 암기 (중세영어 scateren, '확 흩뿌리다'로 연상)"
  },
  {
   "day": 10,
@@ -23734,7 +24272,8 @@
    }
   ],
   "ks_has": true,
-  "id": 538
+  "id": 538,
+  "etym": "e-(ex-, 밖으로) + scal(scala, 사다리, 계단) + -ate(~하다) → 사다리를 타고 올라가다 → 확대되다, 격화되다"
  },
  {
   "day": 10,
@@ -23775,7 +24314,8 @@
    }
   ],
   "ks_has": true,
-  "id": 539
+  "id": 539,
+  "etym": "tempor(tempus, 시간) + -ary(~의) → 시간에 한정된 → 일시적인, 임시의"
  },
  {
   "day": 10,
@@ -23821,7 +24361,8 @@
    }
   ],
   "ks_has": true,
-  "id": 540
+  "id": 540,
+  "etym": "at-(ad-, ~에게) + test(testis, 증인) → ~에게 증인이 되어주다 → 증명하다, 입증하다"
  },
  {
   "day": 10,
@@ -23859,7 +24400,8 @@
    }
   ],
   "ks_has": true,
-  "id": 541
+  "id": 541,
+  "etym": "fort(강한) + -ify(~로 만들다) → 강하게 만들다 → 강화하다, 요새화하다"
  },
  {
   "day": 10,
@@ -23912,7 +24454,8 @@
    }
   ],
   "ks_has": true,
-  "id": 542
+  "id": 542,
+  "etym": "re-(뒤로, 다시) + move(움직이다) → 뒤로 옮기다 → 치우다 → 제거하다"
  },
  {
   "day": 10,
@@ -23945,7 +24488,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 543
+  "id": 543,
+  "etym": "기본 어휘 — 통째로 암기 ('끝'이 곧 도달하려는 '목적, 목표'로 의미 확장)"
  },
  {
   "day": 10,
@@ -23986,7 +24530,8 @@
    }
   ],
   "ks_has": true,
-  "id": 544
+  "id": 544,
+  "etym": "plenty(가득함) + -ful(~로 가득한) → 가득 차 있는 → 풍부한"
  },
  {
   "day": 10,
@@ -24015,7 +24560,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 545
+  "id": 545,
+  "etym": "구동사: make(해내다) + it(그것을) → 그것을 해내다 → (시간 안에) 도착하다, 성공하다"
  },
  {
   "day": 10,
@@ -24064,7 +24610,8 @@
    }
   ],
   "ks_has": true,
-  "id": 546
+  "id": 546,
+  "etym": "de-(완전히) + vast(텅 빈, 황폐한) + -ate(~하게 하다) → 완전히 텅 비게 하다 → 파괴하다, 황폐화하다"
  },
  {
   "day": 10,
@@ -24103,7 +24650,8 @@
    }
   ],
   "ks_has": true,
-  "id": 547
+  "id": 547,
+  "etym": "e-(ex-, 밖으로) + min(돌출하다, 두드러지다) + -ent + -ly → 밖으로 두드러지게 → 대단히, 매우"
  },
  {
   "day": 10,
@@ -24134,7 +24682,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 548
+  "id": 548,
+  "etym": "sub-(아래로) + tract(끌다, 당기다) + -ion(명사) → 아래로 끌어내림 → 삭감, 뺄셈"
  },
  {
   "day": 10,
@@ -24163,7 +24712,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 549
+  "id": 549,
+  "etym": "관용구: rule of thumb(엄지로 어림재는 규칙) → 정밀하지 않은 경험적 기준 → 경험상 대개, 일반적으로"
  },
  {
   "day": 10,
@@ -24204,7 +24754,8 @@
    }
   ],
   "ks_has": true,
-  "id": 550
+  "id": 550,
+  "etym": "기본 어휘 — 통째로 암기 (윤곽이 'blurry'하게 번지는 모습으로 연상)"
  },
  {
   "day": 10,
@@ -24251,7 +24802,8 @@
    }
   ],
   "ks_has": true,
-  "id": 551
+  "id": 551,
+  "etym": "re-(다시) + lay(lais, 남겨두다, 놓다) → 받은 것을 다시 (다음 주자에게) 놓아주다 → 전달하다, 중계하다"
  },
  {
   "day": 10,
@@ -24281,7 +24833,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 552
+  "id": 552,
+  "etym": "ex-(밖으로) + pand(pandere, 펼치다) + -able(~할 수 있는) → 밖으로 펼칠 수 있는 → 확장 가능한"
  },
  {
   "day": 10,
@@ -24338,7 +24891,8 @@
    }
   ],
   "ks_has": true,
-  "id": 553
+  "id": 553,
+  "etym": "scrupul(scrupulus, 발에 박힌 작은 돌→불안) + -ous(~한) → 작은 돌까지 신경 쓰는 → 꼼꼼한, 세심한"
  },
  {
   "day": 10,
@@ -24371,7 +24925,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 554
+  "id": 554,
+  "etym": "ap-(ad-, ~에) + proxim(proximus, 가장 가까운) + -ate + -ly → 가장 가까운 정도로 → 대략, 약"
  },
  {
   "day": 10,
@@ -24403,7 +24958,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 555
+  "id": 555,
+  "etym": "para-(반대로, 벗어나) + dox(doxa, 의견, 통념) + -ical(~의) → 통념에서 벗어난 → 역설적인"
  },
  {
   "day": 10,
@@ -24436,7 +24992,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 556
+  "id": 556,
+  "etym": "sourc(surgere, 솟아오르다)에서 → 물이 솟아오르는 곳 → 근원, 기원"
  },
  {
   "day": 10,
@@ -24484,7 +25041,8 @@
    }
   ],
   "ks_has": true,
-  "id": 557
+  "id": 557,
+  "etym": "ad-(~에) + her(haerere, 들러붙다) + -e → ~에 들러붙다 → 부착되다, 달라붙다"
  },
  {
   "day": 10,
@@ -24524,7 +25082,8 @@
    }
   ],
   "ks_has": true,
-  "id": 558
+  "id": 558,
+  "etym": "a-(ad-, ~쪽으로) + vail(valere, 가치 있다, 쓸모 있다) + -able(~할 수 있는) → 쓸모 있게 쓸 수 있는 → 이용 가능한"
  },
  {
   "day": 10,
@@ -24565,7 +25124,8 @@
    }
   ],
   "ks_has": true,
-  "id": 559
+  "id": 559,
+  "etym": "구동사: get rid(rid 없애다) + of(~을) → ~을 없앤 상태가 되다 → 무엇을 없애다, 제거하다"
  },
  {
   "day": 10,
@@ -24597,7 +25157,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 560
+  "id": 560,
+  "etym": "re-(뒤로) + pel(pellere, 밀다) → 뒤로 밀어내다 → 물리치다, 격퇴하다"
  },
  {
   "day": 10,
@@ -24626,7 +25187,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 561
+  "id": 561,
+  "etym": "maxim(maximus, 가장 큰) + -ize(~로 만들다) → 가장 크게 만들다 → 극대화하다"
  },
  {
   "day": 10,
@@ -24657,7 +25219,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 562
+  "id": 562,
+  "etym": "outer(바깥쪽의) + -most(가장 ~한, 최상급) → 가장 바깥쪽의 → 가장 바깥의"
  },
  {
   "day": 10,
@@ -24697,7 +25260,8 @@
    }
   ],
   "ks_has": true,
-  "id": 563
+  "id": 563,
+  "etym": "기본 어휘 — 통째로 암기 (게르만어 bindan, '끈으로 묶다'로 연상; band와 동족어)"
  },
  {
   "day": 10,
@@ -24737,7 +25301,8 @@
    }
   ],
   "ks_has": true,
-  "id": 564
+  "id": 564,
+  "etym": "vis(videre, 보다) + -ible(~할 수 있는) → 볼 수 있는 → 눈에 보이는"
  },
  {
   "day": 11,
@@ -24779,7 +25344,8 @@
    }
   ],
   "ks_has": true,
-  "id": 565
+  "id": 565,
+  "etym": "plaus(박수치다, 칭찬하다) + -ible(~할 수 있는) → 박수받을 만한 → 그럴듯한, 받아들일 만한"
  },
  {
   "day": 11,
@@ -24827,7 +25393,8 @@
    }
   ],
   "ks_has": true,
-  "id": 566
+  "id": 566,
+  "etym": "trans-(가로질러, 넘어) + form(형태) → 형태를 넘어 바꾸다 → 변형시키다"
  },
  {
   "day": 11,
@@ -24874,7 +25441,8 @@
    }
   ],
   "ks_has": true,
-  "id": 567
+  "id": 567,
+  "etym": "counter(맞은편의, 짝이 되는) + part(부분) → 맞은편 부분 → 쌍을 이루는 한쪽, 동등한 것"
  },
  {
   "day": 11,
@@ -24917,7 +25485,8 @@
    }
   ],
   "ks_has": true,
-  "id": 568
+  "id": 568,
+  "etym": "never(결코 ~않다) + the + less(덜) → 그만큼도 덜하지 않게 → 그럼에도 불구하고"
  },
  {
   "day": 11,
@@ -24995,7 +25564,8 @@
    }
   ],
   "ks_has": true,
-  "id": 569
+  "id": 569,
+  "etym": "pro-(앞으로) + nounc(알리다, 말하다) + -ed(~된) → 앞으로 드러난 → 현저한, 뚜렷한"
  },
  {
   "day": 11,
@@ -25041,7 +25611,8 @@
    }
   ],
   "ks_has": true,
-  "id": 570
+  "id": 570,
+  "etym": "celebr(군중이 모이다, 기리다) + -ate(~하다) + -ed(~된) → 많은 사람이 기리는 → 유명한, 저명한"
  },
  {
   "day": 11,
@@ -25081,7 +25652,8 @@
    }
   ],
   "ks_has": true,
-  "id": 571
+  "id": 571,
+  "etym": "ex-(밖으로) + ceed(가다) + -ing(~하는) + -ly(부사) → 한계 밖으로 넘어가게 → 대단히, 극도로"
  },
  {
   "day": 11,
@@ -25120,7 +25692,8 @@
    }
   ],
   "ks_has": true,
-  "id": 572
+  "id": 572,
+  "etym": "chance(우연, 운) + -y(~한 성질의) → 운에 달린 → 위험한, 불확실한"
  },
  {
   "day": 11,
@@ -25168,7 +25741,8 @@
    }
   ],
   "ks_has": true,
-  "id": 573
+  "id": 573,
+  "etym": "vert(돌다) → 꼭대기로 도는 지점(vertex) + -ical(~의) → 정점에서 내려오는 → 수직의"
  },
  {
   "day": 11,
@@ -25217,7 +25791,8 @@
    }
   ],
   "ks_has": true,
-  "id": 574
+  "id": 574,
+  "etym": "per-(완전히, 끝까지) + sist(서다) → 끝까지 버티고 서 있다 → 지속되다, 계속되다"
  },
  {
   "day": 11,
@@ -25274,7 +25849,8 @@
    }
   ],
   "ks_has": true,
-  "id": 575
+  "id": 575,
+  "etym": "magn(큰) + -itude(상태, 정도) → 큰 정도 → 규모, 정도"
  },
  {
   "day": 11,
@@ -25329,7 +25905,8 @@
    }
   ],
   "ks_has": true,
-  "id": 576
+  "id": 576,
+  "etym": "dis-(분리하여) + cern(체로 거르다, 구별하다) → 갈라내어 구별하다 → 파악하다, 알아내다"
  },
  {
   "day": 11,
@@ -25361,7 +25938,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 577
+  "id": 577,
+  "etym": "gener(낳다, 생기게 하다) + -ate(~하다) → 생겨나게 하다 → 만들어내다, 발생시키다"
  },
  {
   "day": 11,
@@ -25417,7 +25995,8 @@
    }
   ],
   "ks_has": true,
-  "id": 578
+  "id": 578,
+  "etym": "ec-(밖으로) + centr(중심) + -ic(~한) → 중심에서 벗어난 → 별난, 특이한"
  },
  {
   "day": 11,
@@ -25476,7 +26055,8 @@
    }
   ],
   "ks_has": true,
-  "id": 579
+  "id": 579,
+  "etym": "alter(다른) + -native(~하는 성질의) → 다른 쪽을 택하는 → 대안이 되는, 다른"
  },
  {
   "day": 11,
@@ -25517,7 +26097,8 @@
    }
   ],
   "ks_has": true,
-  "id": 580
+  "id": 580,
+  "etym": "strat(군대) + -egy(이끄는 기술) → 군대를 이끄는 기술 → 전략, 방법"
  },
  {
   "day": 11,
@@ -25549,7 +26130,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 581
+  "id": 581,
+  "etym": "re-(다시) + fine(순수하게 하다, 끝맺다) → 다시 곱게 만들다 → 개선하다, 다듬다"
  },
  {
   "day": 11,
@@ -25597,7 +26179,8 @@
    }
   ],
   "ks_has": true,
-  "id": 582
+  "id": 582,
+  "etym": "preci(값, 가격) + -ous(~이 많은) → 값이 많이 나가는 → 귀중한, 값비싼"
  },
  {
   "day": 11,
@@ -25638,7 +26221,8 @@
    }
   ],
   "ks_has": true,
-  "id": 583
+  "id": 583,
+  "etym": "기본 어휘 — 통째로 암기 (라틴 subtilis '가늘게 짠 천'에서 유래 → 미묘한)"
  },
  {
   "day": 11,
@@ -25669,7 +26253,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 584
+  "id": 584,
+  "etym": "con-(함께) + duc(이끌다) + -ive(~하는 경향의) → ~로 함께 이끄는 → ~에 도움이 되는"
  },
  {
   "day": 11,
@@ -25700,7 +26285,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 585
+  "id": 585,
+  "etym": "pre-(미리) + occupy(차지하다) → 마음을 미리 차지당한 → ~에 몰두한, ~에 사로잡힌"
  },
  {
   "day": 11,
@@ -25741,7 +26327,8 @@
    }
   ],
   "ks_has": true,
-  "id": 586
+  "id": 586,
+  "etym": "기본 어휘 — 통째로 암기 (게르만어 기원의 '빠른')"
  },
  {
   "day": 11,
@@ -25789,7 +26376,8 @@
    }
   ],
   "ks_has": true,
-  "id": 587
+  "id": 587,
+  "etym": "men(돌출하다, 위협하다 / 라틴 minari 위협하다) + -ace → 위협을 가하다 → 위협하다"
  },
  {
   "day": 11,
@@ -25819,7 +26407,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 588
+  "id": 588,
+  "etym": "a-(~에, of의 변형) + kin(혈족) → 같은 핏줄의 → ~와 유사한, ~와 비슷한"
  },
  {
   "day": 11,
@@ -25859,7 +26448,8 @@
    }
   ],
   "ks_has": true,
-  "id": 589
+  "id": 589,
+  "etym": "ex-(밖으로) + pend(달다, 지불하다) → 돈·힘을 밖으로 내놓다 → 쓰다, 소비하다"
  },
  {
   "day": 11,
@@ -25897,7 +26487,8 @@
    }
   ],
   "ks_has": true,
-  "id": 590
+  "id": 590,
+  "etym": "be-(~하게 만들다) + little(작은) → 작게 만들다 → 경시하다, 얕보다"
  },
  {
   "day": 11,
@@ -25938,7 +26529,8 @@
    }
   ],
   "ks_has": true,
-  "id": 591
+  "id": 591,
+  "etym": "com-(강조) + mend(맡기다, 칭찬하다 / 라틴 mandare) → 좋게 맡기다 → 칭찬하다"
  },
  {
   "day": 11,
@@ -25970,7 +26562,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 592
+  "id": 592,
+  "etym": "기본 어휘 — 통째로 암기 (라틴 sequi '따라가다' → 법정으로 따라가다 → 고소하다)"
  },
  {
   "day": 11,
@@ -26003,7 +26596,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 593
+  "id": 593,
+  "etym": "in-(안으로) + nov(새로운) + -ation(~하는 것) → 안에 새것을 들이는 것 → 혁신"
  },
  {
   "day": 11,
@@ -26034,7 +26628,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 594
+  "id": 594,
+  "etym": "frag(부수다) + -ment(결과물) + -ation(~하는 것) → 산산이 부서지는 것 → 붕괴, 분열"
  },
  {
   "day": 11,
@@ -26095,7 +26690,8 @@
    }
   ],
   "ks_has": true,
-  "id": 595
+  "id": 595,
+  "etym": "main(주된, 라틴 magnus 큰에서 유래) + -ly(부사) → 주된 부분으로 → 주로"
  },
  {
   "day": 11,
@@ -26143,7 +26739,8 @@
    }
   ],
   "ks_has": true,
-  "id": 596
+  "id": 596,
+  "etym": "suf-(아래에서, 충분히) + fic(만들다 / 라틴 facere) + -ient(~하는) → 충분히 채워 만든 → 충분한"
  },
  {
   "day": 11,
@@ -26175,7 +26772,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 597
+  "id": 597,
+  "etym": "ab-(벗어나) + norm(기준, 규범) + -al(~한) + -ly(부사) → 기준에서 벗어나게 → 이례적으로, 이상하게"
  },
  {
   "day": 11,
@@ -26230,7 +26828,8 @@
    }
   ],
   "ks_has": true,
-  "id": 598
+  "id": 598,
+  "etym": "barr(막대, 빗장 / 고대 프랑스어 barre) + -ier(~하는 것) → 가로막는 것 → 장벽, 장애물"
  },
  {
   "day": 11,
@@ -26271,7 +26870,8 @@
    }
   ],
   "ks_has": true,
-  "id": 599
+  "id": 599,
+  "etym": "gigant(거인 / 그리스 gigas) + -ic(~한) → 거인 같은 → 거대한"
  },
  {
   "day": 11,
@@ -26352,7 +26952,8 @@
    }
   ],
   "ks_has": true,
-  "id": 600
+  "id": 600,
+  "etym": "re-(다시) + pro-(앞으로) + duc(이끌다) + -e → 다시 만들어 내놓다 → 복제하다, 재현하다"
  },
  {
   "day": 11,
@@ -26391,7 +26992,8 @@
    }
   ],
   "ks_has": true,
-  "id": 601
+  "id": 601,
+  "etym": "기본 어휘 — 통째로 암기 (고대 프랑스어 alouer '허가하다'에서 유래)"
  },
  {
   "day": 11,
@@ -26432,7 +27034,8 @@
    }
   ],
   "ks_has": true,
-  "id": 602
+  "id": 602,
+  "etym": "penetr(안으로 들어가다 / 라틴 penetrare) + -ate(~하다) → 속으로 뚫고 들어가다 → 관통하다, 침투하다"
  },
  {
   "day": 11,
@@ -26487,7 +27090,8 @@
    }
   ],
   "ks_has": true,
-  "id": 603
+  "id": 603,
+  "etym": "de-(따로, 떨어져) + vis/vice(나누다, 고안하다 / 라틴 dividere) → 따로 고안해 낸 것 → 장치, 기구"
  },
  {
   "day": 11,
@@ -26528,7 +27132,8 @@
    }
   ],
   "ks_has": true,
-  "id": 604
+  "id": 604,
+  "etym": "di-(따로, 떨어져) + verg(기울다, 향하다) + -ent(~하는) → 따로 갈라져 향하는 → 서로 다른, 상이한"
  },
  {
   "day": 11,
@@ -26577,7 +27182,8 @@
    }
   ],
   "ks_has": true,
-  "id": 605
+  "id": 605,
+  "etym": "기본 어휘 — 통째로 암기 (고대 노르드어 flaga '쪼개진 조각'에서 유래 → 결함)"
  },
  {
   "day": 11,
@@ -26608,7 +27214,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 606
+  "id": 606,
+  "etym": "기본 어휘 — 통째로 암기 (영어 buff '충격을 흡수하다'에서 유래 → 완충하다)"
  },
  {
   "day": 11,
@@ -26649,7 +27256,8 @@
    }
   ],
   "ks_has": true,
-  "id": 607
+  "id": 607,
+  "etym": "re-(뒤로, 반대로) + fut(치다, 쳐내다 / 라틴 futare) → 되받아쳐 물리치다 → 반박하다, 논박하다"
  },
  {
   "day": 11,
@@ -26680,7 +27288,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 608
+  "id": 608,
+  "etym": "dom(집 / 라틴 domus) + -estic(~에 속한) → 집에 속한 → 가정의, 집안의"
  },
  {
   "day": 11,
@@ -26710,7 +27319,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 609
+  "id": 609,
+  "etym": "spur(박차, 자극) → 박차를 가한 그 순간에 → on the spur of the moment → 즉흥적으로, 충동적으로"
  },
  {
   "day": 11,
@@ -26751,7 +27361,8 @@
    }
   ],
   "ks_has": true,
-  "id": 610
+  "id": 610,
+  "etym": "temper(알맞게 조절하다 / 라틴 temperare) + -ate(~된) → 알맞게 조절된 → 온화한, 온대의"
  },
  {
   "day": 11,
@@ -26781,7 +27392,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 611
+  "id": 611,
+  "etym": "con-(함께) + sist(서다) + -ent(~하는) → 함께 나란히 서 있는 → ~와 일치하는, ~와 부합하는"
  },
  {
   "day": 11,
@@ -26820,7 +27432,8 @@
    }
   ],
   "ks_has": true,
-  "id": 612
+  "id": 612,
+  "etym": "splend(빛나다 / 라틴 splendere) + -or(~한 상태) → 눈부시게 빛나는 상태 → 장관, 웅장함"
  },
  {
   "day": 11,
@@ -26875,7 +27488,8 @@
    }
   ],
   "ks_has": true,
-  "id": 613
+  "id": 613,
+  "etym": "pro-(앞으로) + sper(희망 / 라틴 spes) → 희망대로 앞으로 나아가다 → 번영하다, 번창하다"
  },
  {
   "day": 11,
@@ -26915,7 +27529,8 @@
    }
   ],
   "ks_has": true,
-  "id": 614
+  "id": 614,
+  "etym": "기본 어휘 — 통째로 암기 (술을 '빚다'가 본뜻; 끓어오르듯 사건이 일어나려 하다)"
  },
  {
   "day": 11,
@@ -26956,7 +27571,8 @@
    }
   ],
   "ks_has": true,
-  "id": 615
+  "id": 615,
+  "etym": "per-(끝까지) + severe(엄격한, 굳건한 / 라틴 severus) → 끝까지 굳건히 버티다 → 인내하다, 끈기 있게 계속하다"
  },
  {
   "day": 11,
@@ -26995,7 +27611,8 @@
    }
   ],
   "ks_has": true,
-  "id": 616
+  "id": 616,
+  "etym": "기본 어휘 — 통째로 암기 (프랑스어 biais '비스듬함'에서 유래 → 한쪽으로 기운 편견)"
  },
  {
   "day": 11,
@@ -27053,7 +27670,8 @@
    }
   ],
   "ks_has": true,
-  "id": 617
+  "id": 617,
+  "etym": "ad-(~에게) + minister(시중들다, 섬기다) → ~에게 봉사하여 일을 처리하다 → 관리하다, 운영하다"
  },
  {
   "day": 11,
@@ -27085,7 +27703,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 618
+  "id": 618,
+  "etym": "ground(근거, 바탕) + -less(~이 없는) → 바탕이 없는 → 근거 없는"
  },
  {
   "day": 11,
@@ -27140,7 +27759,8 @@
    }
   ],
   "ks_has": true,
-  "id": 619
+  "id": 619,
+  "etym": "a-(~을 향해, 강조) + rouse(깨우다, 불러일으키다) → 일깨워 일으키다 → 불러일으키다, 자극하다"
  },
  {
   "day": 11,
@@ -27188,7 +27808,8 @@
    }
   ],
   "ks_has": true,
-  "id": 620
+  "id": 620,
+  "etym": "ob-(~위에, 향해) + cup/cap(잡다 / 라틴 capere) + -y → 위를 차지해 잡다 → 차지하다, 사로잡다"
  },
  {
   "day": 11,
@@ -27219,7 +27840,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 621
+  "id": 621,
+  "etym": "virtu(힘, 효력 / 라틴 virtus) + -al(~한) → 힘·효력상으로는 그러한 → 사실상의, 거의 완전한"
  },
  {
   "day": 11,
@@ -27248,7 +27870,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 622
+  "id": 622,
+  "etym": "un-(부정) + ex-(밖으로) + plor(찾다, 탐색하다) + -ed(~된) → 밖으로 찾아 나서지 않은 → 탐구되지 않은, 미개척의"
  },
  {
   "day": 11,
@@ -27277,7 +27900,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 623
+  "id": 623,
+  "etym": "at-(~에게, ad-의 변형) + tune(가락, 조율하다) + -d → ~에 가락을 맞춘 → ~에 맞춰진, ~에 적응한"
  },
  {
   "day": 12,
@@ -27325,7 +27949,8 @@
    }
   ],
   "ks_has": true,
-  "id": 624
+  "id": 624,
+  "etym": "dur(지속하다, 단단하다) + -ation(명사화) → 지속되는 것 → 기간, 지속 시간"
  },
  {
   "day": 12,
@@ -27373,7 +27998,8 @@
    }
   ],
   "ks_has": true,
-  "id": 625
+  "id": 625,
+  "etym": "mass(덩어리) + -ive(~한 성질의) → 덩어리진 → 거대한, 대규모의"
  },
  {
   "day": 12,
@@ -27423,7 +28049,8 @@
    }
   ],
   "ks_has": true,
-  "id": 626
+  "id": 626,
+  "etym": "feas(라틴 facere, 하다·만들다) + -ible(~할 수 있는) → 해낼 수 있는 → 실현 가능한"
  },
  {
   "day": 12,
@@ -27490,7 +28117,8 @@
    }
   ],
   "ks_has": true,
-  "id": 627
+  "id": 627,
+  "etym": "vibr(떨다, 진동하다) + -ant(~하는) → 떨리며 약동하는 → 활기찬, 생기 넘치는"
  },
  {
   "day": 12,
@@ -27545,7 +28173,8 @@
    }
   ],
   "ks_has": true,
-  "id": 628
+  "id": 628,
+  "etym": "ac-(=ad, ~로) + cumul(쌓다, 더미) + -ation(명사화) → ~위로 쌓이는 것 → 축적, 누적"
  },
  {
   "day": 12,
@@ -27603,7 +28232,8 @@
    }
   ],
   "ks_has": true,
-  "id": 629
+  "id": 629,
+  "etym": "기본 어휘 — 통째로 암기 (고리(link)가 사슬을 잇듯 '연결')"
  },
  {
   "day": 12,
@@ -27633,7 +28263,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 630
+  "id": 630,
+  "etym": "in-(부정) + form(형식, 모양) + -al(~한) + -ly(부사화) → 정해진 형식이 없게 → 비공식적으로"
  },
  {
   "day": 12,
@@ -27674,7 +28305,8 @@
    }
   ],
   "ks_has": true,
-  "id": 631
+  "id": 631,
+  "etym": "sover(=super, 위에) + reign(통치하다) → 가장 위에서 통치하는 자 → 군주, 국왕"
  },
  {
   "day": 12,
@@ -27723,7 +28355,8 @@
    }
   ],
   "ks_has": true,
-  "id": 632
+  "id": 632,
+  "etym": "기본 어휘 — 통째로 암기 (열쇠(key)가 핵심이듯 '핵심적인')"
  },
  {
   "day": 12,
@@ -27764,7 +28397,8 @@
    }
   ],
   "ks_has": true,
-  "id": 633
+  "id": 633,
+  "etym": "event(일어난 일, 결과) + -ual(~한) + -ly(부사화) → 결과적으로 → 결국, 마침내"
  },
  {
   "day": 12,
@@ -27798,7 +28432,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 634
+  "id": 634,
+  "etym": "per-(끝까지, 내내) + sist(서다) + -ent(~하는) → 끝까지 버티고 서 있는 → 끊임없는, 지속적인"
  },
  {
   "day": 12,
@@ -27844,7 +28479,8 @@
    }
   ],
   "ks_has": true,
-  "id": 635
+  "id": 635,
+  "etym": "cor-(=com, 함께) + robor(힘, 떡갈나무) + -ate(동사화) → 함께 힘을 실어주다 → 입증하다, 확증하다"
  },
  {
   "day": 12,
@@ -27893,7 +28529,8 @@
    }
   ],
   "ks_has": true,
-  "id": 636
+  "id": 636,
+  "etym": "in-(안으로) + augur(점치다, 새점) + -ate(동사화) → 새점을 쳐 좋은 날에 시작하다 → 시작하다, 개시하다"
  },
  {
   "day": 12,
@@ -27926,7 +28563,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 637
+  "id": 637,
+  "etym": "기본 어휘 — 통째로 암기 (far(먼)의 비교급 계열 → 더 먼·추가의)"
  },
  {
   "day": 12,
@@ -27958,7 +28596,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 638
+  "id": 638,
+  "etym": "concentrate=con-(함께)+centr(중심)+-ate(동사화) → 한 중심으로 모으다; on(~위에 딱) 붙은 대상에 모으다 → ~에 집중하다"
  },
  {
   "day": 12,
@@ -27990,7 +28629,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 639
+  "id": 639,
+  "etym": "more(더) + over(넘어서) → 그 위에 더 얹어서 → 게다가, 더욱이"
  },
  {
   "day": 12,
@@ -28049,7 +28689,8 @@
    }
   ],
   "ks_has": true,
-  "id": 640
+  "id": 640,
+  "etym": "ex-(밖으로, 끝까지) + secut/(s)ecu(따라가다) → 끝까지 따라 끝내다 → 실행하다, 수행하다"
  },
  {
   "day": 12,
@@ -28089,7 +28730,8 @@
    }
   ],
   "ks_has": true,
-  "id": 641
+  "id": 641,
+  "etym": "urb(도시) + -ane(~의) → 도시적인 → 세련된, 점잖은"
  },
  {
   "day": 12,
@@ -28141,7 +28783,8 @@
    }
   ],
   "ks_has": true,
-  "id": 642
+  "id": 642,
+  "etym": "기본 어휘 — 통째로 암기 (가슴(breast)을 부풀려 '자랑하다'로 연상)"
  },
  {
   "day": 12,
@@ -28187,7 +28830,8 @@
    }
   ],
   "ks_has": true,
-  "id": 643
+  "id": 643,
+  "etym": "en-(~안에 넣다) + vis(보다) + -ion → 마음 안에 그려 보다 → 마음속에 그리다, 상상하다"
  },
  {
   "day": 12,
@@ -28228,7 +28872,8 @@
    }
   ],
   "ks_has": true,
-  "id": 644
+  "id": 644,
+  "etym": "inter-(사이) + medi(중간) + -ate(~한) → 양쪽 사이 중간의 → 중간의, 중급의"
  },
  {
   "day": 12,
@@ -28258,7 +28903,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 645
+  "id": 645,
+  "etym": "fright(공포) + -ful(~로 가득한) → 공포로 가득한 → 무서운, 끔찍한"
  },
  {
   "day": 12,
@@ -28311,7 +28957,8 @@
    }
   ],
   "ks_has": true,
-  "id": 646
+  "id": 646,
+  "etym": "ir-(부정) + re-(뒤로) + voc(부르다) + -able(~할 수 있는) → 다시 불러 되돌릴 수 없는 → 돌이킬 수 없는, 취소할 수 없는"
  },
  {
   "day": 12,
@@ -28349,7 +28996,8 @@
    }
   ],
   "ks_has": true,
-  "id": 647
+  "id": 647,
+  "etym": "dis-(분리, 반대) + integr(온전한, 정수) + -ation(명사화) → 온전함이 깨져 흩어짐 → 붕괴, 분열"
  },
  {
   "day": 12,
@@ -28380,7 +29028,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 648
+  "id": 648,
+  "etym": "burgeon(새싹이 돋다) + -ing(~하는) → 새싹이 마구 트는 → 급성장하는, 급증하는"
  },
  {
   "day": 12,
@@ -28410,7 +29059,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 649
+  "id": 649,
+  "etym": "terr(땅, 흙) + -estrial(~에 속한) → 땅에 속한 → 지상의, 세속의"
  },
  {
   "day": 12,
@@ -28451,7 +29101,8 @@
    }
   ],
   "ks_has": true,
-  "id": 650
+  "id": 650,
+  "etym": "ad-(~에, 강조) + orn(꾸미다, 장비하다) → ~에 치장을 더하다 → 장식하다, 꾸미다"
  },
  {
   "day": 12,
@@ -28480,7 +29131,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 651
+  "id": 651,
+  "etym": "random(무작위의) + -ness(상태·성질) → 무작위인 상태 → 무작위성, 임의성"
  },
  {
   "day": 12,
@@ -28528,7 +29180,8 @@
    }
   ],
   "ks_has": true,
-  "id": 652
+  "id": 652,
+  "etym": "super-(위에) + fic(=facies, 표면·면) + -ial(~한) → 표면 위에만 있는 → 피상적인, 표면적인"
  },
  {
   "day": 12,
@@ -28559,7 +29212,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 653
+  "id": 653,
+  "etym": "di-(=dis, 옆으로) + vers(돌다) + -ion(명사화) → 옆으로 돌려놓음 → 주의를 딴 데로 돌리는 것, 기분 전환"
  },
  {
   "day": 12,
@@ -28598,7 +29252,8 @@
    }
   ],
   "ks_has": true,
-  "id": 654
+  "id": 654,
+  "etym": "origin=ori(=oriri, 떠오르다·생기다)+-in; from(~로부터) → ~로부터 생겨나오다 → ~에서 비롯되다, 유래하다"
  },
  {
   "day": 12,
@@ -28638,7 +29293,8 @@
    }
   ],
   "ks_has": true,
-  "id": 655
+  "id": 655,
+  "etym": "intim(=intimus, 가장 안쪽의) + -ate(~한) → 가장 안쪽까지 닿은 → 친밀한, 가까운"
  },
  {
   "day": 12,
@@ -28693,7 +29349,8 @@
    }
   ],
   "ks_has": true,
-  "id": 656
+  "id": 656,
+  "etym": "기본 어휘 — 통째로 암기 (꽃(blossom)이 피어나듯 '번성하다')"
  },
  {
   "day": 12,
@@ -28732,7 +29389,8 @@
    }
   ],
   "ks_has": true,
-  "id": 657
+  "id": 657,
+  "etym": "ground(땅, 바닥) + work(작업, 공사) → 바닥에 까는 기초 작업 → 토대, 기초"
  },
  {
   "day": 12,
@@ -28781,7 +29439,8 @@
    }
   ],
   "ks_has": true,
-  "id": 658
+  "id": 658,
+  "etym": "tri(세) + via(길) → 세 갈래 길 어디서나 흔한 → 사소한, 하찮은"
  },
  {
   "day": 12,
@@ -28811,7 +29470,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 659
+  "id": 659,
+  "etym": "post-(뒤, 후) + er(비교) + -ity(명사화) → 뒤에 오는 사람들 → 후세, 후대"
  },
  {
   "day": 12,
@@ -28852,7 +29512,8 @@
    }
   ],
   "ks_has": true,
-  "id": 660
+  "id": 660,
+  "etym": "ag-(=ad, ~에) + grav(무거운) + -ate(동사화) → ~에 무게를 더 얹다 → 악화시키다"
  },
  {
   "day": 12,
@@ -28893,7 +29554,8 @@
    }
   ],
   "ks_has": true,
-  "id": 661
+  "id": 661,
+  "etym": "ob-(~을 향해) + tain(=tenere, 잡다) + -able(~할 수 있는) → 향해 가서 손에 잡을 수 있는 → 얻을 수 있는, 구할 수 있는"
  },
  {
   "day": 12,
@@ -28934,7 +29596,8 @@
    }
   ],
   "ks_has": true,
-  "id": 662
+  "id": 662,
+  "etym": "ex-(밖으로) + tent(=tendere, 뻗다) → 밖으로 뻗어나간 정도 → 범위, 정도"
  },
  {
   "day": 12,
@@ -28968,7 +29631,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 663
+  "id": 663,
+  "etym": "in-(안에) + geni(=gignere, 타고나다·생기다) + -ous(~한) → 타고난 재능이 있는 → 독창적인, 기발한"
  },
  {
   "day": 12,
@@ -29000,7 +29664,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 664
+  "id": 664,
+  "etym": "기본 어휘 — 통째로 암기 (의성어적 'burst' = 펑 터지다)"
  },
  {
   "day": 12,
@@ -29041,7 +29706,8 @@
    }
   ],
   "ks_has": true,
-  "id": 665
+  "id": 665,
+  "etym": "out(밖, 바깥) + lying(놓여 있는) → 바깥쪽에 놓인 → 외딴, 중심에서 멀리 떨어진"
  },
  {
   "day": 12,
@@ -29071,7 +29737,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 666
+  "id": 666,
+  "etym": "revolve=re-(다시)+volv(돌다)+-e → 빙빙 돌다; around(~둘레로) → ~둘레를 돌다 → ~을 중심으로 돌아가다"
  },
  {
   "day": 12,
@@ -29101,7 +29768,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 667
+  "id": 667,
+  "etym": "meticul(=metus, 두려움→소심할 만큼 꼼꼼함) + -ous(~한) + -ly(부사화) → 겁날 만큼 세심하게 → 꼼꼼하게"
  },
  {
   "day": 12,
@@ -29149,7 +29817,8 @@
    }
   ],
   "ks_has": true,
-  "id": 668
+  "id": 668,
+  "etym": "util(=uti, 쓰다·유용한) + -itarian(~주의의) → 유용함을 따지는 → 실용적인"
  },
  {
   "day": 12,
@@ -29190,7 +29859,8 @@
    }
   ],
   "ks_has": true,
-  "id": 669
+  "id": 669,
+  "etym": "con-(함께) + stitu(=statuere, 세우다) + -te → 함께 세워 이루다 → 구성하다, 이루다"
  },
  {
   "day": 12,
@@ -29229,7 +29899,8 @@
    }
   ],
   "ks_has": true,
-  "id": 670
+  "id": 670,
+  "etym": "recipro(=reque proque, 앞뒤로 오가는) + -cal(~한) → 서로 주고받는 → 상호간의, 서로의"
  },
  {
   "day": 12,
@@ -29260,7 +29931,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 671
+  "id": 671,
+  "etym": "tend(뻗다, 기울다) + -ency(명사화) → 한쪽으로 기우는 성질 → 경향, 추세"
  },
  {
   "day": 12,
@@ -29308,7 +29980,8 @@
    }
   ],
   "ks_has": true,
-  "id": 672
+  "id": 672,
+  "etym": "arti(=ars, 기술) + fact(=facere, 만들다) → 기술로 만든 것 → 인공물, 유물"
  },
  {
   "day": 12,
@@ -29362,7 +30035,8 @@
    }
   ],
   "ks_has": true,
-  "id": 673
+  "id": 673,
+  "etym": "ex-(밖으로) + ped(발) + -ite → 발을 (족쇄에서) 빼내 자유롭게 하다 → 신속히 처리하다, 촉진하다"
  },
  {
   "day": 12,
@@ -29392,7 +30066,8 @@
   "ks_head": [],
   "ks_syn": [],
   "ks_has": false,
-  "id": 674
+  "id": 674,
+  "etym": "scen(=scaena, 무대) + -ario(이탈리아어 명사화) → 무대에서 벌어질 일의 각본 → 시나리오, 상황"
  },
  {
   "day": 12,
@@ -29431,7 +30106,8 @@
    }
   ],
   "ks_has": true,
-  "id": 675
+  "id": 675,
+  "etym": "de-(완전히) + fin(끝, 경계) + -e → 경계를 완전히 그어 정하다 → 정의하다, 규정하다"
  },
  {
   "day": 12,
@@ -29477,7 +30153,8 @@
    }
   ],
   "ks_has": true,
-  "id": 676
+  "id": 676,
+  "etym": "pro-(앞으로) + puls(=pellere, 밀다) + -ion(명사화) → 앞으로 미는 것 → 추진, 추진력"
  },
  {
   "day": 12,
@@ -29527,7 +30204,8 @@
    }
   ],
   "ks_has": true,
-  "id": 677
+  "id": 677,
+  "etym": "re-(강조) + solut(=solvere, 풀다→결심하다) + -e → 마음을 굳게 다잡은 → 확고한, 단호한"
  },
  {
   "day": 12,
@@ -29560,7 +30238,8 @@
   ],
   "ks_syn": [],
   "ks_has": true,
-  "id": 678
+  "id": 678,
+  "etym": "phase(=phasis, 나타남·국면) → 달의 모양처럼 변해 나타나는 국면 → 단계, 시기"
  },
  {
   "day": 12,
@@ -29618,6 +30297,7 @@
    }
   ],
   "ks_has": true,
-  "id": 679
+  "id": 679,
+  "etym": "fair(공정한, 깨끗한) + -ly(부사화) → 공정한 정도로 → 꽤, 상당히"
  }
 ]
