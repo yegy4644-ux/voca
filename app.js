@@ -167,15 +167,28 @@ function clearTimer(){ if(timerId){ clearInterval(timerId); timerId=null; } }
 function startStudy(mode){
   const list = buildSession(mode);
   if(!list.length){ toast(mode==="review"?"오늘 복습할 단어가 없어요 👍":"학습할 단어가 없어요"); return; }
-  S = { mode, list, i:0, ok:0, no:0, revealed:false };
+  const loop = (mode==="study"||mode==="syn");   // 집중 루프: 모르는 단어는 다 익힐 때까지 재등장
+  S = { mode, loop, queue:list.slice(), total:list.length, mastered:0, ok:0, no:0, revealed:false, cur:null };
   $("#studyTitle").textContent = mode==="review"?"복습":mode==="syn"?"동의어":"외우기";
-  show("study"); renderCard();
+  show("study"); nextCard();
+}
+function requeue(w){
+  const n=S.queue.length;
+  const pos = n<=1 ? n : Math.min(n, 3+Math.floor(Math.random()*3));  // 3~5칸 뒤에 다시 등장
+  S.queue.splice(pos,0,w);
+}
+function nextCard(){
+  if(!S.queue.length){ finish(); return; }
+  S.cur = S.queue.shift();
+  renderCard();
 }
 
 function renderCard(){
   clearTimer(); S.revealed=false;
-  const w = S.list[S.i];
-  $("#studyIdx").textContent = `${S.i+1} / ${S.list.length}`;
+  const w = S.cur;
+  $("#studyIdx").textContent = S.loop
+    ? `익힘 ${S.mastered} · 남음 ${S.queue.length+1}`
+    : `${S.total - S.queue.length} / ${S.total}`;
   const qcard = $("#qcard");
   $("#afterArea").innerHTML = "";
   const stars = "★".repeat(w.stars||0);
@@ -211,7 +224,7 @@ function renderCard(){
 function reveal(){
   if(S.revealed) return;
   S.revealed=true; clearTimer();
-  const w = S.list[S.i];
+  const w = S.cur;
   const stars = "★".repeat(w.stars||0);
   $("#qcard").innerHTML = `
     <div class="qcat">DAY ${w.day} <span class="stars">${stars}</span></div>
@@ -275,8 +288,12 @@ function editMnemo(w){
   $("#mCancel").onclick=()=>renderMnemo(w);
 }
 
-function answer(correct){ const w=S.list[S.i]; grade(w.id,correct); if(correct)S.ok++; else S.no++; next(); }
-function next(){ S.i++; if(S.i>=S.list.length){ finish(); return; } renderCard(); }
+function answer(correct){
+  const w=S.cur; grade(w.id,correct);
+  if(correct){ S.ok++; S.mastered++; }
+  else { S.no++; if(S.loop) requeue(w); }
+  nextCard();
+}
 
 /* ================= QUIZ ================= */
 let Q=null;
@@ -428,7 +445,7 @@ function finish(){
   clearTimer();
   $("#doneEmoji").textContent=S.no===0?"🏆":"🎉";
   $("#doneTitle").textContent="완료!";
-  $("#doneSub").textContent=S.mode==="review"?"복습 끝":"세션 끝";
+  $("#doneSub").textContent=S.mode==="review"?"복습 끝":S.loop?`${S.total}단어 모두 익힘 🎯`:"세션 끝";
   $("#dOk").textContent=S.ok; $("#dNo").textContent=S.no; $("#dDue").textContent=dueCount();
   $("#againBtn").onclick=()=>startStudy(S.mode);
   show("done"); renderHome();
