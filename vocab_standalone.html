@@ -464,18 +464,18 @@ function clearTimer(){ if(timerId){ clearInterval(timerId); timerId=null; } }
 function startStudy(mode){
   const list = buildSession(mode);
   if(!list.length){ toast(mode==="review"?"오늘 복습할 단어가 없어요 👍":"학습할 단어가 없어요"); return; }
-  const loop = (mode==="study"||mode==="syn");   // 집중 루프: 모르는 단어는 다 익힐 때까지 재등장
-  S = { mode, loop, queue:list.slice(), total:list.length, mastered:0, ok:0, no:0, revealed:false, cur:null };
+  const loop = (mode==="study"||mode==="syn");   // 회독 방식: 1회독 다 돌고 → 못 외운 것만 다음 회독
+  const q = list.slice();
+  S = { mode, loop, queue:q, wrong:[], round:1, roundTotal:q.length, total:list.length, mastered:0, ok:0, no:0, revealed:false, cur:null };
   $("#studyTitle").textContent = mode==="review"?"복습":mode==="syn"?"동의어":"외우기";
   show("study"); nextCard();
 }
-function requeue(w){
-  const n=S.queue.length;
-  const pos = n<=1 ? n : Math.min(n, 3+Math.floor(Math.random()*3));  // 3~5칸 뒤에 다시 등장
-  S.queue.splice(pos,0,w);
-}
 function nextCard(){
-  if(!S.queue.length){ finish(); return; }
+  if(!S.queue.length){
+    if(S.loop && S.wrong.length){   // 이번 회독 끝 → 못 외운 것만 모아 다음 회독
+      S.round++; S.queue = shuffle(S.wrong); S.wrong = []; S.roundTotal = S.queue.length;
+    } else { finish(); return; }
+  }
   S.cur = S.queue.shift();
   renderCard();
 }
@@ -484,7 +484,7 @@ function renderCard(){
   clearTimer(); S.revealed=false;
   const w = S.cur;
   $("#studyIdx").textContent = S.loop
-    ? `익힘 ${S.mastered} · 남음 ${S.queue.length+1}`
+    ? `${S.round}회독 · ${S.roundTotal - S.queue.length}/${S.roundTotal} · 익힘 ${S.mastered}`
     : `${S.total - S.queue.length} / ${S.total}`;
   const qcard = $("#qcard");
   $("#afterArea").innerHTML = "";
@@ -588,7 +588,7 @@ function editMnemo(w){
 function answer(correct){
   const w=S.cur; grade(w.id,correct);
   if(correct){ S.ok++; S.mastered++; }
-  else { S.no++; if(S.loop) requeue(w); }
+  else { S.no++; if(S.loop) S.wrong.push(w); }
   nextCard();
 }
 
