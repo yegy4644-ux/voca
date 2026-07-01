@@ -172,7 +172,9 @@
       <h3>학습 범위</h3>
       <div class="row">
         <label class="lab">DAY</label>
-        <select id="catSel"></select>
+        <select id="catFrom"></select>
+        <span class="lab">~</span>
+        <select id="catTo"></select>
         <label class="lab">단어 수</label>
         <select id="countSel">
           <option value="10">10</option>
@@ -299,6 +301,8 @@ window.WORDS = [{"day": 1, "num": 1, "word": "exploit", "pron": "iksplóit", "st
 const WORDS = window.WORDS || [];
 const LS_PROG = "voca_progress_v2";   // {id:{box,due,seen,ok,no,learned}}
 const LS_MNEMO = "voca_mnemo_v2";     // {id:"경선식 연상법"}
+const LS_SESS = "voca_session_v1";    // 진행 중 외우기 세션 (이어하기)
+const LS_RANGE = "voca_range_v1";     // DAY 범위 선택 기억
 
 /* ---- storage ---- */
 const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) || def; } catch { return def; } };
@@ -409,8 +413,16 @@ function esc(s){ return (s+"").replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>
 function dueCount(){ return WORDS.filter(w=>isDue(w.id)).length; }
 function learnedCount(){ return WORDS.filter(w=>isLearned(w.id)).length; }
 function renderHome(){
-  const cs = $("#catSel");
-  cs.innerHTML = `<option value="__all">전체</option>` + DAYS.map(d=>`<option value="${d}">DAY ${d}</option>`).join("");
+  const cf = $("#catFrom"), ct = $("#catTo");
+  if(cf && !cf.children.length){
+    const opts = DAYS.map(d=>`<option value="${d}">DAY ${d}</option>`).join("");
+    cf.innerHTML = opts; ct.innerHTML = opts;
+    const r = load(LS_RANGE, null);
+    if(r && DAYS.includes(r.from) && DAYS.includes(r.to)){ cf.value = r.from; ct.value = r.to; }
+    else { cf.value = DAYS[Math.max(0, DAYS.length-3)]; ct.value = DAYS[DAYS.length-1]; }  // 기본: 최근 3일치
+    const onch = ()=> save(LS_RANGE, {from:parseInt(cf.value,10), to:parseInt(ct.value,10)});
+    cf.onchange = onch; ct.onchange = onch;
+  }
   const total = WORDS.length, learned = learnedCount(), due = dueCount();
   $("#homeBar").style.width = (total? (learned/total*100):0) + "%";
   $("#homeProg").textContent = `${learned} / ${total} 외움`;
@@ -422,8 +434,9 @@ function renderHome(){
 
 /* ---- session ---- */
 function pool(){
-  const day = $("#catSel").value;
-  let arr = WORDS.filter(w=> day==="__all" || w.day===parseInt(day,10));
+  const a = parseInt($("#catFrom").value,10), b = parseInt($("#catTo").value,10);
+  const lo = Math.min(a,b), hi = Math.max(a,b);
+  let arr = WORDS.filter(w=> w.day>=lo && w.day<=hi);
   if($("#ksOnly") && $("#ksOnly").checked) arr = arr.filter(w=>w.ks_has);
   return arr;
 }
@@ -461,12 +474,41 @@ function buildSession(mode){
 let S = null, timerId = null;
 function clearTimer(){ if(timerId){ clearInterval(timerId); timerId=null; } }
 
+/* ---- 세션 저장/이어하기 (외우기·동의어 회독) ---- */
+function scopeSig(mode){
+  return [mode, $("#catFrom").value, $("#catTo").value, $("#countSel").value,
+          $("#newFirst").checked?1:0, $("#ksOnly").checked?1:0].join("|");
+}
+function saveSession(){
+  if(!S || !S.loop) return;
+  const ids = S.queue.map(w=>w.id);
+  if(S.cur) ids.unshift(S.cur.id);   // 현재 카드도 포함해 이어하기 시 다시 표시
+  save(LS_SESS, { sig:S.sig, round:S.round, roundTotal:S.roundTotal, total:S.total,
+    mastered:S.mastered, ok:S.ok, no:S.no, queueIds:ids, wrongIds:S.wrong.map(w=>w.id) });
+}
+function clearSession(){ localStorage.removeItem(LS_SESS); }
+
 function startStudy(mode){
+  const loop = (mode==="study"||mode==="syn");   // 회독 방식: 1회독 다 돌고 → 못 외운 것만 다음 회독
+  if(loop){   // 같은 범위의 진행 중 세션이 있으면 이어하기
+    const saved = load(LS_SESS, null);
+    if(saved && saved.sig===scopeSig(mode) && saved.queueIds && saved.queueIds.length){
+      const byId = {}; WORDS.forEach(w=>byId[w.id]=w);
+      const q = saved.queueIds.map(id=>byId[id]).filter(Boolean);
+      if(q.length){
+        S = { mode, loop, queue:q, wrong:(saved.wrongIds||[]).map(id=>byId[id]).filter(Boolean),
+          round:saved.round||1, roundTotal:saved.roundTotal||q.length, total:saved.total||q.length,
+          mastered:saved.mastered||0, ok:saved.ok||0, no:saved.no||0, revealed:false, cur:null, sig:saved.sig };
+        $("#studyTitle").textContent = mode==="syn"?"동의어":"외우기";
+        toast("이어서 진행 ▶"); show("study"); nextCard(); return;
+      }
+    }
+  }
   const list = buildSession(mode);
   if(!list.length){ toast(mode==="review"?"오늘 복습할 단어가 없어요 👍":"학습할 단어가 없어요"); return; }
-  const loop = (mode==="study"||mode==="syn");   // 회독 방식: 1회독 다 돌고 → 못 외운 것만 다음 회독
   const q = list.slice();
-  S = { mode, loop, queue:q, wrong:[], round:1, roundTotal:q.length, total:list.length, mastered:0, ok:0, no:0, revealed:false, cur:null };
+  S = { mode, loop, queue:q, wrong:[], round:1, roundTotal:q.length, total:list.length,
+        mastered:0, ok:0, no:0, revealed:false, cur:null, sig: loop?scopeSig(mode):null };
   $("#studyTitle").textContent = mode==="review"?"복습":mode==="syn"?"동의어":"외우기";
   show("study"); nextCard();
 }
@@ -474,9 +516,10 @@ function nextCard(){
   if(!S.queue.length){
     if(S.loop && S.wrong.length){   // 이번 회독 끝 → 못 외운 것만 모아 다음 회독
       S.round++; S.queue = shuffle(S.wrong); S.wrong = []; S.roundTotal = S.queue.length;
-    } else { finish(); return; }
+    } else { if(S.loop) clearSession(); finish(); return; }
   }
   S.cur = S.queue.shift();
+  if(S.loop) saveSession();
   renderCard();
 }
 
@@ -773,13 +816,13 @@ $("#importFile").onchange=(e)=>{
   r.onload=()=>{ try{ const d=JSON.parse(r.result);
     if(d.progress){ prog=d.progress; save(LS_PROG,prog); }
     if(d.mnemo){ mnemo=d.mnemo; save(LS_MNEMO,mnemo); }
-    renderHome(); toast("가져오기 완료 ✅");
+    clearSession(); renderHome(); toast("가져오기 완료 ✅");
   }catch{ toast("파일을 읽을 수 없어요"); } };
   r.readAsText(f); e.target.value="";
 };
 $("#resetBtn").onclick=()=>{
   if(confirm("진도(외운 단어/복습 일정)를 모두 초기화할까요?\n내 메모는 유지됩니다.")){
-    prog={}; save(LS_PROG,prog); renderHome(); toast("초기화 완료");
+    prog={}; save(LS_PROG,prog); clearSession(); renderHome(); toast("초기화 완료");
   }
 };
 
