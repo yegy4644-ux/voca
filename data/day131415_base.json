@@ -1,0 +1,3270 @@
+{
+ "13": [
+  {
+   "num": 1,
+   "word": "merely",
+   "senses": [
+    {
+     "synonyms": [
+      "simply",
+      "only",
+      "no more than",
+      "just",
+      "purely"
+     ],
+     "meaning": "단지, 그저",
+     "example": "The man merely wanted to buy a bottle of water, but the store was already closed.",
+     "example_ko": "그 남자는 그저 생수 한 병을 사고 싶었을 뿐이지만, 가게는 이미 문을 닫은 상태였다."
+    }
+   ],
+   "nuance": "'그것 이상은 아니다'라는 한정의 뉘앙스로, 대수롭지 않음을 강조한다.",
+   "etym": "mere(순전한)+-ly(부사) → 순전히, 단지"
+  },
+  {
+   "num": 2,
+   "word": "decimate",
+   "senses": [
+    {
+     "synonyms": [
+      "destroy",
+      "eliminate",
+      "wipe out",
+      "demolish",
+      "devastate"
+     ],
+     "meaning": "대량으로 죽이다, 대부분을 파괴하다",
+     "example": "The Black Plague decimated the population in Europe.",
+     "example_ko": "흑사병은 유럽의 인구를 대량으로 몰살시켰다."
+    }
+   ],
+   "nuance": "단순한 파괴가 아니라 집단·인구의 상당 부분을 없앤다는 강한 어감이다.",
+   "etym": "decim-(10분의 1)+-ate(동사) → 원래 '10분의 1을 죽이다' → 대량 살상하다"
+  },
+  {
+   "num": 3,
+   "word": "incentive",
+   "senses": [
+    {
+     "synonyms": [
+      "motivation",
+      "motive",
+      "encouragement",
+      "inducement"
+     ],
+     "meaning": "동기, 유인책, 자극",
+     "example": "The prize for first place was a new car, so contestants had a large incentive to win.",
+     "example_ko": "1등 상품이 새 차였기 때문에 참가자들은 우승할 큰 동기를 갖게 되었다."
+    }
+   ],
+   "nuance": "행동을 유도하는 외부적 보상·유인이라는 뉘앙스가 강하다.",
+   "etym": "in-(안으로)+cin/cant(노래하다, 부추기다)+-ive → 마음을 부추기는 것 → 유인책"
+  },
+  {
+   "num": 4,
+   "word": "retrieve",
+   "senses": [
+    {
+     "synonyms": [
+      "bring back",
+      "get back",
+      "recover",
+      "obtain",
+      "regain"
+     ],
+     "meaning": "되찾다, 회수하다",
+     "example": "The police officers retrieved the stolen money from the thief's hiding place.",
+     "example_ko": "경찰관들은 도둑의 은신처에서 도난당한 돈을 되찾았다."
+    }
+   ],
+   "nuance": "잃었거나 떨어진 것을 다시 가져온다는 '회수'의 어감이다.",
+   "etym": "re-(다시)+trouver/trover(찾다) → 다시 찾다 → 되찾다"
+  },
+  {
+   "num": 5,
+   "word": "compress",
+   "senses": [
+    {
+     "synonyms": [
+      "condense",
+      "compact",
+      "contract",
+      "crush"
+     ],
+     "meaning": "압축하다",
+     "example": "The machine compresses old cars into blocks of scrap metal.",
+     "example_ko": "그 기계는 낡은 자동차들을 압축하여 고철 덩어리로 만든다."
+    }
+   ],
+   "nuance": "눌러서 부피를 줄인다는 물리적 압박의 어감이 있다.",
+   "etym": "com-(함께)+press(누르다) → 함께 눌러 압축하다"
+  },
+  {
+   "num": 6,
+   "word": "designate",
+   "senses": [
+    {
+     "synonyms": [
+      "indicate",
+      "identify",
+      "specify",
+      "define"
+     ],
+     "meaning": "지정하다, 명시하다",
+     "example": "The statue designates where the famous speech took place.",
+     "example_ko": "그 동상은 그 유명한 연설이 있었던 장소를 표시한다."
+    }
+   ],
+   "nuance": "공식적으로 가리켜 지정·명명한다는 뉘앙스를 갖는다.",
+   "etym": "de-(완전히)+sign(표시)+-ate(동사) → 표시하여 지정하다"
+  },
+  {
+   "num": 7,
+   "word": "dissemination",
+   "senses": [
+    {
+     "synonyms": [
+      "spread",
+      "distribution",
+      "diffusion"
+     ],
+     "meaning": "보급, 유포, 전파",
+     "example": "The dissemination of scientific knowledge changed human society.",
+     "example_ko": "과학 지식의 보급은 인류 사회를 변화시켰다."
+    }
+   ],
+   "nuance": "씨를 뿌리듯 정보·지식을 널리 퍼뜨린다는 어감이다.",
+   "etym": "dis-(사방으로)+semin(씨앗)+-ation → 씨를 사방에 뿌림 → 널리 퍼뜨림"
+  },
+  {
+   "num": 8,
+   "word": "marked",
+   "senses": [
+    {
+     "synonyms": [
+      "noticeable",
+      "considerable",
+      "prominent",
+      "discernible"
+     ],
+     "meaning": "두드러진, 현저한",
+     "example": "Mental illness can be difficult to diagnose because symptoms are not always marked.",
+     "example_ko": "정신 질환은 증상이 항상 뚜렷하게 나타나는 것은 아니기 때문에 진단하기 어려울 수 있다."
+    }
+   ],
+   "nuance": "눈에 확 띌 정도로 분명하고 뚜렷하다는 어감이다.",
+   "etym": "mark(표시)+-ed → 표시가 난 → 두드러진"
+  },
+  {
+   "num": 9,
+   "word": "hypothetical",
+   "senses": [
+    {
+     "synonyms": [
+      "supposed",
+      "imaginary"
+     ],
+     "meaning": "가상의, 가정의",
+     "example": "Physicists accept the existence of hypothetical particles in space to make their theories plausible.",
+     "example_ko": "물리학자들은 자신들의 이론을 그럴듯하게 만들기 위해 우주 속 가상의 입자의 존재를 인정한다."
+    }
+   ],
+   "nuance": "실제가 아니라 가정·추정에 근거한다는 어감이다.",
+   "etym": "hypo-(아래)+thesis(놓다)+-ical → 아래에 놓인 전제 → 가정의"
+  },
+  {
+   "num": 10,
+   "word": "flow",
+   "senses": [
+    {
+     "synonyms": [
+      "stream",
+      "current",
+      "movement",
+      "motion"
+     ],
+     "meaning": "흐름, 이동",
+     "example": "After the accident was finally cleared by the tow truck, the flow of traffic improved.",
+     "example_ko": "견인차가 마침내 사고 현장을 정리한 후, 교통 흐름이 개선되었다."
+    }
+   ],
+   "nuance": "끊김 없이 이어지는 자연스러운 이동·흐름의 어감이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 11,
+   "word": "precise",
+   "senses": [
+    {
+     "synonyms": [
+      "exact",
+      "accurate",
+      "definite"
+     ],
+     "meaning": "정확한, 정밀한",
+     "example": "The investigators will look into the precise details of the airplane crash.",
+     "example_ko": "조사관들은 항공기 추락 사고의 정확한 세부 사항을 조사할 것이다."
+    }
+   ],
+   "nuance": "오차 없이 딱 맞아떨어지는 정밀함의 어감이다.",
+   "etym": "pre-(앞서)+cis(자르다) → 앞서 잘라 정한 → 정확한"
+  },
+  {
+   "num": 12,
+   "word": "stipulate",
+   "senses": [
+    {
+     "synonyms": [
+      "require",
+      "demand",
+      "call for"
+     ],
+     "meaning": "(계약 조건으로) 명시하다, 규정하다",
+     "example": "The contract stipulates that employees report to work at 9 a.m. from Monday to Friday.",
+     "example_ko": "그 계약서는 직원들이 월요일부터 금요일까지 오전 9시에 출근하도록 명시하고 있다."
+    }
+   ],
+   "nuance": "계약·법률에서 조건으로 정해 요구한다는 공식적 어감이다.",
+   "etym": "stipul(약속하다)+-ate → 조건으로 약속하다 → 명시하다"
+  },
+  {
+   "num": 13,
+   "word": "perspective",
+   "senses": [
+    {
+     "synonyms": [
+      "point of view",
+      "viewpoint",
+      "orientation"
+     ],
+     "meaning": "관점, 시각",
+     "example": "The data provides a fascinating new perspective on the pattern of industrial development.",
+     "example_ko": "그 자료는 산업 발전의 양상에 대한 흥미로운 새 관점을 제공한다."
+    }
+   ],
+   "nuance": "사물을 바라보는 특정한 시각·조망이라는 어감이다.",
+   "etym": "per-(꿰뚫어)+spect(보다)+-ive → 꿰뚫어 봄 → 관점"
+  },
+  {
+   "num": 14,
+   "word": "enhance",
+   "senses": [
+    {
+     "synonyms": [
+      "improve",
+      "enrich",
+      "intensify"
+     ],
+     "meaning": "향상시키다, 높이다",
+     "example": "The invention of the telegraph enhanced the speed of communication.",
+     "example_ko": "전신의 발명은 통신 속도를 향상시켰다."
+    }
+   ],
+   "nuance": "이미 좋은 것을 한층 더 끌어올린다는 어감이다.",
+   "etym": "en-(~하게 만들다)+haunce/altus(높은) → 높게 만들다 → 향상시키다"
+  },
+  {
+   "num": 15,
+   "word": "fundamental",
+   "senses": [
+    {
+     "synonyms": [
+      "essential",
+      "basic",
+      "primary",
+      "elementary"
+     ],
+     "meaning": "근본적인, 기본적인",
+     "example": "Math and science are fundamental subjects that every student must learn.",
+     "example_ko": "수학과 과학은 모든 학생이 배워야 하는 기본 과목이다."
+    }
+   ],
+   "nuance": "토대를 이루는 가장 근본적이고 필수적이라는 어감이다.",
+   "etym": "fund(바닥, 기초)+-ment+-al → 바닥을 이루는 → 근본적인"
+  },
+  {
+   "num": 16,
+   "word": "evident",
+   "senses": [
+    {
+     "synonyms": [
+      "clear",
+      "apparent",
+      "obvious",
+      "manifest"
+     ],
+     "meaning": "명백한, 분명한",
+     "example": "The presence of cycles in history is evident when studying later Mesopotamia.",
+     "example_ko": "후기 메소포타미아를 연구하면 역사에 주기가 존재한다는 것이 명백해진다."
+    }
+   ],
+   "nuance": "보면 곧바로 알 수 있을 만큼 분명하다는 어감이다.",
+   "etym": "e-(밖으로)+vid(보다)+-ent → 밖으로 다 보이는 → 명백한"
+  },
+  {
+   "num": 17,
+   "word": "shift",
+   "senses": [
+    {
+     "synonyms": [
+      "move",
+      "transfer",
+      "change",
+      "switch"
+     ],
+     "meaning": "옮기다, 바꾸다",
+     "example": "The chief executive decided to shift production to another factory.",
+     "example_ko": "최고 경영자는 생산을 다른 공장으로 옮기기로 결정했다."
+    }
+   ],
+   "nuance": "위치·방향·상태를 다른 쪽으로 이동·전환한다는 어감이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 18,
+   "word": "unique among",
+   "senses": [
+    {
+     "synonyms": [
+      "different from others"
+     ],
+     "meaning": "~ 중에서 유일무이한, 독특한",
+     "example": "Because of its ability to catch insects, the Venus flytrap is unique among plants.",
+     "example_ko": "곤충을 잡는 능력 때문에 파리지옥은 식물들 가운데서 독특하다."
+    }
+   ],
+   "nuance": "같은 부류 안에서 견줄 데 없이 유일하다는 어감이다.",
+   "etym": "uni-(하나)+-que → 하나뿐인 → 유일한"
+  },
+  {
+   "num": 19,
+   "word": "full-fledged",
+   "senses": [
+    {
+     "synonyms": [
+      "well-developed",
+      "full-blown"
+     ],
+     "meaning": "본격적인, 완전히 발달한",
+     "example": "Tina started selling her art as a hobby, but it soon turned into a full-fledged business.",
+     "example_ko": "티나는 취미로 자신의 작품을 팔기 시작했지만, 그것은 곧 본격적인 사업으로 발전했다."
+    }
+   ],
+   "nuance": "깃털이 다 자란 새처럼 완전히 성숙·완성되었다는 어감이다.",
+   "etym": "full(완전히)+fledge(깃털이 나다) → 깃털이 다 난 → 완전히 성숙한"
+  },
+  {
+   "num": 20,
+   "word": "laborious",
+   "senses": [
+    {
+     "synonyms": [
+      "difficult",
+      "strenuous"
+     ],
+     "meaning": "힘든, 고된",
+     "example": "It took Michelangelo four years of laborious painting to finish the Sistine Chapel ceiling.",
+     "example_ko": "미켈란젤로가 시스티나 성당 천장화를 완성하는 데는 4년간의 고된 작업이 필요했다."
+    }
+   ],
+   "nuance": "많은 노력과 수고가 드는 고달픈 일이라는 어감이다.",
+   "etym": "labor(노동)+-ious(~한) → 노동이 많이 드는 → 고된"
+  },
+  {
+   "num": 21,
+   "word": "emit",
+   "senses": [
+    {
+     "synonyms": [
+      "give off",
+      "exhale",
+      "release",
+      "discharge",
+      "send out"
+     ],
+     "meaning": "방출하다, 내뿜다",
+     "example": "In the fireplace was a red-hot fire which emitted a small amount of smoke.",
+     "example_ko": "벽난로 안에는 소량의 연기를 내뿜는 시뻘겋게 달아오른 불이 있었다."
+    }
+   ],
+   "nuance": "빛·열·연기·소리 등을 밖으로 내보낸다는 어감이다.",
+   "etym": "e-(밖으로)+mit(보내다) → 밖으로 내보내다 → 방출하다"
+  },
+  {
+   "num": 22,
+   "word": "stunning",
+   "senses": [
+    {
+     "synonyms": [
+      "amazing",
+      "impressive",
+      "breathtaking",
+      "spectacular"
+     ],
+     "meaning": "굉장히 멋진, 깜짝 놀랄 만한",
+     "example": "The Hubble Space Telescope can capture stunning images of distant galaxies.",
+     "example_ko": "허블 우주 망원경은 먼 은하들의 굉장히 멋진 이미지를 포착할 수 있다."
+    }
+   ],
+   "nuance": "넋을 잃을 만큼 인상적이고 아름답다는 강한 감탄의 어감이다.",
+   "etym": "stun(기절시키다)+-ning → 기절시킬 만큼 놀라운 → 굉장한"
+  },
+  {
+   "num": 23,
+   "word": "tantalizing",
+   "senses": [
+    {
+     "synonyms": [
+      "tempting",
+      "enticing"
+     ],
+     "meaning": "애타게 하는, 몹시 유혹적인",
+     "example": "Credit card information is a tantalizing target for hackers and other cybercriminals.",
+     "example_ko": "신용카드 정보는 해커와 여타 사이버 범죄자들에게 몹시 매력적인 표적이다."
+    },
+    {
+     "synonyms": [
+      "teasing"
+     ],
+     "meaning": "감질나게 하는, 군침 돌게 하는",
+     "example": "Although the food was not ready, the hungry guests could smell the tantalizing aromas from the kitchen.",
+     "example_ko": "음식이 아직 준비되지 않았지만, 배고픈 손님들은 주방에서 나는 군침 도는 냄새를 맡을 수 있었다."
+    }
+   ],
+   "nuance": "손에 잡힐 듯 잡히지 않아 감질나게 애태우는 유혹의 어감이다.",
+   "etym": "그리스 신화 Tantalus(눈앞의 물·과일을 못 먹고 애태운 인물)+-ize+-ing → 애타게 하는"
+  },
+  {
+   "num": 24,
+   "word": "abandoned",
+   "senses": [
+    {
+     "synonyms": [
+      "no longer occupied",
+      "deserted",
+      "vacant"
+     ],
+     "meaning": "버려진, 방치된",
+     "example": "The abandoned site of Machu Picchu in Peru was rediscovered in 1911.",
+     "example_ko": "페루의 버려진 유적지 마추픽추는 1911년에 재발견되었다."
+    }
+   ],
+   "nuance": "주인 없이 내버려져 텅 빈 상태라는 어감이다.",
+   "etym": "a-(~로)+bandon(통제, 명령) → 통제를 놓아버리다 → 버리다"
+  },
+  {
+   "num": 25,
+   "word": "transmit",
+   "senses": [
+    {
+     "synonyms": [
+      "convey",
+      "communicate",
+      "send"
+     ],
+     "meaning": "전송하다, 전달하다",
+     "example": "Samuel Morse first transmitted a message by telegraph in 1844.",
+     "example_ko": "새뮤얼 모스는 1844년에 전신으로 최초의 메시지를 전송했다."
+    }
+   ],
+   "nuance": "신호·정보를 한쪽에서 다른 쪽으로 보낸다는 어감이다.",
+   "etym": "trans-(가로질러)+mit(보내다) → 가로질러 보내다 → 전송하다"
+  },
+  {
+   "num": 26,
+   "word": "candidly",
+   "senses": [
+    {
+     "synonyms": [
+      "honestly",
+      "frankly",
+      "plainly"
+     ],
+     "meaning": "솔직하게, 숨김없이",
+     "example": "The author candidly answered the questions during the interview.",
+     "example_ko": "그 작가는 인터뷰 동안 질문들에 솔직하게 답했다."
+    }
+   ],
+   "nuance": "꾸밈이나 숨김 없이 있는 그대로 말한다는 어감이다.",
+   "etym": "cand(하얀, 빛나는)+-id+-ly → 하얗게 다 드러내며 → 솔직하게"
+  },
+  {
+   "num": 27,
+   "word": "compulsorily",
+   "senses": [
+    {
+     "synonyms": [
+      "by requirement",
+      "obligatorily",
+      "mandatorily"
+     ],
+     "meaning": "의무적으로, 강제로",
+     "example": "Taxes are compulsorily paid to the government by all residents of a country.",
+     "example_ko": "세금은 한 나라의 모든 거주자에 의해 의무적으로 정부에 납부된다."
+    }
+   ],
+   "nuance": "선택의 여지 없이 반드시 해야 한다는 강제성의 어감이다.",
+   "etym": "com-(강조)+puls(밀다)+-ory+-ly → 밀어붙여서 → 강제로"
+  },
+  {
+   "num": 28,
+   "word": "aid",
+   "senses": [
+    {
+     "synonyms": [
+      "assist",
+      "support",
+      "help",
+      "back"
+     ],
+     "meaning": "돕다, 원조하다",
+     "example": "For her volunteer work, Catherine aided elderly patients in a nursing home.",
+     "example_ko": "캐서린은 자원봉사 활동으로 요양원의 노인 환자들을 도왔다."
+    }
+   ],
+   "nuance": "어려움에 처한 대상을 실질적으로 거들어 돕는다는 어감이다.",
+   "etym": "ad-(~에게)+juvare(돕다) → ~에게 도움을 주다 → 돕다"
+  },
+  {
+   "num": 29,
+   "word": "deliberation",
+   "senses": [
+    {
+     "synonyms": [
+      "discussion",
+      "debate",
+      "conference"
+     ],
+     "meaning": "숙고, 심의",
+     "example": "After a long deliberation, the jury announced its decision in the murder trial.",
+     "example_ko": "오랜 심의 끝에 배심원단은 그 살인 재판에 대한 결정을 발표했다."
+    }
+   ],
+   "nuance": "신중하게 따지고 논의하는 진지한 검토의 어감이다.",
+   "etym": "de-(강조)+liber/libra(저울)+-ation → 저울질하듯 따짐 → 숙고"
+  },
+  {
+   "num": 30,
+   "word": "preposterous",
+   "senses": [
+    {
+     "synonyms": [
+      "unbelievable",
+      "absurd",
+      "nonsensical"
+     ],
+     "meaning": "터무니없는, 말도 안 되는",
+     "example": "The once popular theory regarding the existence of intelligent life on Mars now seems preposterous.",
+     "example_ko": "한때 인기 있던 화성의 지적 생명체 존재에 관한 이론은 이제 터무니없어 보인다."
+    }
+   ],
+   "nuance": "이치에 완전히 어긋나 우스꽝스러울 정도라는 어감이다.",
+   "etym": "pre-(앞)+poster(뒤) → 앞뒤가 뒤바뀐 → 터무니없는"
+  },
+  {
+   "num": 31,
+   "word": "sparse",
+   "senses": [
+    {
+     "synonyms": [
+      "scattered",
+      "thinly distributed"
+     ],
+     "meaning": "드문드문한, 희박한",
+     "example": "Houses are sparse throughout the desolate region.",
+     "example_ko": "그 황량한 지역 곳곳에 집들이 드문드문 있다."
+    },
+    {
+     "synonyms": [
+      "scanty",
+      "meager",
+      "scarce",
+      "limited"
+     ],
+     "meaning": "빈약한, 부족한",
+     "example": "The sailor survived several weeks in a lifeboat with only sparse provisions.",
+     "example_ko": "그 선원은 빈약한 식량만으로 구명보트에서 몇 주를 버텨 살아남았다."
+    }
+   ],
+   "nuance": "밀도나 양이 성기고 모자란다는 어감이다.",
+   "etym": "spars(흩뿌리다) → 흩뿌려져 성긴 → 드문드문한"
+  },
+  {
+   "num": 32,
+   "word": "occasionally",
+   "senses": [
+    {
+     "synonyms": [
+      "once in a while",
+      "now and then",
+      "sometimes"
+     ],
+     "meaning": "가끔, 이따금",
+     "example": "The Kilauea Volcano in Hawaii occasionally erupts and releases lava into the surrounding area.",
+     "example_ko": "하와이의 킬라우에아 화산은 가끔 분화하여 주변 지역으로 용암을 분출한다."
+    }
+   ],
+   "nuance": "규칙 없이 이따금씩 일어난다는 낮은 빈도의 어감이다.",
+   "etym": "occas(마주치다, 우연)+-ion+-al+-ly → 우연히 있을 때마다 → 가끔"
+  },
+  {
+   "num": 33,
+   "word": "inconceivable",
+   "senses": [
+    {
+     "synonyms": [
+      "unthinkable",
+      "unimaginable"
+     ],
+     "meaning": "상상할 수 없는, 믿기 어려운",
+     "example": "Exploring outer space was once considered inconceivable.",
+     "example_ko": "우주 탐사는 한때 상상조차 할 수 없는 일로 여겨졌다."
+    }
+   ],
+   "nuance": "머릿속에 그려볼 수조차 없을 만큼 불가능하게 느껴진다는 어감이다.",
+   "etym": "in-(부정)+con-(함께)+ceive(붙잡다)+-able → 마음에 붙잡을 수 없는 → 상상 불가능한"
+  },
+  {
+   "num": 34,
+   "word": "breeding",
+   "senses": [
+    {
+     "synonyms": [
+      "reproduction",
+      "propagation"
+     ],
+     "meaning": "번식, 사육",
+     "example": "The breeding of pandas in captivity is rare.",
+     "example_ko": "사육 상태에서 판다의 번식은 드물다."
+    }
+   ],
+   "nuance": "동식물이 새끼·후손을 낳아 늘린다는 어감이다.",
+   "etym": "breed(새끼를 낳다)+-ing → 새끼를 낳음 → 번식"
+  },
+  {
+   "num": 35,
+   "word": "overriding",
+   "senses": [
+    {
+     "synonyms": [
+      "dominant",
+      "chief",
+      "principal"
+     ],
+     "meaning": "가장 중요한, 최우선의",
+     "example": "Water quality is the overriding concern in many developing countries.",
+     "example_ko": "수질은 많은 개발도상국에서 가장 중요한 관심사이다."
+    }
+   ],
+   "nuance": "다른 모든 것을 압도하며 우선한다는 어감이다.",
+   "etym": "over-(위로)+ride(타다) → 위에 올라타 누르는 → 최우선의"
+  },
+  {
+   "num": 36,
+   "word": "favor",
+   "senses": [
+    {
+     "synonyms": [
+      "prefer",
+      "lean toward"
+     ],
+     "meaning": "선호하다, 더 좋아하다",
+     "example": "Although many people enjoy the excitement of cities, some people favor the quiet life of the country.",
+     "example_ko": "많은 사람들이 도시의 활기를 즐기지만, 어떤 이들은 시골의 조용한 삶을 선호한다."
+    }
+   ],
+   "nuance": "여럿 중 한쪽에 마음이 기울어 편든다는 어감이다.",
+   "etym": "favor(호의) → 호의를 보이다 → 선호하다"
+  },
+  {
+   "num": 37,
+   "word": "sediment",
+   "senses": [
+    {
+     "synonyms": [
+      "remains",
+      "deposition"
+     ],
+     "meaning": "침전물, 퇴적물",
+     "example": "As wine ages, sediment collects at the bottom of the bottle.",
+     "example_ko": "와인이 숙성됨에 따라 병 바닥에 침전물이 쌓인다."
+    }
+   ],
+   "nuance": "액체 속에서 가라앉아 바닥에 쌓인 앙금이라는 어감이다.",
+   "etym": "sed(앉다)+-ment → 가라앉은 것 → 침전물"
+  },
+  {
+   "num": 38,
+   "word": "clever",
+   "senses": [
+    {
+     "synonyms": [
+      "ingenious",
+      "smart",
+      "brilliant",
+      "bright"
+     ],
+     "meaning": "영리한, 기발한",
+     "example": "Solar power is a clever solution to the problem of dwindling fossil fuel reserves.",
+     "example_ko": "태양광 발전은 줄어드는 화석 연료 매장량 문제에 대한 기발한 해결책이다."
+    }
+   ],
+   "nuance": "재치 있고 기발하게 문제를 푸는 영리함의 어감이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 39,
+   "word": "consistently",
+   "senses": [
+    {
+     "synonyms": [
+      "regularly",
+      "typically",
+      "unchangingly",
+      "unchangeably"
+     ],
+     "meaning": "일관되게, 한결같이",
+     "example": "Hawks consistently return to the same place to breed year after year.",
+     "example_ko": "매들은 해마다 번식을 위해 한결같이 같은 장소로 돌아온다."
+    }
+   ],
+   "nuance": "변함없이 꾸준히 같은 양상을 보인다는 어감이다.",
+   "etym": "con-(함께)+sist(서다)+-ent+-ly → 함께 굳게 서서 → 한결같이"
+  },
+  {
+   "num": 40,
+   "word": "rate",
+   "senses": [
+    {
+     "synonyms": [
+      "judge",
+      "assess",
+      "evaluate"
+     ],
+     "meaning": "평가하다, 등급을 매기다",
+     "example": "In the art contest, six different art teachers will rate the entries of the participants before choosing a winner.",
+     "example_ko": "미술 대회에서 여섯 명의 서로 다른 미술 교사들이 우승자를 선정하기 전에 참가자들의 출품작을 평가할 것이다."
+    }
+   ],
+   "nuance": "기준에 따라 등급·점수를 매겨 판단한다는 어감이다.",
+   "etym": "rat(계산하다, 헤아리다) → 헤아려 값을 매기다 → 평가하다"
+  },
+  {
+   "num": 41,
+   "word": "predominate",
+   "senses": [
+    {
+     "synonyms": [
+      "outweigh",
+      "prevail"
+     ],
+     "meaning": "우세하다, 지배적이다",
+     "example": "Service-related companies now predominate in a town that was once known for its manufacturing companies.",
+     "example_ko": "한때 제조업체로 유명했던 마을에서 이제는 서비스 관련 기업들이 우세하다."
+    }
+   ],
+   "nuance": "수·힘·영향력 면에서 다른 것보다 앞서 지배한다는 어감이다.",
+   "etym": "pre-(앞서)+dominate(지배하다) → 앞서 지배하다 → 우세하다"
+  },
+  {
+   "num": 42,
+   "word": "predominant",
+   "senses": [
+    {
+     "synonyms": [
+      "most popular"
+     ],
+     "meaning": "두드러진, 지배적인",
+     "example": "Reality shows have been the predominant format for TV shows in recent years.",
+     "example_ko": "리얼리티 쇼는 최근 몇 년간 TV 프로그램의 지배적인 형식이었다."
+    }
+   ],
+   "nuance": "가장 널리 퍼져 주도적이라는 어감이다.",
+   "etym": "pre-(앞서)+dominant(지배적인) → 앞서 지배하는 → 지배적인"
+  },
+  {
+   "num": 43,
+   "word": "realize",
+   "senses": [
+    {
+     "synonyms": [
+      "be aware of",
+      "understand",
+      "catch on"
+     ],
+     "meaning": "깨닫다, 알아차리다",
+     "example": "Einstein realized that there were problems with Newton's law of gravity.",
+     "example_ko": "아인슈타인은 뉴턴의 중력 법칙에 문제가 있다는 것을 깨달았다."
+    },
+    {
+     "synonyms": [
+      "achieve",
+      "accomplish",
+      "fulfill"
+     ],
+     "meaning": "실현하다, 이루다",
+     "example": "It often takes several years for new businesses to realize a profit.",
+     "example_ko": "새로운 사업체가 이익을 실현하기까지는 종종 몇 년이 걸린다."
+    }
+   ],
+   "nuance": "'머리로 깨닫다'와 '목표를 현실로 이루다' 두 갈래로 쓰인다.",
+   "etym": "real(실재의)+-ize → 실재로 만들다/실재임을 알다 → 실현하다/깨닫다"
+  },
+  {
+   "num": 44,
+   "word": "circuitous",
+   "senses": [
+    {
+     "synonyms": [
+      "indirect",
+      "roundabout"
+     ],
+     "meaning": "우회하는, 빙 도는",
+     "example": "The path up the mountain was circuitous and took five hours to hike.",
+     "example_ko": "산을 오르는 길은 구불구불 돌아가는 길이어서 등반하는 데 다섯 시간이 걸렸다."
+    }
+   ],
+   "nuance": "곧장 가지 않고 빙 돌아가는 번거로움의 어감이다.",
+   "etym": "circu(원, 둘레)+it(가다)+-ous → 둘레를 돌아가는 → 우회하는"
+  },
+  {
+   "num": 45,
+   "word": "owing to",
+   "senses": [
+    {
+     "synonyms": [
+      "due to",
+      "because of",
+      "as a result of"
+     ],
+     "meaning": "~ 때문에, ~로 인해",
+     "example": "The government had to introduce new economic reforms owing to the recession.",
+     "example_ko": "정부는 경기 침체로 인해 새로운 경제 개혁을 도입해야 했다."
+    }
+   ],
+   "nuance": "어떤 결과의 원인을 격식 있게 밝히는 어감이다.",
+   "etym": "owe(빚지다)+-ing → ~에 빚진 → ~ 덕분에/때문에"
+  },
+  {
+   "num": 46,
+   "word": "model",
+   "senses": [
+    {
+     "synonyms": [
+      "specimen",
+      "prototype",
+      "example"
+     ],
+     "meaning": "모형, 본보기, (실험) 모델",
+     "example": "Some treatments that have worked in the rat model have also been successful in humans.",
+     "example_ko": "쥐 모델에서 효과가 있었던 일부 치료법은 인간에게서도 성공을 거두었다."
+    }
+   ],
+   "nuance": "어떤 대상을 대표하거나 본떠 만든 표본·본보기의 어감이다.",
+   "etym": "mod(형태, 척도)+-el → 작은 형태 → 모형, 본"
+  },
+  {
+   "num": 47,
+   "word": "with respect to",
+   "senses": [
+    {
+     "synonyms": [
+      "with regard to",
+      "in terms of",
+      "in reference to"
+     ],
+     "meaning": "~에 관하여, ~와 관련하여",
+     "example": "The Middle East plays an important role with respect to global energy security.",
+     "example_ko": "중동은 세계 에너지 안보와 관련하여 중요한 역할을 한다."
+    }
+   ],
+   "nuance": "논의의 대상·범위를 한정해 가리키는 격식체 표현이다.",
+   "etym": "re-(다시)+spect(보다) → 다시 바라봄 → ~에 관하여"
+  },
+  {
+   "num": 48,
+   "word": "continuous",
+   "senses": [
+    {
+     "synonyms": [
+      "uninterrupted",
+      "ongoing",
+      "unceasing",
+      "consecutive"
+     ],
+     "meaning": "끊임없는, 계속되는",
+     "example": "The continuous noise from the construction site bothered the area's residents.",
+     "example_ko": "공사장에서 나는 끊임없는 소음이 그 지역 주민들을 괴롭혔다."
+    }
+   ],
+   "nuance": "중단 없이 죽 이어진다는 어감이다.",
+   "etym": "con-(함께)+tin(잡다)+-uous → 계속 붙잡고 있는 → 끊임없는"
+  },
+  {
+   "num": 49,
+   "word": "collaborate",
+   "senses": [
+    {
+     "synonyms": [
+      "cooperate",
+      "put effort together",
+      "work together"
+     ],
+     "meaning": "협력하다, 공동 작업하다",
+     "example": "The high school collaborated with the public library to make the fair a great success.",
+     "example_ko": "그 고등학교는 박람회를 대성공으로 만들기 위해 공공 도서관과 협력했다."
+    }
+   ],
+   "nuance": "공동의 목표를 위해 함께 일한다는 어감이다.",
+   "etym": "col-(함께)+labor(일하다)+-ate → 함께 일하다 → 협력하다"
+  },
+  {
+   "num": 50,
+   "word": "anonymous",
+   "senses": [
+    {
+     "synonyms": [
+      "unknown",
+      "unnamed",
+      "unidentified",
+      "innominate"
+     ],
+     "meaning": "익명의, 이름을 밝히지 않은",
+     "example": "Nancy was grateful to an anonymous reader for some helpful comments.",
+     "example_ko": "낸시는 유익한 의견을 준 익명의 독자에게 고마워했다."
+    }
+   ],
+   "nuance": "이름이 드러나지 않아 신원을 알 수 없다는 어감이다.",
+   "etym": "an-(없는)+onym(이름)+-ous → 이름이 없는 → 익명의"
+  },
+  {
+   "num": 51,
+   "word": "somewhat",
+   "senses": [
+    {
+     "synonyms": [
+      "to some degree",
+      "to some extent",
+      "rather"
+     ],
+     "meaning": "어느 정도, 다소",
+     "example": "The global unemployment rate has improved somewhat since the financial crisis.",
+     "example_ko": "세계 실업률은 금융 위기 이후 다소 개선되었다."
+    }
+   ],
+   "nuance": "완전하지는 않지만 어느 정도라는 정도의 한정 어감이다.",
+   "etym": "some(어느)+what(것) → 어느 정도의 것 → 다소"
+  },
+  {
+   "num": 52,
+   "word": "damaging",
+   "senses": [
+    {
+     "synonyms": [
+      "harmful",
+      "detrimental",
+      "noxious"
+     ],
+     "meaning": "해로운, 손상을 주는",
+     "example": "Skin cancer can result from the damaging effects of the sun.",
+     "example_ko": "피부암은 태양의 해로운 영향으로 인해 발생할 수 있다."
+    }
+   ],
+   "nuance": "실질적인 피해나 손상을 초래한다는 어감이다.",
+   "etym": "damage(손해)+-ing → 손해를 끼치는 → 해로운"
+  },
+  {
+   "num": 53,
+   "word": "dramatically",
+   "senses": [
+    {
+     "synonyms": [
+      "greatly",
+      "substantially",
+      "remarkably"
+     ],
+     "meaning": "극적으로, 크게",
+     "example": "John's personality has changed dramatically over the past few years.",
+     "example_ko": "존의 성격은 지난 몇 년 사이 극적으로 변했다."
+    }
+   ],
+   "nuance": "눈에 띄게 급격하고 인상적으로 변한다는 어감이다.",
+   "etym": "drama(극)+-ical+-ly → 극처럼 극적으로 → 크게"
+  },
+  {
+   "num": 54,
+   "word": "heighten",
+   "senses": [
+    {
+     "synonyms": [
+      "increase",
+      "intensify"
+     ],
+     "meaning": "고조시키다, 높이다",
+     "example": "Mandy's vague excuse heightened her father's anxiety.",
+     "example_ko": "맨디의 모호한 변명은 그녀 아버지의 불안을 고조시켰다."
+    }
+   ],
+   "nuance": "감정·정도를 한층 더 끌어올린다는 어감이다.",
+   "etym": "height(높이)+-en(~하게 하다) → 높게 하다 → 고조시키다"
+  },
+  {
+   "num": 55,
+   "word": "share",
+   "senses": [
+    {
+     "synonyms": [
+      "portion",
+      "part",
+      "allotment"
+     ],
+     "meaning": "몫, 배당분",
+     "example": "Bob's roommate was constantly late with his share of the rent.",
+     "example_ko": "밥의 룸메이트는 자기 몫의 집세를 늘 늦게 냈다."
+    }
+   ],
+   "nuance": "전체를 나눈 각자의 할당 몫이라는 어감이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 56,
+   "word": "shortly",
+   "senses": [
+    {
+     "synonyms": [
+      "soon",
+      "presently"
+     ],
+     "meaning": "곧, 이내",
+     "example": "Mr. Jones is currently out of the office because of a business lunch, but he will be back shortly.",
+     "example_ko": "존스 씨는 업무상 점심 약속으로 지금 사무실을 비웠지만, 곧 돌아올 것이다."
+    }
+   ],
+   "nuance": "머지않아 짧은 시간 안에라는 어감이다.",
+   "etym": "short(짧은)+-ly → 짧은 시간 안에 → 곧"
+  },
+  {
+   "num": 57,
+   "word": "besides",
+   "senses": [
+    {
+     "synonyms": [
+      "in addition"
+     ],
+     "meaning": "게다가, 더욱이",
+     "example": "Tom has the most experience for the job. Besides, he is very charismatic.",
+     "example_ko": "톰은 그 일에 가장 많은 경험이 있다. 게다가 그는 매우 카리스마가 있다."
+    },
+    {
+     "synonyms": [
+      "apart from"
+     ],
+     "meaning": "~ 외에, ~을 제외하고",
+     "example": "There was nothing in the safe besides a few old documents.",
+     "example_ko": "금고 안에는 오래된 문서 몇 장 외에는 아무것도 없었다."
+    }
+   ],
+   "nuance": "'덧붙여 게다가'와 '~을 제외하고' 두 쓰임이 있다.",
+   "etym": "be-(~에)+side(옆)+-s → 옆에 더하여 → 게다가/~외에"
+  },
+  {
+   "num": 58,
+   "word": "seep",
+   "senses": [
+    {
+     "synonyms": [
+      "flow slowly",
+      "pass through slowly"
+     ],
+     "meaning": "스며들다, 새어 나오다",
+     "example": "The gas seeped throughout the entire building before anyone noticed the leaking valve.",
+     "example_ko": "아무도 새는 밸브를 알아채기 전에 가스가 건물 전체로 스며들었다."
+    }
+   ],
+   "nuance": "액체·기체가 틈으로 천천히 배어들거나 새어 나온다는 어감이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  }
+ ],
+ "14": [
+  {
+   "num": 1,
+   "word": "lethal",
+   "senses": [
+    {
+     "synonyms": [
+      "deadly",
+      "dangerous",
+      "fatal",
+      "pernicious"
+     ],
+     "meaning": "치명적인, 죽음에 이르게 하는",
+     "example": "The black mamba is one of the world's most lethal snakes.",
+     "example_ko": "블랙맘바는 세계에서 가장 치명적인 뱀 중 하나이다."
+    }
+   ],
+   "nuance": "단순히 위험한 정도가 아니라 죽음을 초래할 만큼 치명적임을 강조하는 다소 격식 있는 단어다.",
+   "etym": "라틴어 letum(죽음) + -al(형용사 접미사) → '죽음과 관련된' → 치명적인"
+  },
+  {
+   "num": 2,
+   "word": "modest",
+   "senses": [
+    {
+     "synonyms": [
+      "small",
+      "not large",
+      "limited",
+      "simple"
+     ],
+     "meaning": "(크기·정도가) 대단찮은, 적당한, 소박한",
+     "example": "The apartment Janet lives in is a modest one, but it satisfies her needs.",
+     "example_ko": "자넷이 사는 아파트는 소박하지만 그녀의 필요를 충족시킨다."
+    }
+   ],
+   "nuance": "과하지 않고 겸손하거나 아담한 느낌을 주며, 긍정적으로도 중립적으로도 쓰인다.",
+   "etym": "라틴어 modestus(절도 있는), modus(척도·한도)에서 → 정도를 지킨 → 소박한"
+  },
+  {
+   "num": 3,
+   "word": "component",
+   "senses": [
+    {
+     "synonyms": [
+      "element",
+      "constituent",
+      "ingredient",
+      "part",
+      "factor"
+     ],
+     "meaning": "구성 요소, 부품",
+     "example": "Nitrogen is one of the major components of the air humans breathe.",
+     "example_ko": "질소는 인간이 호흡하는 공기의 주요 구성 요소 중 하나이다."
+    }
+   ],
+   "nuance": "전체를 이루는 하나하나의 부분을 기술적·중립적으로 가리키는 단어다.",
+   "etym": "라틴어 com-(함께) + ponere(놓다) → 함께 놓인 것 → 구성 요소"
+  },
+  {
+   "num": 4,
+   "word": "exploitation",
+   "senses": [
+    {
+     "synonyms": [
+      "use",
+      "abuse",
+      "misuse"
+     ],
+     "meaning": "(부당한) 착취, 이용",
+     "example": "The Keating-Owen Act of 1916 was an early attempt to address the exploitation of child labor.",
+     "example_ko": "1916년 키팅-오언 법은 아동 노동 착취 문제를 다루려는 초기의 시도였다."
+    }
+   ],
+   "nuance": "이익을 위해 부당하게 이용하는 부정적 어감이 강하지만, 자원 '개발'이라는 중립적 의미로도 쓰인다.",
+   "etym": "라틴어 ex-(밖으로) + plicare(접다) → 펼쳐 이용하다 → 착취/이용"
+  },
+  {
+   "num": 5,
+   "word": "relic",
+   "senses": [
+    {
+     "synonyms": [
+      "remains",
+      "remnant",
+      "vestige"
+     ],
+     "meaning": "유물, 유적",
+     "example": "In the jungle, archaeologists uncovered pottery and other relics from an ancient civilization.",
+     "example_ko": "정글에서 고고학자들은 도자기와 고대 문명의 다른 유물들을 발굴했다."
+    }
+   ],
+   "nuance": "과거에서 남겨져 지금까지 전해지는 옛것이라는 역사적·고풍스러운 느낌을 준다.",
+   "etym": "라틴어 relinquere(남겨두다)의 relictus에서 → 뒤에 남겨진 것 → 유물"
+  },
+  {
+   "num": 6,
+   "word": "profoundly",
+   "senses": [
+    {
+     "synonyms": [
+      "deeply",
+      "completely",
+      "strongly"
+     ],
+     "meaning": "깊이, 심오하게, 극도로",
+     "example": "The death of the popular king profoundly affected the emotions of his subjects.",
+     "example_ko": "인기 있던 왕의 죽음은 백성들의 감정에 깊은 영향을 미쳤다."
+    }
+   ],
+   "nuance": "표면적이 아닌 마음·본질 깊숙이 미치는 강렬한 정도를 나타내는 격식 있는 부사다.",
+   "etym": "라틴어 pro-(앞으로) + fundus(바닥) → 바닥까지 → 깊이"
+  },
+  {
+   "num": 7,
+   "word": "deflect",
+   "senses": [
+    {
+     "synonyms": [
+      "change the direction of",
+      "divert"
+     ],
+     "meaning": "방향을 바꾸다, 빗나가게 하다",
+     "example": "Barriers were erected to deflect traffic away from the construction site.",
+     "example_ko": "공사장에서 차량을 다른 곳으로 우회시키기 위해 차단벽이 설치되었다."
+    }
+   ],
+   "nuance": "날아오거나 진행하던 것을 옆으로 틀어 비껴가게 한다는 물리적·비유적 뉘앙스를 갖는다.",
+   "etym": "라틴어 de-(벗어나) + flectere(구부리다) → 구부려 벗어나게 하다 → 방향을 바꾸다"
+  },
+  {
+   "num": 8,
+   "word": "highlight",
+   "senses": [
+    {
+     "synonyms": [
+      "emphasize",
+      "stress",
+      "underline",
+      "accent"
+     ],
+     "meaning": "강조하다, 두드러지게 하다",
+     "example": "The burglary highlighted the company's need to upgrade its security system.",
+     "example_ko": "그 절도 사건은 회사가 보안 시스템을 업그레이드할 필요성을 부각시켰다."
+    }
+   ],
+   "nuance": "여럿 중 특정 부분을 눈에 띄게 부각시켜 주목하게 만든다는 뉘앙스다.",
+   "etym": "기본어 high(높은) + light(빛) 합성 → 밝게 비추다 → 강조하다"
+  },
+  {
+   "num": 9,
+   "word": "exert",
+   "senses": [
+    {
+     "synonyms": [
+      "apply",
+      "exercise",
+      "employ",
+      "put forth",
+      "wield"
+     ],
+     "meaning": "(힘·영향력을) 가하다, 행사하다",
+     "example": "Oil drills exert a tremendous amount of force and can easily break through hard rock.",
+     "example_ko": "석유 시추기는 엄청난 힘을 가해 단단한 암석도 쉽게 뚫을 수 있다."
+    }
+   ],
+   "nuance": "힘·노력·영향력을 의도적으로 쏟아 발휘한다는 능동적 어감을 가진다.",
+   "etym": "라틴어 ex-(밖으로) + serere(엮다·연결하다) → 밖으로 내어 발휘하다 → 힘을 가하다"
+  },
+  {
+   "num": 10,
+   "word": "potential",
+   "senses": [
+    {
+     "synonyms": [
+      "possible",
+      "prospective",
+      "latent"
+     ],
+     "meaning": "잠재적인, 가능성 있는",
+     "example": "Chameleons change color to blend into the background when they detect a potential predator nearby.",
+     "example_ko": "카멜레온은 근처에 잠재적 포식자를 감지하면 배경에 섞이기 위해 색을 바꾼다."
+    },
+    {
+     "synonyms": [
+      "possibility"
+     ],
+     "meaning": "잠재력, 가능성",
+     "example": "The potential for lightning to strike the same location twice is small.",
+     "example_ko": "번개가 같은 장소에 두 번 칠 가능성은 작다."
+    }
+   ],
+   "nuance": "아직 실현되지 않았지만 앞으로 드러날 수 있는 가능성·능력을 가리킨다.",
+   "etym": "라틴어 potentia(힘·능력), potens(할 수 있는)에서 → 힘을 지닌 → 잠재적인"
+  },
+  {
+   "num": 11,
+   "word": "recurring",
+   "senses": [
+    {
+     "synonyms": [
+      "repeated",
+      "recurrent"
+     ],
+     "meaning": "반복되는, 되풀이되는",
+     "example": "Darcy had to see a therapist because he kept having recurring nightmares about drowning.",
+     "example_ko": "다시는 익사하는 악몽이 반복되어서 치료사를 만나야 했다."
+    }
+   ],
+   "nuance": "한 번이 아니라 주기적으로 다시 나타나 성가시거나 지속되는 느낌을 준다.",
+   "etym": "라틴어 re-(다시) + currere(달리다) → 다시 돌아오다 → 반복되는"
+  },
+  {
+   "num": 12,
+   "word": "meager",
+   "senses": [
+    {
+     "synonyms": [
+      "scanty",
+      "scarce",
+      "very low",
+      "deficient"
+     ],
+     "meaning": "빈약한, 메마른, 불충분한",
+     "example": "Lincoln's meager education aroused his desire to learn.",
+     "example_ko": "링컨의 빈약한 교육은 배우고자 하는 열망을 불러일으켰다."
+    }
+   ],
+   "nuance": "양이나 질이 필요한 만큼에 크게 못 미쳐 초라하다는 부정적 어감이 있다.",
+   "etym": "라틴어 macer(마른·여윈)에서 → 살이 없는 → 빈약한"
+  },
+  {
+   "num": 13,
+   "word": "prevail",
+   "senses": [
+    {
+     "synonyms": [
+      "be dominant",
+      "dominate",
+      "be widespread",
+      "be prevalent"
+     ],
+     "meaning": "만연하다, 널리 퍼져 있다, 우세하다",
+     "example": "In Alaska's cold and harsh climate, evergreen trees such as spruce prevail.",
+     "example_ko": "알래스카의 춥고 혹독한 기후에서는 가문비나무 같은 상록수가 우세하다."
+    },
+    {
+     "synonyms": [
+      "triumph"
+     ],
+     "meaning": "승리하다, 이기다",
+     "example": "The young candidate unexpectedly prevailed in the mayoral election.",
+     "example_ko": "그 젊은 후보는 시장 선거에서 뜻밖에 승리했다."
+    }
+   ],
+   "nuance": "경쟁이나 어려움을 이겨내고 우세하게 되거나 널리 퍼져 지배적이 된다는 어감이다.",
+   "etym": "라틴어 prae-(앞서) + valere(강하다) → 남보다 강하다 → 우세하다/이기다"
+  },
+  {
+   "num": 14,
+   "word": "exclusively",
+   "senses": [
+    {
+     "synonyms": [
+      "entirely",
+      "totally"
+     ],
+     "meaning": "오로지, 전적으로, 독점적으로",
+     "example": "The St. Patrick's Day party was an exclusively Irish affair.",
+     "example_ko": "그 성 패트릭의 날 파티는 오로지 아일랜드인만을 위한 행사였다."
+    }
+   ],
+   "nuance": "다른 것을 배제하고 오직 한 대상에만 한정된다는 배타적 어감을 갖는다.",
+   "etym": "라틴어 ex-(밖으로) + claudere(닫다) → 밖으로 닫아 제외하다 → 오로지"
+  },
+  {
+   "num": 15,
+   "word": "consensus",
+   "senses": [
+    {
+     "synonyms": [
+      "agreement",
+      "consent"
+     ],
+     "meaning": "합의, 의견 일치",
+     "example": "After a long meeting, the two sides were finally able to reach a consensus.",
+     "example_ko": "긴 회의 끝에 양측은 마침내 합의에 이를 수 있었다."
+    }
+   ],
+   "nuance": "다수 구성원이 두루 동의해 이룬 전반적 의견 일치를 가리키는 격식어다.",
+   "etym": "라틴어 com-(함께) + sentire(느끼다·생각하다) → 함께 느끼다 → 합의"
+  },
+  {
+   "num": 16,
+   "word": "now and then",
+   "senses": [
+    {
+     "synonyms": [
+      "occasionally",
+      "from time to time",
+      "at times"
+     ],
+     "meaning": "이따금, 가끔",
+     "example": "Nicholas rarely eats meat, but he eats seafood now and then.",
+     "example_ko": "니콜라스는 고기는 거의 먹지 않지만 해산물은 이따금 먹는다."
+    }
+   ],
+   "nuance": "규칙적이지 않게 드물게 어쩌다 한 번씩 일어난다는 구어적 표현이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 17,
+   "word": "discrete",
+   "senses": [
+    {
+     "synonyms": [
+      "separate",
+      "distinct",
+      "individual"
+     ],
+     "meaning": "별개의, 분리된",
+     "example": "Researchers have found that many newly married couples keep their money in discrete accounts.",
+     "example_ko": "연구자들은 새로 결혼한 많은 부부가 돈을 별개의 계좌에 보관한다는 것을 발견했다."
+    }
+   ],
+   "nuance": "서로 뒤섞이지 않고 명확히 구분되는 개별 단위임을 강조한다(신중한 discreet와 혼동 주의).",
+   "etym": "라틴어 dis-(떨어져) + cernere(가르다·구별하다) → 갈라놓은 → 별개의"
+  },
+  {
+   "num": 18,
+   "word": "anchor",
+   "senses": [
+    {
+     "synonyms": [
+      "hold in place",
+      "secure",
+      "fasten"
+     ],
+     "meaning": "고정시키다, 단단히 붙들다",
+     "example": "The panel was firmly anchored by two large bolts.",
+     "example_ko": "그 패널은 두 개의 큰 볼트로 단단히 고정되었다."
+    }
+   ],
+   "nuance": "배의 닻처럼 무언가를 움직이지 않게 굳건히 붙들어 매어 둔다는 이미지다.",
+   "etym": "그리스어 ankura(닻)에서 유래 → 닻 → 고정시키다"
+  },
+  {
+   "num": 19,
+   "word": "improbable",
+   "senses": [
+    {
+     "synonyms": [
+      "unlikely",
+      "implausible",
+      "doubtful"
+     ],
+     "meaning": "일어날 것 같지 않은, 사실 같지 않은",
+     "example": "Winning the lottery is highly improbable.",
+     "example_ko": "복권에 당첨되는 것은 매우 일어날 법하지 않은 일이다."
+    }
+   ],
+   "nuance": "불가능까지는 아니지만 확률이 매우 낮아 믿기 어렵다는 어감이다.",
+   "etym": "라틴어 im-(부정) + probabilis(있을 법한, probare 입증하다) → 있을 법하지 않은"
+  },
+  {
+   "num": 20,
+   "word": "pragmatic",
+   "senses": [
+    {
+     "synonyms": [
+      "practical",
+      "utilitarian"
+     ],
+     "meaning": "실용적인, 실리적인",
+     "example": "The politician promised to take a pragmatic approach to governance rather than strictly follow his party's ideology.",
+     "example_ko": "그 정치인은 당의 이념을 엄격히 따르기보다 통치에 실용적인 접근을 하겠다고 약속했다."
+    }
+   ],
+   "nuance": "이론·이념보다 실제 효과와 현실적 결과를 중시하는 태도를 가리킨다.",
+   "etym": "그리스어 pragma(행위·일, prassein 행하다)에서 → 실제 행위 중심의 → 실용적인"
+  },
+  {
+   "num": 21,
+   "word": "undisputed",
+   "senses": [
+    {
+     "synonyms": [
+      "acknowledged",
+      "accepted",
+      "recognized"
+     ],
+     "meaning": "이론의 여지가 없는, 명백히 인정받는",
+     "example": "Sir Isaac Newton is the undisputed father of modern optics.",
+     "example_ko": "아이작 뉴턴 경은 이론의 여지 없는 현대 광학의 아버지이다."
+    }
+   ],
+   "nuance": "누구도 반박하지 않을 만큼 확고히 인정된 지위·사실이라는 강한 어감이다.",
+   "etym": "un-(부정) + dis-(떨어져) + putare(생각하다·따지다) → 따져 다툴 수 없는 → 이론의 여지 없는"
+  },
+  {
+   "num": 22,
+   "word": "allocation",
+   "senses": [
+    {
+     "synonyms": [
+      "distribution",
+      "assignment",
+      "allotment"
+     ],
+     "meaning": "할당, 배분",
+     "example": "The allocation of funds is a challenge for any government.",
+     "example_ko": "자금의 배분은 어느 정부에나 어려운 과제이다."
+    }
+   ],
+   "nuance": "목적에 맞게 자원·몫을 계획적으로 나누어 배정한다는 공식적 어감이다.",
+   "etym": "라틴어 ad-(~에게) + locare(두다·자리잡게 하다, locus 장소) → 자리에 배정하다 → 할당"
+  },
+  {
+   "num": 23,
+   "word": "inconclusive",
+   "senses": [
+    {
+     "synonyms": [
+      "not definitive",
+      "indecisive"
+     ],
+     "meaning": "결정적이지 않은, 확실한 결론이 없는",
+     "example": "Doctors ordered a second test since the results of the first test were inconclusive.",
+     "example_ko": "첫 번째 검사 결과가 확실하지 않았기 때문에 의사들은 두 번째 검사를 지시했다."
+    }
+   ],
+   "nuance": "명확한 결론이나 결말에 이르지 못해 판단이 어렵다는 어감이다.",
+   "etym": "in-(부정) + con-(함께) + claudere(닫다) → 마무리 지어지지 않은 → 결정적이지 않은"
+  },
+  {
+   "num": 24,
+   "word": "withstand",
+   "senses": [
+    {
+     "synonyms": [
+      "endure",
+      "resist",
+      "sustain"
+     ],
+     "meaning": "견디다, 버티다, 이겨내다",
+     "example": "His mother doesn't think Bill is capable of withstanding hardship for long.",
+     "example_ko": "그의 어머니는 빌이 어려움을 오래 견뎌낼 수 있다고 생각하지 않는다."
+    }
+   ],
+   "nuance": "외부의 압력·공격·시련에 굴하지 않고 맞서 버텨낸다는 능동적 어감이다.",
+   "etym": "기본어 with(맞서) + stand(서다) → 맞서 서다 → 견디다"
+  },
+  {
+   "num": 25,
+   "word": "cornerstone",
+   "senses": [
+    {
+     "synonyms": [
+      "foundation",
+      "basic element",
+      "basis",
+      "underpinning"
+     ],
+     "meaning": "초석, 근간, 가장 중요한 토대",
+     "example": "The cornerstone of a healthy relationship is honest communication.",
+     "example_ko": "건강한 관계의 초석은 솔직한 의사소통이다."
+    }
+   ],
+   "nuance": "전체를 떠받치는 가장 기본이자 핵심이 되는 요소를 비유적으로 가리킨다.",
+   "etym": "기본어 corner(모서리) + stone(돌) → 건물 모서리의 주춧돌 → 초석"
+  },
+  {
+   "num": 26,
+   "word": "marvelous",
+   "senses": [
+    {
+     "synonyms": [
+      "wonderful",
+      "astonishing",
+      "amazing"
+     ],
+     "meaning": "경이로운, 놀랍도록 훌륭한",
+     "example": "It's really marvelous what modern medicine can do to relieve the pain of patients.",
+     "example_ko": "현대 의학이 환자의 고통을 덜어주기 위해 할 수 있는 일은 정말 경이롭다."
+    }
+   ],
+   "nuance": "감탄이 나올 만큼 훌륭하고 놀랍다는 강한 긍정적 감정을 담은 단어다.",
+   "etym": "라틴어 mirari(경탄하다, mirus 놀라운)에서 → 놀랄 만한 → 경이로운"
+  },
+  {
+   "num": 27,
+   "word": "clue",
+   "senses": [
+    {
+     "synonyms": [
+      "information",
+      "indication",
+      "evidence",
+      "trace",
+      "sign"
+     ],
+     "meaning": "단서, 실마리",
+     "example": "Because the painting was not signed, experts originally had no clue about who painted it.",
+     "example_ko": "그 그림에는 서명이 없어서 전문가들은 처음에 누가 그렸는지 전혀 단서가 없었다."
+    }
+   ],
+   "nuance": "문제나 수수께끼를 풀 실마리가 되는 작은 정보·흔적을 가리킨다.",
+   "etym": "고대영어 clew(실뭉치)에서 → 미로를 빠져나올 실 → 단서"
+  },
+  {
+   "num": 28,
+   "word": "unintentionally",
+   "senses": [
+    {
+     "synonyms": [
+      "inadvertently",
+      "accidentally",
+      "unconsciously"
+     ],
+     "meaning": "고의가 아니게, 무심코",
+     "example": "Helen expressed her regret to Tommy, even though she had damaged his car unintentionally.",
+     "example_ko": "헬렌은 고의가 아니게 토미의 차를 손상시켰지만 그에게 유감을 표했다."
+    }
+   ],
+   "nuance": "의도하지 않은 채 실수로 일어난 일임을 나타내며 책임을 덜어주는 뉘앙스가 있다.",
+   "etym": "un-(부정) + in-(안으로) + tendere(뻗다·향하다) → 마음을 향하지 않은 → 고의 아니게"
+  },
+  {
+   "num": 29,
+   "word": "peak",
+   "senses": [
+    {
+     "synonyms": [
+      "height",
+      "pinnacle",
+      "summit",
+      "maximum"
+     ],
+     "meaning": "정점, 최고조, 절정",
+     "example": "The flu season is expected to reach its peak in late January.",
+     "example_ko": "독감 시즌은 1월 말에 정점에 이를 것으로 예상된다."
+    }
+   ],
+   "nuance": "산의 꼭대기처럼 상승하던 것이 다다르는 최고 지점을 가리킨다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 30,
+   "word": "continual",
+   "senses": [
+    {
+     "synonyms": [
+      "constant",
+      "incessant",
+      "ceaseless"
+     ],
+     "meaning": "끊임없는, 거듭되는",
+     "example": "Doris finally got a refund for the faulty microwave after making continual complaints.",
+     "example_ko": "도리스는 거듭 항의한 끝에 마침내 결함 있는 전자레인지를 환불받았다."
+    }
+   ],
+   "nuance": "짧은 간격으로 자꾸 되풀이되어 이어지는, 종종 성가신 반복을 나타낸다.",
+   "etym": "라틴어 continuare(잇다·이어지게 하다, tenere 붙잡다) → 계속 이어지는 → 끊임없는"
+  },
+  {
+   "num": 31,
+   "word": "thorough",
+   "senses": [
+    {
+     "synonyms": [
+      "complete",
+      "exhaustive",
+      "intensive"
+     ],
+     "meaning": "철저한, 빈틈없는",
+     "example": "A thorough proofreading is done on each issue of the magazine before it is sent to the printers.",
+     "example_ko": "잡지의 각 호는 인쇄소에 보내지기 전에 철저한 교정을 거친다."
+    }
+   ],
+   "nuance": "빠뜨리는 것 없이 구석구석 완벽하게 처리한다는 꼼꼼함을 강조한다.",
+   "etym": "기본어 through(~을 통과하여)의 변형 → 처음부터 끝까지 통과한 → 철저한"
+  },
+  {
+   "num": 32,
+   "word": "accurate",
+   "senses": [
+    {
+     "synonyms": [
+      "precise",
+      "correct",
+      "exact",
+      "true"
+     ],
+     "meaning": "정확한, 틀림없는",
+     "example": "The movie was praised for giving an accurate depiction of what happens in a war.",
+     "example_ko": "그 영화는 전쟁에서 일어나는 일을 정확하게 묘사한 것으로 찬사를 받았다."
+    }
+   ],
+   "nuance": "사실·기준에 오차 없이 딱 들어맞는다는 정밀함을 나타낸다.",
+   "etym": "라틴어 ad-(~에) + cura(주의·정성) → 정성 들인 → 정확한"
+  },
+  {
+   "num": 33,
+   "word": "mobilize",
+   "senses": [
+    {
+     "synonyms": [
+      "put into action",
+      "deploy"
+     ],
+     "meaning": "동원하다, 결집시키다",
+     "example": "To prepare for any possible hostilities to come, the military was mobilized.",
+     "example_ko": "다가올 수 있는 어떤 적대 행위에도 대비하기 위해 군대가 동원되었다."
+    }
+   ],
+   "nuance": "주로 군대·자원·사람을 조직적으로 움직여 행동에 나서게 한다는 어감이다.",
+   "etym": "라틴어 mobilis(움직일 수 있는, movere 움직이다) + -ize(동사화) → 움직이게 하다 → 동원하다"
+  },
+  {
+   "num": 34,
+   "word": "given that",
+   "senses": [
+    {
+     "synonyms": [
+      "accepting that",
+      "considering that"
+     ],
+     "meaning": "~을 고려하면, ~라는 점을 감안하면",
+     "example": "Given that dogs are descendants of wolves, it is not surprising that they look similar.",
+     "example_ko": "개가 늑대의 후손이라는 점을 감안하면 그들이 비슷해 보이는 것은 놀랍지 않다."
+    }
+   ],
+   "nuance": "이미 참으로 받아들인 사실을 전제로 삼아 논리를 전개할 때 쓰는 표현이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 35,
+   "word": "cargo",
+   "senses": [
+    {
+     "synonyms": [
+      "shipment",
+      "load",
+      "freight",
+      "burden"
+     ],
+     "meaning": "화물, 적하물",
+     "example": "The sailors unloaded the cargo from the ship.",
+     "example_ko": "선원들은 배에서 화물을 내렸다."
+    }
+   ],
+   "nuance": "배·비행기·트럭 등으로 운송되는 상품·짐을 가리키는 중립적 단어다.",
+   "etym": "라틴어 carricare(짐을 싣다, carrus 수레)에서 스페인어 cargo를 거쳐 → 실은 짐 → 화물"
+  },
+  {
+   "num": 36,
+   "word": "solitary",
+   "senses": [
+    {
+     "synonyms": [
+      "isolated",
+      "secluded",
+      "remote",
+      "alone",
+      "lonely"
+     ],
+     "meaning": "외딴, 홀로 있는, 고독한",
+     "example": "The neighborhood kids made it a Halloween tradition to visit the solitary house on the hill.",
+     "example_ko": "동네 아이들은 언덕 위 외딴집을 방문하는 것을 핼러윈 전통으로 삼았다."
+    }
+   ],
+   "nuance": "다른 것과 떨어져 홀로 있는 고립·외로움의 정서를 담은 단어다.",
+   "etym": "라틴어 solus(혼자인) + -ary(형용사 접미사) → 혼자인 → 외딴/고독한"
+  },
+  {
+   "num": 37,
+   "word": "slightly",
+   "senses": [
+    {
+     "synonyms": [
+      "a little",
+      "somewhat",
+      "a bit"
+     ],
+     "meaning": "약간, 조금",
+     "example": "This year's bar exam was slightly harder than the one last year.",
+     "example_ko": "올해의 변호사 시험은 작년 것보다 약간 더 어려웠다."
+    }
+   ],
+   "nuance": "거의 눈에 띄지 않을 만큼 아주 작은 정도의 차이를 나타낸다.",
+   "etym": "기본어 slight(약간의·가벼운) + -ly(부사화) → 약간"
+  },
+  {
+   "num": 38,
+   "word": "deliberately",
+   "senses": [
+    {
+     "synonyms": [
+      "intentionally",
+      "consciously",
+      "on purpose"
+     ],
+     "meaning": "고의로, 일부러",
+     "example": "The teacher deliberately used simple terms to explain the complex concept to the students.",
+     "example_ko": "그 교사는 복잡한 개념을 학생들에게 설명하기 위해 일부러 쉬운 용어를 사용했다."
+    }
+   ],
+   "nuance": "충분히 의도하고 신중히 계획하여 행한다는, 우연이 아님을 강조하는 어감이다.",
+   "etym": "라틴어 de-(강조) + librare(저울질하다, libra 저울) → 잘 저울질한 → 신중히·일부러"
+  },
+  {
+   "num": 39,
+   "word": "unthinkable",
+   "senses": [
+    {
+     "synonyms": [
+      "inconceivable",
+      "unimaginable"
+     ],
+     "meaning": "상상도 할 수 없는, 있을 수 없는",
+     "example": "It seems unthinkable that people once worked and studied without using the Internet.",
+     "example_ko": "사람들이 한때 인터넷을 사용하지 않고 일하고 공부했다는 것은 상상도 할 수 없는 일처럼 보인다."
+    }
+   ],
+   "nuance": "너무 극단적이거나 낯설어서 도무지 받아들이거나 떠올릴 수 없다는 어감이다.",
+   "etym": "un-(부정) + think(생각하다) + -able(할 수 있는) → 생각할 수 없는 → 상상도 할 수 없는"
+  },
+  {
+   "num": 40,
+   "word": "coinage",
+   "senses": [
+    {
+     "synonyms": [
+      "creation",
+      "innovation"
+     ],
+     "meaning": "신조어, (말·용어의) 새로 만듦",
+     "example": "The online community has added several coinages to the English language.",
+     "example_ko": "그 온라인 커뮤니티는 영어에 여러 신조어를 더했다."
+    }
+   ],
+   "nuance": "동전을 주조하듯 새로 만들어낸 단어·표현을 가리키는 다소 문어적인 단어다.",
+   "etym": "기본어 coin(동전·주조하다) + -age(명사 접미사) → 새로 주조한 것 → 신조어"
+  },
+  {
+   "num": 41,
+   "word": "obligation",
+   "senses": [
+    {
+     "synonyms": [
+      "responsibility",
+      "duty",
+      "liability"
+     ],
+     "meaning": "의무, 책임",
+     "example": "In Israel, it is the obligation of all citizens to serve in the military.",
+     "example_ko": "이스라엘에서는 모든 시민이 군 복무를 하는 것이 의무이다."
+    }
+   ],
+   "nuance": "법적·도덕적으로 반드시 해야만 하는 구속력 있는 책임을 가리킨다.",
+   "etym": "라틴어 ob-(~에 대하여) + ligare(묶다) → 묶여 있는 것 → 의무"
+  },
+  {
+   "num": 42,
+   "word": "reconcile",
+   "senses": [
+    {
+     "synonyms": [
+      "bring together",
+      "reunite"
+     ],
+     "meaning": "화해시키다, 조화시키다",
+     "example": "The international mediator attempted to reconcile the two countries.",
+     "example_ko": "국제 중재자는 두 나라를 화해시키려 시도했다."
+    }
+   ],
+   "nuance": "갈등하던 대상을 다시 어울리게 하거나 서로 다른 것을 조화롭게 맞춘다는 어감이다.",
+   "etym": "라틴어 re-(다시) + conciliare(하나로 모으다·화해시키다) → 다시 하나로 → 화해시키다"
+  },
+  {
+   "num": 43,
+   "word": "severe",
+   "senses": [
+    {
+     "synonyms": [
+      "harsh",
+      "extreme",
+      "rigorous",
+      "strict"
+     ],
+     "meaning": "엄한, 가혹한, 심각한",
+     "example": "The schoolmaster firmly believed in severe disciplinary measures.",
+     "example_ko": "그 교장은 엄격한 훈육 조치를 확고히 신봉했다."
+    }
+   ],
+   "nuance": "봐주는 것 없이 혹독하고 강도가 심하다는 부정적·강한 어감이다.",
+   "etym": "라틴어 severus(엄격한·진지한)에서 → 엄한"
+  },
+  {
+   "num": 44,
+   "word": "foremost",
+   "senses": [
+    {
+     "synonyms": [
+      "most respected",
+      "most important",
+      "preeminent",
+      "supreme"
+     ],
+     "meaning": "으뜸가는, 가장 중요한, 선두의",
+     "example": "Colin Powell is considered by many to be the foremost African American government official in U.S. history.",
+     "example_ko": "콜린 파월은 많은 사람들에게 미국 역사상 으뜸가는 아프리카계 미국인 공직자로 여겨진다."
+    }
+   ],
+   "nuance": "지위·중요도에서 다른 모든 것을 앞서 맨 앞에 놓인다는 최상급 어감이다.",
+   "etym": "기본어 fore(앞) + most(가장) → 가장 앞선 → 으뜸가는"
+  },
+  {
+   "num": 45,
+   "word": "surge",
+   "senses": [
+    {
+     "synonyms": [
+      "increase",
+      "rise",
+      "wax"
+     ],
+     "meaning": "급증하다, 밀려들다",
+     "example": "After the country hosted its first World Cup, interest in soccer among the local population surged.",
+     "example_ko": "그 나라가 첫 월드컵을 개최한 후 지역 주민들 사이에서 축구에 대한 관심이 급증했다."
+    }
+   ],
+   "nuance": "파도가 밀려들듯 갑작스럽고 강하게 크게 증가·쇄도한다는 역동적 어감이다.",
+   "etym": "라틴어 surgere(솟아오르다, sub-아래에서+regere 이끌다)에서 → 솟구치다 → 급증하다"
+  },
+  {
+   "num": 46,
+   "word": "hasten",
+   "senses": [
+    {
+     "synonyms": [
+      "accelerate",
+      "rush",
+      "hurry",
+      "speed up"
+     ],
+     "meaning": "재촉하다, 서두르다, 앞당기다",
+     "example": "The government took measures to hasten economic recovery.",
+     "example_ko": "정부는 경제 회복을 앞당기기 위한 조치를 취했다."
+    }
+   ],
+   "nuance": "어떤 일이 더 빨리 일어나도록 서두르거나 촉진한다는 어감이다.",
+   "etym": "기본어 haste(서두름) + -en(동사화) → 서두르게 하다 → 재촉하다"
+  },
+  {
+   "num": 47,
+   "word": "tentatively",
+   "senses": [
+    {
+     "synonyms": [
+      "without certainty",
+      "uncertainly",
+      "hesitantly"
+     ],
+     "meaning": "머뭇거리며, 잠정적으로, 자신 없이",
+     "example": "Jack often speaks tentatively in meetings because he lacks confidence.",
+     "example_ko": "잭은 자신감이 부족해서 회의에서 종종 머뭇거리며 말한다."
+    }
+   ],
+   "nuance": "확신이 없어 조심스럽고 임시적으로 행한다는, 확정되지 않은 어감이다.",
+   "etym": "라틴어 tentare(시도하다, temptare)에서 → 시험 삼아 → 잠정적으로"
+  },
+  {
+   "num": 48,
+   "word": "scorn",
+   "senses": [
+    {
+     "synonyms": [
+      "ridicule",
+      "disdain",
+      "sneer",
+      "despise"
+     ],
+     "meaning": "비웃다, 경멸하다",
+     "example": "Henry was tired of being scorned by his classmates because of his height.",
+     "example_ko": "헨리는 키 때문에 반 친구들에게 경멸당하는 것에 지쳤다."
+    }
+   ],
+   "nuance": "상대를 하찮게 여겨 대놓고 업신여기고 조롱한다는 강한 부정적 감정을 담는다.",
+   "etym": "고대 프랑크어 skernjan(조롱하다)에서 고대 프랑스어 escarnir를 거쳐 → 조롱하다 → 경멸하다"
+  },
+  {
+   "num": 49,
+   "word": "throughout",
+   "senses": [
+    {
+     "synonyms": [
+      "during every part of",
+      "during the whole of"
+     ],
+     "meaning": "~ 내내, ~의 도처에",
+     "example": "The amusement park is open throughout the year, even in the winter.",
+     "example_ko": "그 놀이공원은 겨울에도 일 년 내내 문을 연다."
+    }
+   ],
+   "nuance": "시간이나 공간의 전 범위에 걸쳐 빠짐없이 이어진다는 어감이다.",
+   "etym": "기본어 through(~을 통하여) + out(끝까지) → 처음부터 끝까지 → 내내"
+  },
+  {
+   "num": 50,
+   "word": "pitfall",
+   "senses": [
+    {
+     "synonyms": [
+      "difficulty",
+      "trouble"
+     ],
+     "meaning": "함정, 뜻밖의 위험",
+     "example": "A sudden downturn in the stock market is one of the pitfalls of investing.",
+     "example_ko": "주식 시장의 갑작스러운 하락은 투자의 함정 중 하나이다."
+    }
+   ],
+   "nuance": "미처 예상치 못해 빠지기 쉬운 숨은 위험·난관을 비유적으로 가리킨다.",
+   "etym": "기본어 pit(구덩이) + fall(빠짐) → 짐승을 잡는 함정 구덩이 → 함정"
+  },
+  {
+   "num": 51,
+   "word": "coupled with",
+   "senses": [
+    {
+     "synonyms": [
+      "together with",
+      "combined with"
+     ],
+     "meaning": "~와 결합되어, ~와 더불어",
+     "example": "A lack of exercise coupled with a high-calorie diet can lead to obesity.",
+     "example_ko": "고칼로리 식단과 결합된 운동 부족은 비만으로 이어질 수 있다."
+    }
+   ],
+   "nuance": "두 요소가 짝을 이뤄 함께 작용해 어떤 결과를 낳는다는 어감이다.",
+   "etym": "기본어 couple(둘을 짝짓다, 라틴어 copula 연결) + with → 짝지어진 → ~와 결합되어"
+  },
+  {
+   "num": 52,
+   "word": "huge",
+   "senses": [
+    {
+     "synonyms": [
+      "enormous",
+      "large",
+      "massive",
+      "mammoth",
+      "gigantic"
+     ],
+     "meaning": "거대한, 막대한",
+     "example": "The French owned a huge amount of land in the western part of the U.S. during the 18th century.",
+     "example_ko": "프랑스는 18세기에 미국 서부 지역에 막대한 양의 땅을 소유했다."
+    }
+   ],
+   "nuance": "크기나 양이 압도적으로 크다는 것을 구어적으로 강하게 표현한다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 53,
+   "word": "span",
+   "senses": [
+    {
+     "synonyms": [
+      "duration",
+      "period",
+      "length"
+     ],
+     "meaning": "(지속) 기간, 시간의 폭",
+     "example": "The paper briefly summarizes the vast problems during the war's 11-year span.",
+     "example_ko": "그 논문은 그 전쟁의 11년 기간 동안의 방대한 문제들을 간략히 요약한다."
+    },
+    {
+     "synonyms": [
+      "extend across",
+      "cover",
+      "cross"
+     ],
+     "meaning": "(공간·시간에) 걸치다, 가로지르다",
+     "example": "The Golden Gate Bridge spans a mile-wide strait that connects San Francisco Bay and the Pacific Ocean.",
+     "example_ko": "금문교는 샌프란시스코만과 태평양을 잇는 폭 1마일의 해협을 가로지른다."
+    }
+   ],
+   "nuance": "양 끝 사이의 거리·기간 전체에 걸쳐 뻗어 있음을 나타낸다.",
+   "etym": "고대영어 spann(한 뼘, 손을 펼친 폭)에서 → 뻗친 폭 → 걸치다/기간"
+  },
+  {
+   "num": 54,
+   "word": "hollow",
+   "senses": [
+    {
+     "synonyms": [
+      "empty",
+      "vacant",
+      "void",
+      "unfilled"
+     ],
+     "meaning": "속이 빈, 공허한",
+     "example": "Oil tankers are large ships that have hollow containers which can be filled with petroleum for transport.",
+     "example_ko": "유조선은 운송을 위해 석유로 채울 수 있는 속이 빈 용기를 가진 큰 배이다."
+    }
+   ],
+   "nuance": "겉은 있으나 속이 텅 비어 있다는 물리적·비유적 공허함을 나타낸다.",
+   "etym": "고대영어 holh(움푹한 곳·구덩이)에서 → 속이 우묵한 → 속이 빈"
+  },
+  {
+   "num": 55,
+   "word": "appreciable",
+   "senses": [
+    {
+     "synonyms": [
+      "significant",
+      "noticeable",
+      "considerable"
+     ],
+     "meaning": "눈에 띄는, 상당한",
+     "example": "In some Amazonian villages, there is no appreciable difference between modern and ancient lifestyles.",
+     "example_ko": "일부 아마존 마을에서는 현대와 고대의 생활 방식 사이에 눈에 띄는 차이가 없다."
+    }
+   ],
+   "nuance": "측정하거나 인지할 수 있을 만큼 뚜렷하고 무시할 수 없는 정도라는 어감이다.",
+   "etym": "라틴어 ad-(~에) + pretium(값) → 값을 매길 만한·알아챌 만한 → 눈에 띄는"
+  },
+  {
+   "num": 56,
+   "word": "shield",
+   "senses": [
+    {
+     "synonyms": [
+      "protect",
+      "defend",
+      "safeguard"
+     ],
+     "meaning": "보호하다, 막아 주다",
+     "example": "Lisa brings an umbrella to shield herself from the hot sun during the summer months.",
+     "example_ko": "리사는 여름철 뜨거운 햇볕으로부터 자신을 보호하기 위해 우산을 가지고 다닌다."
+    }
+   ],
+   "nuance": "방패처럼 위험·해로운 것을 앞에서 가로막아 지켜 준다는 이미지다.",
+   "etym": "고대영어 scield(방패)에서 → 방패로 막다 → 보호하다"
+  },
+  {
+   "num": 57,
+   "word": "spearhead",
+   "senses": [
+    {
+     "synonyms": [
+      "lead",
+      "lead the way",
+      "head"
+     ],
+     "meaning": "선봉에 서다, 진두지휘하다",
+     "example": "Nelson Mandela spearheaded South Africa's struggle for independence.",
+     "example_ko": "넬슨 만델라는 남아프리카의 독립 투쟁을 진두지휘했다."
+    }
+   ],
+   "nuance": "창끝처럼 맨 앞에서 앞장서 어떤 활동·운동을 이끈다는 역동적 어감이다.",
+   "etym": "기본어 spear(창) + head(머리) → 창의 뾰족한 끝 → 선봉에 서다"
+  },
+  {
+   "num": 58,
+   "word": "methodically",
+   "senses": [
+    {
+     "synonyms": [
+      "systematically"
+     ],
+     "meaning": "체계적으로, 조직적으로",
+     "example": "Astronomers methodically count the numbers of sunspots that occur each year.",
+     "example_ko": "천문학자들은 매년 발생하는 흑점의 수를 체계적으로 센다."
+    }
+   ],
+   "nuance": "정해진 순서와 방법에 따라 빈틈없이 차근차근 진행한다는 어감이다.",
+   "etym": "그리스어 methodos(방법, meta-따라+hodos 길) + -ally → 방법에 따라 → 체계적으로"
+  },
+  {
+   "num": 59,
+   "word": "manage to",
+   "senses": [
+    {
+     "synonyms": [
+      "be able to",
+      "succeed in"
+     ],
+     "meaning": "용케 해내다, 간신히 ~하다",
+     "example": "With a lot of effort, the team managed to win the championship game.",
+     "example_ko": "많은 노력 끝에 그 팀은 용케 챔피언십 경기에서 이겨냈다."
+    }
+   ],
+   "nuance": "어려움에도 불구하고 결국 무언가를 해내는 데 성공했다는 어감을 담는다.",
+   "etym": "이탈리아어 maneggiare(말을 다루다, 라틴어 manus 손)에서 → 손으로 다루어 해내다 → 용케 해내다"
+  }
+ ],
+ "15": [
+  {
+   "num": 1,
+   "word": "intact",
+   "senses": [
+    {
+     "synonyms": [
+      "undamaged",
+      "unbroken",
+      "whole",
+      "complete",
+      "unaffected"
+     ],
+     "meaning": "손상되지 않은, 온전한",
+     "example": "The machine remained intact despite the explosion.",
+     "example_ko": "그 기계는 폭발에도 불구하고 온전한 상태로 남아 있었다."
+    }
+   ],
+   "nuance": "부서지거나 훼손됨 없이 원래 상태 그대로 완전히 보존되어 있음을 강조하는 말이다.",
+   "etym": "in-(아닌) + tactus(만지다, touch) → '손대지 않은' → 손상되지 않은"
+  },
+  {
+   "num": 2,
+   "word": "albeit",
+   "senses": [
+    {
+     "synonyms": [
+      "although",
+      "though",
+      "even though"
+     ],
+     "meaning": "비록 ~이긴 하지만",
+     "example": "Many developing economies are growing steadily, albeit slowly.",
+     "example_ko": "많은 개발도상국 경제가 비록 더디긴 하지만 꾸준히 성장하고 있다."
+    }
+   ],
+   "nuance": "앞 내용을 인정하면서 한 발 물러서 양보하는 문어체 접속사로, 흔히 짧은 구를 이끈다.",
+   "etym": "all + be + it → '그것이 모두 그러할지라도' → 비록 ~일지라도 (중세 영어 관용구, 통째로 암기)"
+  },
+  {
+   "num": 3,
+   "word": "complex",
+   "senses": [
+    {
+     "synonyms": [
+      "intricate",
+      "complicated",
+      "elaborate",
+      "involved"
+     ],
+     "meaning": "복잡한, 정교하게 얽힌",
+     "example": "Biologists seek to understand how complex species evolved from simpler ones.",
+     "example_ko": "생물학자들은 복잡한 종이 더 단순한 종으로부터 어떻게 진화했는지 이해하고자 한다."
+    },
+    {
+     "synonyms": [
+      "group of buildings",
+      "system"
+     ],
+     "meaning": "복합 건물, 복합 단지, 복합체",
+     "example": "A new shopping complex is being built in town.",
+     "example_ko": "마을에 새로운 쇼핑 복합 단지가 지어지고 있다."
+    }
+   ],
+   "nuance": "여러 부분이 서로 얽혀 있음을 나타내며, 형용사로는 '복잡한', 명사로는 하나로 묶인 '복합체·단지'를 뜻한다.",
+   "etym": "com-(함께) + plectere(엮다, plait) → '함께 엮인' → 복잡한, 복합체"
+  },
+  {
+   "num": 4,
+   "word": "conventional",
+   "senses": [
+    {
+     "synonyms": [
+      "traditional",
+      "customary",
+      "standard",
+      "usual"
+     ],
+     "meaning": "전통적인, 관례적인, 통상적인",
+     "example": "In ancient times, conventional farming practices included the use of organic fertilizer.",
+     "example_ko": "고대에는 통상적인 농경 방식에 유기 비료의 사용이 포함되어 있었다."
+    }
+   ],
+   "nuance": "오랜 관습이나 합의된 방식을 따른다는 뜻으로, 때로 '새롭지 않고 진부한'이라는 함의도 띤다.",
+   "etym": "con-(함께) + venire(오다, come) + -al → '함께 모여 합의한' → 관례적인, 전통적인"
+  },
+  {
+   "num": 5,
+   "word": "reasonable",
+   "senses": [
+    {
+     "synonyms": [
+      "sensible",
+      "rational",
+      "logical"
+     ],
+     "meaning": "합리적인, 사리에 맞는",
+     "example": "It seems reasonable to be tough on habitual criminals.",
+     "example_ko": "상습범에게 엄격하게 대하는 것은 합리적으로 보인다."
+    },
+    {
+     "synonyms": [
+      "sufficient",
+      "fair",
+      "moderate"
+     ],
+     "meaning": "(가격이) 적당한, (질이) 괜찮은",
+     "example": "The quality of the restaurant's food is reasonable considering the low prices.",
+     "example_ko": "그 식당 음식의 질은 저렴한 가격을 고려하면 괜찮은 편이다."
+    }
+   ],
+   "nuance": "이성에 부합한다는 핵심 뜻에서 출발해, 값이나 정도가 지나치지 않고 '적당한' 수준임을 나타내기도 한다.",
+   "etym": "reason(이성) + -able(할 수 있는) → '이성에 맞는' → 합리적인"
+  },
+  {
+   "num": 6,
+   "word": "attainment",
+   "senses": [
+    {
+     "synonyms": [
+      "achievement",
+      "accomplishment",
+      "fulfillment"
+     ],
+     "meaning": "달성, 성취, 도달한 경지",
+     "example": "It takes many years of practice to reach that level of attainment in chess.",
+     "example_ko": "체스에서 그런 수준의 경지에 도달하려면 여러 해의 연습이 필요하다."
+    }
+   ],
+   "nuance": "노력 끝에 목표나 높은 수준에 실제로 이르렀음을 강조하는 격식 있는 말이다.",
+   "etym": "at-(ad-, ~쪽으로) + tangere(만지다, touch) + -ment → '~에 닿음' → 달성, 성취"
+  },
+  {
+   "num": 7,
+   "word": "progressively",
+   "senses": [
+    {
+     "synonyms": [
+      "increasingly",
+      "gradually",
+      "steadily"
+     ],
+     "meaning": "점진적으로, 갈수록 더",
+     "example": "The government must clean up the air by setting progressively tighter pollution limits on power plants.",
+     "example_ko": "정부는 발전소에 점점 더 엄격한 오염 배출 기준을 설정하여 대기를 정화해야 한다."
+    }
+   ],
+   "nuance": "한 번에가 아니라 단계적으로 꾸준히 정도가 커져 감을 나타낸다.",
+   "etym": "pro-(앞으로) + gradi(걷다, step) + -ive + -ly → '앞으로 나아가며' → 점진적으로"
+  },
+  {
+   "num": 8,
+   "word": "drawback",
+   "senses": [
+    {
+     "synonyms": [
+      "disadvantage",
+      "problem",
+      "defect",
+      "shortcoming"
+     ],
+     "meaning": "결점, 단점, 문제점",
+     "example": "One drawback of the book is that it does not contain any English translations.",
+     "example_ko": "그 책의 한 가지 단점은 영어 번역이 전혀 실려 있지 않다는 점이다."
+    }
+   ],
+   "nuance": "전체적으로는 괜찮지만 아쉬운 특정 약점 하나를 짚어 말할 때 쓴다.",
+   "etym": "draw(끌다) + back(뒤로) → '뒤로 끌어당기는 것' → 발목을 잡는 단점 (기본 어휘 조합)"
+  },
+  {
+   "num": 9,
+   "word": "suppress",
+   "senses": [
+    {
+     "synonyms": [
+      "hold back",
+      "restrain",
+      "curb"
+     ],
+     "meaning": "(감정 등을) 억누르다, 참다",
+     "example": "Jonas was unable to suppress his anger.",
+     "example_ko": "조너스는 화를 억누를 수 없었다."
+    },
+    {
+     "synonyms": [
+      "stop by force",
+      "quell",
+      "crush"
+     ],
+     "meaning": "(무력으로) 진압하다",
+     "example": "Hundreds of troops were sent to suppress the rebellion.",
+     "example_ko": "수백 명의 병력이 반란을 진압하기 위해 파견되었다."
+    }
+   ],
+   "nuance": "위에서 힘으로 눌러 겉으로 드러나지 못하게 막는다는 어감으로, 감정이든 저항이든 대상을 억누른다.",
+   "etym": "sub-(아래로) + premere(누르다, press) → '아래로 누르다' → 억누르다, 진압하다"
+  },
+  {
+   "num": 10,
+   "word": "incidentally",
+   "senses": [
+    {
+     "synonyms": [
+      "by the way",
+      "in passing"
+     ],
+     "meaning": "그런데, 덧붙여 말하자면 (말을 돌릴 때)",
+     "example": "Nathan is on vacation today. Incidentally, he'll be gone all week.",
+     "example_ko": "네이선은 오늘 휴가다. 그런데 그는 이번 주 내내 자리를 비울 것이다."
+    }
+   ],
+   "nuance": "본론과 상관없는 부차적인 정보를 슬쩍 덧붙일 때 쓰는 화제 전환 표현이다.",
+   "etym": "in-(위에) + cadere(떨어지다, fall) + -al + -ly → '우연히 떨어져 생긴' → 그런데, 덧붙여"
+  },
+  {
+   "num": 11,
+   "word": "tactic",
+   "senses": [
+    {
+     "synonyms": [
+      "strategy",
+      "maneuver",
+      "ploy"
+     ],
+     "meaning": "전술, 전략, 책략",
+     "example": "Prohibitionists achieved their goals because of their group tactics.",
+     "example_ko": "금주론자들은 그들의 집단 전술 덕분에 목표를 이루었다."
+    }
+   ],
+   "nuance": "큰 목표를 이루기 위해 쓰는 구체적이고 계산된 방법·수법을 가리킨다.",
+   "etym": "그리스어 taktikos(배치의) ← tassein(정렬하다, arrange) → 병력을 배치하는 기술 → 전술"
+  },
+  {
+   "num": 12,
+   "word": "substantial",
+   "senses": [
+    {
+     "synonyms": [
+      "fairly large",
+      "considerable",
+      "significant",
+      "noticeable"
+     ],
+     "meaning": "상당한, 꽤 많은",
+     "example": "As a salesperson, Howard takes a substantial number of business trips every year.",
+     "example_ko": "영업 사원으로서 하워드는 해마다 상당한 수의 출장을 다닌다."
+    }
+   ],
+   "nuance": "무시할 수 없을 만큼 규모나 정도가 큼을 나타내며, 실질적인 실체가 있다는 뉘앙스를 준다.",
+   "etym": "sub-(아래) + stare(서다, stand) + -ial → '아래에 서 있는 실체가 있는' → 상당한, 실질적인"
+  },
+  {
+   "num": 13,
+   "word": "verify",
+   "senses": [
+    {
+     "synonyms": [
+      "confirm",
+      "establish the truth of",
+      "validate"
+     ],
+     "meaning": "입증하다, 사실임을 확인하다",
+     "example": "The Hubble Space Telescope helped scientists verify the existence of black holes.",
+     "example_ko": "허블 우주 망원경은 과학자들이 블랙홀의 존재를 입증하도록 도왔다."
+    }
+   ],
+   "nuance": "증거를 통해 무언가가 참임을 확실히 확인·검증한다는 뜻이다.",
+   "etym": "verus(참, true) + facere(만들다, -fy) → '참으로 만들다' → 입증하다, 검증하다"
+  },
+  {
+   "num": 14,
+   "word": "sustained",
+   "senses": [
+    {
+     "synonyms": [
+      "constant",
+      "continued",
+      "uninterrupted",
+      "prolonged"
+     ],
+     "meaning": "지속적인, 끊이지 않는",
+     "example": "Running a marathon requires sustained physical activity and great endurance.",
+     "example_ko": "마라톤을 달리는 데에는 지속적인 신체 활동과 대단한 지구력이 필요하다."
+    }
+   ],
+   "nuance": "중단 없이 오랜 시간 같은 상태나 노력이 이어지는 것을 강조한다.",
+   "etym": "sub-(아래에서) + tenere(붙들다, hold) → '아래서 계속 떠받치다' → 지속적인"
+  },
+  {
+   "num": 15,
+   "word": "radical",
+   "senses": [
+    {
+     "synonyms": [
+      "fundamental",
+      "basic"
+     ],
+     "meaning": "근본적인, 기본적인",
+     "example": "The president promised to make radical changes to the country's health care system.",
+     "example_ko": "대통령은 국가 의료 제도에 근본적인 변화를 이루겠다고 약속했다."
+    },
+    {
+     "synonyms": [
+      "extreme",
+      "drastic"
+     ],
+     "meaning": "극단적인, 과격한",
+     "example": "Radical social change came about when a revolutionary consciousness was developed.",
+     "example_ko": "혁명적 의식이 형성되었을 때 과격한 사회 변화가 일어났다."
+    }
+   ],
+   "nuance": "뿌리(근본)에까지 미친다는 원뜻에서, '근본적인'과 그 정도가 지나쳐 '극단적·과격한'이라는 뜻이 함께 나온다.",
+   "etym": "radix(뿌리, root) + -al → '뿌리의' → 근본적인 → 극단적인"
+  },
+  {
+   "num": 16,
+   "word": "prime",
+   "senses": [
+    {
+     "synonyms": [
+      "peak",
+      "high quality",
+      "superior",
+      "main"
+     ],
+     "meaning": "최고의, 최상의, 주요한",
+     "example": "The prime time for bird watching is early morning when there are few people to disturb the wildlife.",
+     "example_ko": "새를 관찰하기에 가장 좋은 때는 야생동물을 방해할 사람이 거의 없는 이른 아침이다."
+    }
+   ],
+   "nuance": "질이나 중요도에서 첫째가는, 즉 '으뜸'임을 나타내는 말이다.",
+   "etym": "라틴어 primus(첫째의, first) → 으뜸의 → 최고의, 주요한"
+  },
+  {
+   "num": 17,
+   "word": "grasp",
+   "senses": [
+    {
+     "synonyms": [
+      "understand",
+      "catch",
+      "comprehend",
+      "apprehend"
+     ],
+     "meaning": "(개념을) 이해하다, 파악하다",
+     "example": "Only a few students could grasp Professor Benton's physics lecture.",
+     "example_ko": "벤턴 교수의 물리학 강의를 이해할 수 있는 학생은 몇 명뿐이었다."
+    }
+   ],
+   "nuance": "손으로 꽉 움켜쥐듯 어려운 개념을 확실히 붙잡아 이해한다는 비유적 어감이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 18,
+   "word": "prominently",
+   "senses": [
+    {
+     "synonyms": [
+      "very noticeably",
+      "conspicuously",
+      "notably"
+     ],
+     "meaning": "눈에 띄게, 두드러지게",
+     "example": "Economic issues are expected to figure prominently in the upcoming election.",
+     "example_ko": "경제 문제가 다가오는 선거에서 두드러지게 부각될 것으로 예상된다."
+    }
+   ],
+   "nuance": "다른 것들 사이에서 확연히 튀어나와 주목받는 정도를 나타낸다.",
+   "etym": "pro-(앞으로) + minere(돌출하다, project) + -ent + -ly → '앞으로 튀어나와' → 눈에 띄게"
+  },
+  {
+   "num": 19,
+   "word": "precipitate",
+   "senses": [
+    {
+     "synonyms": [
+      "bring about",
+      "cause",
+      "give rise to",
+      "trigger"
+     ],
+     "meaning": "(어떤 일을) 촉발하다, 재촉하다",
+     "example": "The protest by the labor union precipitated changes in the company's policies.",
+     "example_ko": "노동조합의 시위는 회사 정책의 변화를 촉발했다."
+    }
+   ],
+   "nuance": "어떤 사건을 예상보다 갑작스럽고 빠르게 일어나게 만든다는 어감이다.",
+   "etym": "prae-(앞으로) + caput(머리, head) → '머리부터 곤두박질치게 하다' → 촉발하다, 재촉하다"
+  },
+  {
+   "num": 20,
+   "word": "interlock",
+   "senses": [
+    {
+     "synonyms": [
+      "link",
+      "connect",
+      "join"
+     ],
+     "meaning": "서로 맞물리다, 맞물려 연결되다",
+     "example": "According to the theory of continental drift, the Himalayas were formed when two large landmasses interlocked.",
+     "example_ko": "대륙 이동설에 따르면 히말라야산맥은 두 거대한 대륙 덩어리가 서로 맞물릴 때 형성되었다."
+    }
+   ],
+   "nuance": "톱니처럼 두 대상이 서로 끼워져 단단히 결합됨을 나타낸다.",
+   "etym": "inter-(서로) + lock(잠그다) → '서로를 잠그다' → 맞물리다 (inter- 어근 + 기본 어휘)"
+  },
+  {
+   "num": 21,
+   "word": "accordingly",
+   "senses": [
+    {
+     "synonyms": [
+      "consequently",
+      "for that reason",
+      "therefore"
+     ],
+     "meaning": "그에 따라서, 그래서",
+     "example": "Sam was told to speak briefly. Accordingly, he shortened his speech.",
+     "example_ko": "샘은 짧게 말하라는 지시를 받았다. 그에 따라 그는 연설을 줄였다."
+    }
+   ],
+   "nuance": "앞의 상황이나 지시에 맞춰 그 결과로 행동함을 나타내는 연결어다.",
+   "etym": "ac-(ad-, ~에) + cor/cord(마음, heart) + -ing + -ly → '마음을 맞춰' → 그에 따라"
+  },
+  {
+   "num": 22,
+   "word": "relevant",
+   "senses": [
+    {
+     "synonyms": [
+      "applicable",
+      "pertinent",
+      "germane"
+     ],
+     "meaning": "관련된, 적절한",
+     "example": "During the investigation, the committee looked at all relevant facts in the case.",
+     "example_ko": "조사 과정에서 위원회는 그 사건과 관련된 모든 사실을 살펴보았다."
+    }
+   ],
+   "nuance": "지금 다루는 주제나 상황에 직접적으로 연관되어 의미가 있다는 뜻이다.",
+   "etym": "라틴어 relevare(들어 올리다, raise up) → '관계 지어 부각되는' → 관련된, 적절한"
+  },
+  {
+   "num": 23,
+   "word": "remarkably",
+   "senses": [
+    {
+     "synonyms": [
+      "surprisingly",
+      "strikingly",
+      "notably"
+     ],
+     "meaning": "놀랍게도, 신기하게도",
+     "example": "The sky was full of very dark clouds, but remarkably it did not rain.",
+     "example_ko": "하늘은 아주 짙은 먹구름으로 가득했지만, 놀랍게도 비가 오지 않았다."
+    }
+   ],
+   "nuance": "예상과 달라 특별히 언급할 만큼 두드러지고 놀랍다는 어감이다.",
+   "etym": "re-(강조) + mark(표시하다) + -able + -ly → '표시해 둘 만하게' → 놀랍게도"
+  },
+  {
+   "num": 24,
+   "word": "disputable",
+   "senses": [
+    {
+     "synonyms": [
+      "challengeable",
+      "debatable",
+      "arguable"
+     ],
+     "meaning": "논쟁의 여지가 있는, 이론의 여지가 있는",
+     "example": "The scientist's claim was controversial because it was based on disputable evidence.",
+     "example_ko": "그 과학자의 주장은 논쟁의 여지가 있는 증거에 근거했기 때문에 논란이 되었다."
+    }
+   ],
+   "nuance": "확실히 참이라고 단정할 수 없어 반박하거나 이의를 제기할 수 있음을 나타낸다.",
+   "etym": "dis-(따로) + putare(생각하다, reckon) + -able → '따로 따져 볼 수 있는' → 논쟁의 여지가 있는"
+  },
+  {
+   "num": 25,
+   "word": "ambitious",
+   "senses": [
+    {
+     "synonyms": [
+      "desiring success",
+      "aspiring",
+      "driven"
+     ],
+     "meaning": "야심 있는, 야망이 큰",
+     "example": "As a military leader who conquered a huge portion of the ancient world, Alexander the Great was highly ambitious.",
+     "example_ko": "고대 세계의 상당 부분을 정복한 군사 지도자로서, 알렉산더 대왕은 대단히 야심이 컸다."
+    }
+   ],
+   "nuance": "성공이나 권력을 향한 강한 욕망을 지녔음을 나타내며, 맥락에 따라 긍정·부정 양쪽으로 쓰인다.",
+   "etym": "ambi-(주위로) + ire(가다, go) → '표를 얻으러 돌아다니던' → 야심 있는"
+  },
+  {
+   "num": 26,
+   "word": "congeal",
+   "senses": [
+    {
+     "synonyms": [
+      "solidify",
+      "harden",
+      "stiffen",
+      "condense"
+     ],
+     "meaning": "굳다, 응고하다",
+     "example": "Once the chef took the meat out of the oven, it began to cool down and a layer of fat congealed over it.",
+     "example_ko": "요리사가 고기를 오븐에서 꺼내자 고기가 식기 시작했고 그 위로 기름층이 굳었다."
+    }
+   ],
+   "nuance": "액체가 식거나 시간이 지나면서 걸쭉하게 엉기거나 딱딱하게 굳어지는 것을 가리킨다.",
+   "etym": "com-(함께) + gelare(얼다, freeze) → '함께 얼어붙다' → 응고하다"
+  },
+  {
+   "num": 27,
+   "word": "cautious",
+   "senses": [
+    {
+     "synonyms": [
+      "careful",
+      "wary",
+      "prudent",
+      "discreet"
+     ],
+     "meaning": "신중한, 조심성 있는",
+     "example": "The hikers chose a cautious approach in the unfamiliar territory.",
+     "example_ko": "등산객들은 낯선 지형에서 신중한 접근 방식을 택했다."
+    }
+   ],
+   "nuance": "위험이나 실수를 피하려고 미리 조심하며 경계하는 태도를 나타낸다.",
+   "etym": "라틴어 cavere(조심하다, beware) + -ous → '조심하는' → 신중한"
+  },
+  {
+   "num": 28,
+   "word": "realm",
+   "senses": [
+    {
+     "synonyms": [
+      "area",
+      "field",
+      "sphere",
+      "domain"
+     ],
+     "meaning": "영역, 분야",
+     "example": "The microscope allowed for many new discoveries in the realm of biology.",
+     "example_ko": "현미경은 생물학 영역에서 많은 새로운 발견을 가능하게 했다."
+    }
+   ],
+   "nuance": "지식·활동 등이 미치는 하나의 세계나 범위를 다소 격식 있게 이르는 말이다.",
+   "etym": "라틴어 regimen(통치) ← regere(다스리다, rule) → '왕이 다스리는 영토' → 영역, 왕국"
+  },
+  {
+   "num": 29,
+   "word": "dam",
+   "senses": [
+    {
+     "synonyms": [
+      "block",
+      "obstruct"
+     ],
+     "meaning": "(둑으로) 막다, 물길을 막다",
+     "example": "To construct their shelters, beavers dam streams with pieces of wood they have collected.",
+     "example_ko": "보금자리를 짓기 위해 비버들은 모아 둔 나뭇조각으로 개울을 막는다."
+    }
+   ],
+   "nuance": "물의 흐름을 둑을 쌓아 가로막는다는 뜻으로, 명사 '댐'이 동사로 쓰인 경우다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 30,
+   "word": "flattery",
+   "senses": [
+    {
+     "synonyms": [
+      "praise",
+      "adulation",
+      "compliments"
+     ],
+     "meaning": "아첨, 아부",
+     "example": "Mike often uses flattery to get his boss's attention.",
+     "example_ko": "마이크는 상사의 관심을 얻기 위해 자주 아첨을 한다."
+    }
+   ],
+   "nuance": "속뜻이 있는 지나치거나 진심이 아닌 칭찬, 즉 비위를 맞추는 아부를 뜻한다.",
+   "etym": "flatter(아첨하다) + -y(명사화) → 아첨 (flatter는 기본 어휘)"
+  },
+  {
+   "num": 31,
+   "word": "amplify",
+   "senses": [
+    {
+     "synonyms": [
+      "increase",
+      "magnify",
+      "enlarge",
+      "expand"
+     ],
+     "meaning": "증대시키다, 확대하다, 증폭하다",
+     "example": "Scientific farming can amplify the production of wheat.",
+     "example_ko": "과학적 영농은 밀 생산량을 증대시킬 수 있다."
+    }
+   ],
+   "nuance": "규모·양·세기 등을 더 크게 키운다는 뜻이다.",
+   "etym": "amplus(큰, large) + facere(만들다, -fy) → '크게 만들다' → 증대시키다"
+  },
+  {
+   "num": 32,
+   "word": "dimension",
+   "senses": [
+    {
+     "synonyms": [
+      "size",
+      "magnitude",
+      "measurement"
+     ],
+     "meaning": "치수, 크기, 규모",
+     "example": "Lucy should accurately measure the dimensions of her office before ordering a desk.",
+     "example_ko": "루시는 책상을 주문하기 전에 사무실의 치수를 정확히 재야 한다."
+    }
+   ],
+   "nuance": "길이·너비·높이처럼 사물의 크기를 재는 각 측면을 가리키며, 흔히 복수로 '치수'를 뜻한다.",
+   "etym": "dis-(따로) + metiri(재다, measure) → '재어 나눈 것' → 치수, 차원"
+  },
+  {
+   "num": 33,
+   "word": "deplete",
+   "senses": [
+    {
+     "synonyms": [
+      "exhaust",
+      "empty",
+      "use up",
+      "reduce"
+     ],
+     "meaning": "고갈시키다, 다 써 버리다",
+     "example": "The family depleted their savings to renovate the house they bought recently.",
+     "example_ko": "그 가족은 최근에 산 집을 개조하느라 저축을 다 써 버렸다."
+    }
+   ],
+   "nuance": "자원이나 양을 크게 줄여 바닥날 정도로 소진한다는 어감이다.",
+   "etym": "de-(제거) + plere(채우다, fill) → '채운 것을 비우다' → 고갈시키다"
+  },
+  {
+   "num": 34,
+   "word": "characteristic",
+   "senses": [
+    {
+     "synonyms": [
+      "distinctive",
+      "peculiar",
+      "special",
+      "typical"
+     ],
+     "meaning": "특유의, 특징적인 (형용사)",
+     "example": "The ostrich's characteristic size and speed set it apart from the rest.",
+     "example_ko": "타조 특유의 크기와 속도는 그것을 다른 것들과 구별짓는다."
+    },
+    {
+     "synonyms": [
+      "quality",
+      "feature",
+      "trait"
+     ],
+     "meaning": "특징, 특성 (명사)",
+     "example": "Freedom of expression is a fundamental characteristic of democracy.",
+     "example_ko": "표현의 자유는 민주주의의 근본적인 특징이다."
+    }
+   ],
+   "nuance": "어떤 대상을 다른 것과 구별짓는 고유한 성질을 뜻하며, 형용사·명사로 모두 쓰인다.",
+   "etym": "그리스어 kharakter(새긴 표시, engraved mark) + -istic → '새겨진 고유한 표시' → 특징(적인)"
+  },
+  {
+   "num": 35,
+   "word": "ice sheet",
+   "senses": [
+    {
+     "synonyms": [
+      "glacier",
+      "ice cap"
+     ],
+     "meaning": "빙상, 대륙 빙하",
+     "example": "Fjords are coastal landforms formed millions of years ago by massive ice sheets.",
+     "example_ko": "피오르는 수백만 년 전 거대한 빙상에 의해 형성된 해안 지형이다."
+    }
+   ],
+   "nuance": "대륙 규모로 넓게 뻗은 두꺼운 얼음층을 가리키는 지리 용어다.",
+   "etym": "ice(얼음) + sheet(넓은 판) → '얼음 판' → 빙상 (기본 어휘 조합)"
+  },
+  {
+   "num": 36,
+   "word": "spectator",
+   "senses": [
+    {
+     "synonyms": [
+      "viewer",
+      "onlooker",
+      "observer"
+     ],
+     "meaning": "관중, 구경꾼",
+     "example": "The tennis match attracted over 30,000 spectators.",
+     "example_ko": "그 테니스 경기는 3만 명이 넘는 관중을 끌어모았다."
+    }
+   ],
+   "nuance": "경기나 행사를 직접 지켜보는 구경하는 사람을 가리킨다.",
+   "etym": "spectare(보다, watch) + -or(사람) → '보는 사람' → 관중"
+  },
+  {
+   "num": 37,
+   "word": "bountifully",
+   "senses": [
+    {
+     "synonyms": [
+      "abundantly",
+      "copiously",
+      "plentifully",
+      "exuberantly"
+     ],
+     "meaning": "풍부하게, 넘치도록",
+     "example": "In mountain meadows, wildflowers bloom bountifully in the spring.",
+     "example_ko": "산속 초원에서는 봄이면 야생화가 흐드러지게 핀다."
+    }
+   ],
+   "nuance": "넉넉하고 아낌없이 많다는 어감으로, 풍요로움을 강조한다.",
+   "etym": "bonus(좋은, good) → bounty(풍족) + -ful + -ly → '넉넉히' → 풍부하게"
+  },
+  {
+   "num": 38,
+   "word": "paralysis",
+   "senses": [
+    {
+     "synonyms": [
+      "loss of the ability to move",
+      "immobility"
+     ],
+     "meaning": "마비",
+     "example": "People who have serious neck injuries may suffer paralysis as a result.",
+     "example_ko": "심각한 목 부상을 입은 사람들은 그 결과로 마비를 겪을 수 있다."
+    }
+   ],
+   "nuance": "몸을 움직이는 능력을 잃어 기능이 멈춘 상태를 뜻하며, 비유적으로 '기능 정지'에도 쓴다.",
+   "etym": "para-(옆에) + lyein(풀다, loosen) → '옆으로 풀려 늘어짐' → 마비"
+  },
+  {
+   "num": 39,
+   "word": "variation",
+   "senses": [
+    {
+     "synonyms": [
+      "variance",
+      "fluctuation",
+      "difference"
+     ],
+     "meaning": "변화, 변동, 차이",
+     "example": "In Canada, the variation in temperature between the summer and winter is dramatic.",
+     "example_ko": "캐나다에서는 여름과 겨울 사이의 기온 변화가 극적이다."
+    }
+   ],
+   "nuance": "기준이 되는 값에서 달라지거나 오르내리는 정도·양상을 가리킨다.",
+   "etym": "varius(다양한, various) + -ation → '달라짐' → 변화, 변동"
+  },
+  {
+   "num": 40,
+   "word": "periphery",
+   "senses": [
+    {
+     "synonyms": [
+      "edge",
+      "boundary",
+      "border",
+      "fringe"
+     ],
+     "meaning": "주변부, 가장자리",
+     "example": "The outer periphery of a hurricane is generally made up of rain bands.",
+     "example_ko": "허리케인의 바깥 주변부는 일반적으로 비구름 띠로 이루어져 있다."
+    }
+   ],
+   "nuance": "중심에서 벗어난 바깥쪽 가장자리 영역을 가리키는 격식 있는 말이다.",
+   "etym": "peri-(둘레) + pherein(나르다, carry) → '둘레를 도는 선' → 주변부"
+  },
+  {
+   "num": 41,
+   "word": "apparently",
+   "senses": [
+    {
+     "synonyms": [
+      "seemingly",
+      "ostensibly",
+      "outwardly"
+     ],
+     "meaning": "보아하니, 겉보기에는, 듣자 하니",
+     "example": "The book Jeff purchased at the used bookstore had yellow pages, so it was apparently old.",
+     "example_ko": "제프가 중고 서점에서 산 책은 페이지가 누렇게 변해 있어서 보아하니 오래된 것이었다."
+    }
+   ],
+   "nuance": "확실하진 않지만 겉으로 드러난 정황상 그렇게 보인다는 어감이다.",
+   "etym": "ap-(ad-, ~에) + parere(나타나다, appear) + -ent + -ly → '드러나 보이게' → 보아하니"
+  },
+  {
+   "num": 42,
+   "word": "far-reaching",
+   "senses": [
+    {
+     "synonyms": [
+      "extensive",
+      "widespread",
+      "broad"
+     ],
+     "meaning": "광범위한, 지대한 영향을 미치는",
+     "example": "If a large meteor hit the Earth, it would have far-reaching consequences for all organisms.",
+     "example_ko": "만약 거대한 운석이 지구에 충돌한다면, 모든 생물에게 광범위한 영향을 미칠 것이다."
+    }
+   ],
+   "nuance": "영향이나 결과가 멀리까지 두루 미쳐 파급력이 크다는 어감이다.",
+   "etym": "far(멀리) + reach(닿다) + -ing → '멀리까지 닿는' → 광범위한 (기본 어휘 조합)"
+  },
+  {
+   "num": 43,
+   "word": "embody",
+   "senses": [
+    {
+     "synonyms": [
+      "incarnate",
+      "represent",
+      "manifest"
+     ],
+     "meaning": "구현하다, (사상 등을) 상징적으로 나타내다",
+     "example": "Literature often embodies the social ideals of either the author or the author's culture.",
+     "example_ko": "문학은 흔히 작가나 작가가 속한 문화의 사회적 이상을 구현한다."
+    },
+    {
+     "synonyms": [
+      "contain",
+      "incorporate"
+     ],
+     "meaning": "포함하다, (여러 요소를) 담다",
+     "example": "The composition embodied several musical styles, including jazz, funk, and reggae.",
+     "example_ko": "그 곡은 재즈, 펑크, 레게를 포함한 여러 음악 양식을 담고 있었다."
+    }
+   ],
+   "nuance": "추상적인 것에 형체를 부여해 구체적으로 나타내거나 그 안에 담아낸다는 어감이다.",
+   "etym": "em-(안에) + body(몸) → '몸 안에 담다' → 구현하다 (body는 기본 어휘)"
+  },
+  {
+   "num": 44,
+   "word": "evade",
+   "senses": [
+    {
+     "synonyms": [
+      "escape",
+      "avoid",
+      "elude",
+      "dodge",
+      "shun"
+     ],
+     "meaning": "(교묘히) 피하다, 회피하다, 모면하다",
+     "example": "Camouflage is one technique animals use to evade predators.",
+     "example_ko": "위장은 동물들이 포식자를 피하기 위해 사용하는 한 가지 기술이다."
+    }
+   ],
+   "nuance": "정면으로 맞서지 않고 꾀나 술수로 슬쩍 빠져나가 피한다는 어감이다.",
+   "etym": "e-(밖으로) + vadere(가다, go) → '빠져나가다' → 회피하다"
+  },
+  {
+   "num": 45,
+   "word": "against",
+   "senses": [
+    {
+     "synonyms": [
+      "next to",
+      "beside",
+      "up against"
+     ],
+     "meaning": "~에 바짝 붙여, ~에 기대어",
+     "example": "In some European cities, modern buildings were built directly against medieval walls.",
+     "example_ko": "일부 유럽 도시에서는 현대식 건물들이 중세 성벽에 바짝 붙여 지어졌다."
+    }
+   ],
+   "nuance": "'반대'라는 뜻 외에, 무언가에 맞닿아 바짝 붙어 있는 위치 관계를 나타낸다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 46,
+   "word": "due to",
+   "senses": [
+    {
+     "synonyms": [
+      "caused by",
+      "owing to",
+      "attributable to",
+      "because of"
+     ],
+     "meaning": "~때문에, ~로 인한",
+     "example": "Falling real estate prices due to decreased demand is a cause for concern.",
+     "example_ko": "수요 감소로 인한 부동산 가격 하락은 우려의 원인이다."
+    }
+   ],
+   "nuance": "어떤 결과의 원인을 지목해 '~에 기인한'이라는 인과 관계를 나타내는 표현이다.",
+   "etym": "due(당연히 돌아갈, owed) + to → '~에 돌아갈 몫으로' → ~때문에 (due는 기본 어휘)"
+  },
+  {
+   "num": 47,
+   "word": "classify",
+   "senses": [
+    {
+     "synonyms": [
+      "categorize",
+      "arrange",
+      "assort",
+      "sort"
+     ],
+     "meaning": "분류하다",
+     "example": "It is the job of scientists to classify all living organisms into groups that can be applied universally.",
+     "example_ko": "모든 생물을 보편적으로 적용될 수 있는 집단으로 분류하는 것이 과학자들의 일이다."
+    }
+   ],
+   "nuance": "공통 기준에 따라 대상들을 갈래별로 나누어 정리한다는 뜻이다.",
+   "etym": "classis(등급, class) + facere(만들다, -fy) → '등급으로 나누다' → 분류하다"
+  },
+  {
+   "num": 48,
+   "word": "oblige",
+   "senses": [
+    {
+     "synonyms": [
+      "force",
+      "require",
+      "compel"
+     ],
+     "meaning": "의무적으로 ~하게 하다, 강요하다",
+     "example": "Roman emperors obliged their subjects to pay taxes, and those who refused were punished severely.",
+     "example_ko": "로마 황제들은 백성에게 세금을 내도록 강제했고, 거부한 자들은 가혹하게 처벌받았다."
+    }
+   ],
+   "nuance": "법·도덕·상황상 어쩔 수 없이 해야만 하도록 구속한다는 어감이다.",
+   "etym": "ob-(향하여) + ligare(묶다, bind) → '~하도록 묶다' → 의무 지우다, 강요하다"
+  },
+  {
+   "num": 49,
+   "word": "identical",
+   "senses": [
+    {
+     "synonyms": [
+      "same",
+      "indistinguishable",
+      "equal"
+     ],
+     "meaning": "동일한, 똑같은",
+     "example": "These two laptops are identical in size and weight, but they have different processing power.",
+     "example_ko": "이 두 노트북은 크기와 무게가 동일하지만, 처리 능력은 서로 다르다."
+    }
+   ],
+   "nuance": "구별할 수 없을 만큼 완전히 똑같음을 강조하는 말이다.",
+   "etym": "라틴어 idem(같은 것, the same) + -ical → '같은' → 동일한"
+  },
+  {
+   "num": 50,
+   "word": "intimately",
+   "senses": [
+    {
+     "synonyms": [
+      "closely",
+      "personally",
+      "deeply"
+     ],
+     "meaning": "친밀하게, 속속들이",
+     "example": "Friends who spend a lot of time together often get to know each other intimately.",
+     "example_ko": "많은 시간을 함께 보내는 친구들은 흔히 서로를 속속들이 알게 된다."
+    }
+   ],
+   "nuance": "겉핥기가 아니라 아주 가깝고 깊은 수준으로 알거나 관계 맺음을 나타낸다.",
+   "etym": "라틴어 intimus(가장 안쪽의, innermost) + -ly → '가장 깊은 곳까지' → 친밀하게"
+  },
+  {
+   "num": 51,
+   "word": "questionable",
+   "senses": [
+    {
+     "synonyms": [
+      "doubtful",
+      "suspicious",
+      "dubious"
+     ],
+     "meaning": "의심스러운, 미심쩍은",
+     "example": "The report's conclusions are questionable because the sample used was very small.",
+     "example_ko": "그 보고서의 결론은 사용된 표본이 매우 작았기 때문에 의심스럽다."
+    }
+   ],
+   "nuance": "옳거나 믿을 만한지 확신할 수 없어 의문의 여지가 있다는 어감이다.",
+   "etym": "question(의문) + -able(할 만한) → '의문을 제기할 만한' → 의심스러운"
+  },
+  {
+   "num": 52,
+   "word": "spot",
+   "senses": [
+    {
+     "synonyms": [
+      "detect",
+      "see",
+      "find",
+      "notice"
+     ],
+     "meaning": "발견하다, 알아채다, 포착하다",
+     "example": "Almost instinctively, Lewis spotted the lack of conviction in Ellen's tone.",
+     "example_ko": "거의 본능적으로 루이스는 엘런의 말투에서 확신이 없음을 알아챘다."
+    }
+   ],
+   "nuance": "찾기 어려운 것을 순간적으로 콕 집어 알아본다는 어감이다.",
+   "etym": "기본 어휘 — 통째로 암기"
+  },
+  {
+   "num": 53,
+   "word": "immerse",
+   "senses": [
+    {
+     "synonyms": [
+      "cover",
+      "plunge",
+      "dip",
+      "submerge"
+     ],
+     "meaning": "(물에) 잠기게 하다, 담그다",
+     "example": "Temporary spring lakes form in the valleys after the mountain snow melts and immerses everything in water.",
+     "example_ko": "산의 눈이 녹아 모든 것을 물에 잠기게 한 뒤 계곡에는 일시적인 봄철 호수가 생긴다."
+    }
+   ],
+   "nuance": "무언가를 액체 속에 완전히 푹 담가 잠기게 한다는 뜻이며, 비유적으로 '몰두하다'에도 쓴다.",
+   "etym": "im-(안으로) + mergere(담그다, dip) → '안으로 담그다' → 잠기게 하다"
+  },
+  {
+   "num": 54,
+   "word": "not in consensus with",
+   "senses": [
+    {
+     "synonyms": [
+      "not in agreement with",
+      "at odds with",
+      "in disagreement with"
+     ],
+     "meaning": "~와 의견이 일치하지 않는, ~에 동의하지 않는",
+     "example": "Residents of the city are not in consensus with the mayor about his plans for the future.",
+     "example_ko": "그 도시의 주민들은 미래를 위한 시장의 계획에 대해 의견이 일치하지 않는다."
+    }
+   ],
+   "nuance": "여럿의 합의된 견해에 이르지 못하고 서로 어긋나 있음을 나타내는 표현이다.",
+   "etym": "con-(함께) + sentire(느끼다, feel) → consensus '함께 느낌, 합의' → 합의하지 않은"
+  },
+  {
+   "num": 55,
+   "word": "tempted to",
+   "senses": [
+    {
+     "synonyms": [
+      "inclined to",
+      "drawn to",
+      "enticed to"
+     ],
+     "meaning": "~하고 싶은 마음이 드는, ~하도록 끌리는",
+     "example": "Sarah was tempted to buy the car when she saw the low price.",
+     "example_ko": "새라는 낮은 가격을 보자 그 차를 사고 싶은 마음이 들었다."
+    }
+   ],
+   "nuance": "안 하는 게 나을 수도 있는 일에 마음이 혹해 끌린다는 어감이다.",
+   "etym": "라틴어 temptare(시험하다, try) → tempt '유혹하다' → ~하고 싶어지는"
+  },
+  {
+   "num": 56,
+   "word": "inception",
+   "senses": [
+    {
+     "synonyms": [
+      "beginning",
+      "start",
+      "outset"
+     ],
+     "meaning": "시작, 개시, 발단",
+     "example": "Since its inception, the anti-smoking campaign has raised a lot of money.",
+     "example_ko": "시작된 이래로 그 금연 캠페인은 많은 돈을 모금해 왔다."
+    }
+   ],
+   "nuance": "조직·활동 등이 처음 시작되는 그 시점을 격식 있게 이르는 말이다.",
+   "etym": "in-(안으로) + capere(잡다, take) → '착수함' → 시작, 발단"
+  }
+ ]
+}
