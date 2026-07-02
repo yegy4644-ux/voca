@@ -192,7 +192,10 @@ function startStudy(mode){
   const loop = (mode==="study"||mode==="syn");   // 회독 방식: 1회독 다 돌고 → 못 외운 것만 다음 회독
   if(loop){   // 같은 범위의 진행 중 세션이 있으면 이어하기
     const saved = load(LS_SESS, null);
-    if(saved && saved.sig===scopeSig(mode) && saved.queueIds && saved.queueIds.length){
+    const cur = scopeSig(mode);
+    // 앞 3개(모드|from|to)만 비교 → 예전(단어수/옵션 포함) 형식도 인식
+    const sigMatch = saved && saved.sig && saved.sig.split("|").slice(0,3).join("|")===cur;
+    if(sigMatch && saved.queueIds && saved.queueIds.length){
       const byId = {}; WORDS.forEach(w=>byId[w.id]=w);
       const q = saved.queueIds.map(id=>byId[id]).filter(Boolean);
       if(q.length){
