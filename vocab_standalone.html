@@ -475,9 +475,8 @@ let S = null, timerId = null;
 function clearTimer(){ if(timerId){ clearInterval(timerId); timerId=null; } }
 
 /* ---- 세션 저장/이어하기 (외우기·동의어 회독) ---- */
-function scopeSig(mode){
-  return [mode, $("#catFrom").value, $("#catTo").value, $("#countSel").value,
-          $("#newFirst").checked?1:0, $("#ksOnly").checked?1:0].join("|");
+function scopeSig(mode){   // 범위+모드만으로 식별 → 단어수/정렬 옵션이 리로드로 초기화돼도 이어하기 유지
+  return [mode, $("#catFrom").value, $("#catTo").value].join("|");
 }
 function saveSession(){
   if(!S || !S.loop) return;
